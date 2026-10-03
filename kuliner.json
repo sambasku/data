@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "license": "CC BY-SA 4.0",
+  "kuliner": [
+    {
+      "id": "bubur-pedas-sambas",
+      "slug": "bubur-pedas-sambas",
+      "name": "Bubur Pedas Sambas",
+      "description": "Bubur kental beras dengan kuah kuning kental, berisi sayuran, kerupuk, telur, dan bumbu rempah khas Sambas. Disajikan hangat sebagai sarapan atau buka puasa.",
+      "license": "CC BY-SA 4.0",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/kuliner/bubur-pedas.webp",
+          "isMain": true,
+          "attribution": {
+            "name": "Koleksi SambasKu",
+            "provider": "sambasku",
+            "url": "https://sambasku.com",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "ingredients": [
+        "Beras",
+        "Santan",
+        "Kunyit",
+        "Daun salam",
+        "Sereh",
+        "Cabai rawit",
+        "Bawang merah",
+        "Bawang putih",
+        "Jahe",
+        "Kemiri",
+        "Kerupuk",
+        "Telur rebus",
+        "Sayuran (kacang panjang, wortel, kol)"
+      ],
+      "servingSuggestion": "Sajikan hangat dengan taburan bawang goreng, kerupuk, dan sambal terasi.",
+      "region": "Kota Sambas",
+      "tags": [
+        "sarapan",
+        "beras",
+        "pakis"
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia - Bubur Pedas",
+          "type": "web",
+          "address": "https://id.wikipedia.org/wiki/Bubur_pedas"
+        },
+        {
+          "name": "Wikibuku - Resep Bubur Pedas",
+          "type": "web",
+          "address": "https://id.wikibooks.org/wiki/Resep:Bubur_pedas"
+        }
+      ]
+    }
+  ]
+}
