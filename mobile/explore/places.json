@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "places": [
+    {
+      "id": "01M3ZWJ0KH7TCJ1K7KDDJE92D7",
+      "slug": "istana-alwatzikoebillah",
+      "name": "Istana Alwatzikoebillah",
+      "category": "wisata",
+      "type": "sejarah",
+      "lat": 1.361722806,
+      "lng": 109.3130395,
+      "shortDescription": "Istana Kesultanan Sambas di Desa Dalam Kaum, dibangun 1933 sampai 1935 pada masa Sultan Muhammad Mulia Ibrahim Syafiuddin.",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M400SFRTANSHQ4R6MAAA0VDD.webp",
+          "isMain": true,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Istana_Alwatzikoebillah_Sambas.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M401P844SWCEM3V60ABYNPCV.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Istana_Alwatzikoebillah_1.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M401P8442T6W6A77HZSAQX5E.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Istana_Alwatzikoebillah_3.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M401P844B53KD5MBT9B1XDXB.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Istana_Alwatzikoebillah_5.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M401P844NVVTAF43WKCZD2YF.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Istana_Alwatzikoebillah_13.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M401P844KFRGK0A09J5SRJA3.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Istana_Alwatzikoebillah_15.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "hours": null,
+      "contact": null,
+      "relatedWordIds": [],
+      "related": [
+        { "kind": "place", "id": "01M3ZWJ0KH1205XE74HC341B2V" }
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia - Istana Alwatzikoebillah",
+          "type": "web",
+          "address": "https://id.wikipedia.org/wiki/Istana_Alwatzikoebillah",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.id"
+        }
+      ]
+    },
+    {
+      "id": "01M3ZWJ0KH1205XE74HC341B2V",
+      "slug": "masjid-jami-sultan-muhammad-shafiuddin-ii",
+      "name": "Masjid Jami' Sultan Muhammad Shafiuddin II",
+      "category": "wisata",
+      "type": "sejarah",
+      "lat": 1.3611,
+      "lng": 109.3125,
+      "shortDescription": "Masjid keraton dua tingkat berusuk delapan tiang kayu belian, di selatan alun-alun Kesultanan Sambas.",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M401G8BVETWRG1Q02HA9FFSQ.webp",
+          "isMain": true,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Masjid_Jami%27_Sultan_Muhammad_Shafiuddin_II_Sambas.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "hours": null,
+      "contact": null,
+      "relatedWordIds": [],
+      "related": [
+        { "kind": "place", "id": "01M3ZWJ0KH7TCJ1K7KDDJE92D7" }
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia - Istana Alwatzikoebillah",
+          "type": "web",
+          "address": "https://id.wikipedia.org/wiki/Istana_Alwatzikoebillah",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.id"
+        }
+      ]
+    }
+  ]
+}
