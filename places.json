@@ -2,7 +2,7 @@
   "version": 1,
   "places": [
     {
-      "id": "01M3ZWJ0KH7TCJ1K7KDDJE92D7",
+      "id": "istana-alwatzikoebillah",
       "slug": "istana-alwatzikoebillah",
       "name": "Istana Alwatzikoebillah",
       "category": "wisata",
@@ -82,7 +82,7 @@
       "contact": null,
       "relatedWordIds": [],
       "related": [
-        { "kind": "place", "id": "01M3ZWJ0KH1205XE74HC341B2V" }
+        { "kind": "place", "id": "masjid-jami-sultan-muhammad-shafiuddin-ii" }
       ],
       "sources": [
         {
@@ -95,14 +95,14 @@
       ]
     },
     {
-      "id": "01M3ZWJ0KH1205XE74HC341B2V",
+      "id": "masjid-jami-sultan-muhammad-shafiuddin-ii",
       "slug": "masjid-jami-sultan-muhammad-shafiuddin-ii",
-      "name": "Masjid Jami' Sultan Muhammad Shafiuddin II",
+      "name": "Masjid Jami Keraton Sambas",
       "category": "wisata",
       "type": "sejarah",
       "lat": 1.3611,
       "lng": 109.3125,
-      "shortDescription": "Masjid keraton dua tingkat berusuk delapan tiang kayu belian, di selatan alun-alun Kesultanan Sambas.",
+      "shortDescription": "Masjid Jami Keraton Sambas adalah masjid yang berada di komplek keraton Kesultanan Sambas, Kota Sambas, Kalimantan Barat. Masjid yang resminya bernama Masjid Sultan Muhammad Syafi'oeddin II ini tercatat sebagai masjid tertua di Kalimantan Barat.",
       "images": [
         {
           "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M401G8BVETWRG1Q02HA9FFSQ.webp",
@@ -120,15 +120,15 @@
       "contact": null,
       "relatedWordIds": [],
       "related": [
-        { "kind": "place", "id": "01M3ZWJ0KH7TCJ1K7KDDJE92D7" }
+        { "kind": "place", "id": "istana-alwatzikoebillah" }
       ],
       "sources": [
         {
-          "name": "Wikipedia - Istana Alwatzikoebillah",
+          "name": "Wikipedia - Masjid Jami Keraton Sambas",
           "type": "web",
-          "address": "https://id.wikipedia.org/wiki/Istana_Alwatzikoebillah",
-          "license": "CC BY-SA 3.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.id"
+          "address": "https://id.wikipedia.org/wiki/Masjid_Jami_Keraton_Sambas",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.id"
         }
       ]
     }

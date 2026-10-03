@@ -2,7 +2,7 @@
   "version": 1,
   "cards": {
     "wotd": {
-      "imageUrl": "https://cdn.jsdelivr.net/gh/sambasku/data@main/mobile/assets/wotd_cover.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/sambasku/data@main/assets/wotd_cover.webp",
       "alignment": "bottomCenter"
     }
   }
