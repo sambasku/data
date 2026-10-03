@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "contributors": [
+    {
+      "id": "iamutaki",
+      "name": "Ibnul Mutaki",
+      "roles": [
+        "developer"
+      ],
+      "avatarUrl": "https://avatars.githubusercontent.com/iamutaki",
+      "url": "https://github.com/iamutaki",
+      "since": "2019-03-01",
+      "note": "Penggagas dan pengembang utama"
+    },
+    {
+      "id": "hanapi",
+      "name": "Hanapi",
+      "roles": [
+        "designer",
+        "illustrator"
+      ],
+      "avatarUrl": "https://avatars.githubusercontent.com/Han-ooman",
+      "url": "https://github.com/Han-ooman",
+      "since": "2026-09-01",
+      "note": null
+    }
+  ]
+}
