@@ -5,23 +5,25 @@
       "id": "iamutaki",
       "name": "Ibnul Mutaki",
       "roles": [
-        "developer"
+        "developer",
+        "maintainer"
       ],
       "avatarUrl": "https://avatars.githubusercontent.com/iamutaki",
       "url": "https://github.com/iamutaki",
       "since": "2019-03-01",
-      "note": "Penggagas dan pengembang utama"
+      "note": "Penggagas dan pengelola repositori"
     },
     {
       "id": "hanapi",
       "name": "Hanapi",
       "roles": [
-        "designer"
+        "designer",
+        "maintainer"
       ],
       "avatarUrl": "https://avatars.githubusercontent.com/Han-ooman",
       "url": "https://github.com/Han-ooman",
       "since": "2026-09-01",
-      "note": "Kontributor desain dan ilustrasi"
+      "note": "Ilustrator dan pengelola aset grafis"
     }
   ]
 }

@@ -1,1 +1,42 @@
 # data
+
+Sumber data statis publik (dilayani via jsDelivr: `cdn.jsdelivr.net/gh/sambasku/data@main/...`).
+
+## regions.json / regions.geojson
+
+Wilayah Kabupaten Sambas: 19 kecamatan, 195 desa/kelurahan.
+
+| Sumber | Lisensi |
+| ------ | ------- |
+| [geoBoundaries gbHumanitarian IDN ADM3](https://www.geoboundaries.org/countryDownloads.html?id=IDN-ADM3) (polygon kecamatan) | CC BY 3.0 IGO |
+| [Wikidata daftar desa Kab. Sambas](https://www.wikidata.org/wiki/Q14164) (daftar desa) | CC0 |
+
+Lisensi gabungan: CC BY-SA 4.0. Metadata juga tertanam di field `sources` regions.json.
+
+Catatan: `id` memakai slug internal (`kecamatan/desa`), bukan kode Kemendagri. Semua entri
+level desa berlabel `desa` (tidak dibedakan dari kelurahan).
+
+## regions-ref-kemendagri.json
+
+Subset kode wilayah Kemendagri untuk Kab. Sambas, untuk dikompare/di-join dengan
+regions.json.
+
+| Sumber | Lisensi |
+| ------ | ------- |
+| [open-admin-data/indonesia-administrative-divisions](https://github.com/open-admin-data/indonesia-administrative-divisions) | CC-BY-4.0 |
+
+Snapshot Kepmendagri 184 desa, sedangkan regions.json 195 (beda tahun snapshot; ada
+desa yang di-split/gabung). Berisi kode + nama kecamatan dan desa.
+
+## scripts/regions_connector.py
+
+Konektor read-only antara regions.json dan regions-ref-kemendagri.json. Stdlib saja.
+
+```bash
+python3 scripts/regions_connector.py           # laporan kompare (match/unmatch)
+python3 scripts/regions_connector.py --enrich  # tulis data/regions-with-codes.draft.json
+```
+
+Output `data/regions-with-codes.draft.json` = schema regions.json + field `code` (Kemendagri)
+untuk region yang match. Draft, jangan dipakai produksi sebelum 12 desa unmatched
+ditinjau.

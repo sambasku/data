@@ -1,0 +1,1219 @@
+{
+  "version": 1,
+  "license": "CC-BY-4.0",
+  "source": {
+    "name": "open-admin-data/indonesia-administrative-divisions",
+    "address": "https://github.com/open-admin-data/indonesia-administrative-divisions",
+    "retrieved": "2026-10-04",
+    "note": "Kode Kemendagri; snapshot bisa beda tahun dengan regions.json"
+  },
+  "kabupaten": {
+    "code": "6101",
+    "name": "Kabupaten Sambas",
+    "province_code": "61",
+    "province_name": "Kalimantan Barat"
+  },
+  "kecamatan": [
+    {
+      "code": "6101061",
+      "name": "Galing",
+      "slug": "galing"
+    },
+    {
+      "code": "6101050",
+      "name": "Jawai",
+      "slug": "jawai"
+    },
+    {
+      "code": "6101051",
+      "name": "Jawai Selatan",
+      "slug": "jawai-selatan"
+    },
+    {
+      "code": "6101090",
+      "name": "Paloh",
+      "slug": "paloh"
+    },
+    {
+      "code": "6101020",
+      "name": "Pemangkat",
+      "slug": "pemangkat"
+    },
+    {
+      "code": "6101043",
+      "name": "Sajad",
+      "slug": "sajad"
+    },
+    {
+      "code": "6101080",
+      "name": "Sajingan Besar",
+      "slug": "sajingan-besar"
+    },
+    {
+      "code": "6101022",
+      "name": "Salatiga",
+      "slug": "salatiga"
+    },
+    {
+      "code": "6101040",
+      "name": "Sambas",
+      "slug": "sambas"
+    },
+    {
+      "code": "6101042",
+      "name": "Sebawi",
+      "slug": "sebawi"
+    },
+    {
+      "code": "6101070",
+      "name": "Sejangkung",
+      "slug": "sejangkung"
+    },
+    {
+      "code": "6101010",
+      "name": "Selakau",
+      "slug": "selakau"
+    },
+    {
+      "code": "6101011",
+      "name": "Selakau Timur",
+      "slug": "selakau-timur"
+    },
+    {
+      "code": "6101021",
+      "name": "Semparuk",
+      "slug": "semparuk"
+    },
+    {
+      "code": "6101041",
+      "name": "Subah",
+      "slug": "subah"
+    },
+    {
+      "code": "6101062",
+      "name": "Tangaran",
+      "slug": "tangaran"
+    },
+    {
+      "code": "6101030",
+      "name": "Tebas",
+      "slug": "tebas"
+    },
+    {
+      "code": "6101031",
+      "name": "Tekarang",
+      "slug": "tekarang"
+    },
+    {
+      "code": "6101060",
+      "name": "Teluk Keramat",
+      "slug": "teluk-keramat"
+    }
+  ],
+  "desa": [
+    {
+      "code": "6101061005",
+      "name": "Galing",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061001",
+      "name": "Ratu Sepudak",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061003",
+      "name": "Sagu",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061009",
+      "name": "Sijang",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061002",
+      "name": "Sungai Palah",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061010",
+      "name": "Teluk Pandan",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061006",
+      "name": "Tempapan Hulu",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061004",
+      "name": "Tempapan Kuala",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061008",
+      "name": "Tri Gaduh",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101061007",
+      "name": "Tri Kembang",
+      "kecamatan_code": "6101061",
+      "kecamatan_slug": "galing"
+    },
+    {
+      "code": "6101050013",
+      "name": "Bakau",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050010",
+      "name": "Dungun Laut",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050021",
+      "name": "Lambau",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050022",
+      "name": "Mutus Darussalam",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050014",
+      "name": "Parit Setia",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050015",
+      "name": "Pelimpaan",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050020",
+      "name": "Sarang Burung Danau",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050018",
+      "name": "Sarang Burung Kolam",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050016",
+      "name": "Sarang Burung Kuala",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050017",
+      "name": "Sarang Burung Usrat",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050019",
+      "name": "Sei Nilam",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050012",
+      "name": "Sei Nyirih",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101050011",
+      "name": "Sentebang",
+      "kecamatan_code": "6101050",
+      "kecamatan_slug": "jawai"
+    },
+    {
+      "code": "6101051001",
+      "name": "Jawai Laut",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051002",
+      "name": "Jelu Air",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051008",
+      "name": "Matang Terap",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051005",
+      "name": "Sabaran",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051007",
+      "name": "Sarilaba A",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051003",
+      "name": "Sarilaba B",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051006",
+      "name": "Semperiuk A",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051004",
+      "name": "Semperiuk B",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101051009",
+      "name": "Suah Api",
+      "kecamatan_code": "6101051",
+      "kecamatan_slug": "jawai-selatan"
+    },
+    {
+      "code": "6101090001",
+      "name": "Kalimantan",
+      "kecamatan_code": "6101090",
+      "kecamatan_slug": "paloh"
+    },
+    {
+      "code": "6101090004",
+      "name": "Malek",
+      "kecamatan_code": "6101090",
+      "kecamatan_slug": "paloh"
+    },
+    {
+      "code": "6101090002",
+      "name": "Matang Danau",
+      "kecamatan_code": "6101090",
+      "kecamatan_slug": "paloh"
+    },
+    {
+      "code": "6101090008",
+      "name": "Mentibar",
+      "kecamatan_code": "6101090",
+      "kecamatan_slug": "paloh"
+    },
+    {
+      "code": "6101090005",
+      "name": "Nibung",
+      "kecamatan_code": "6101090",
+      "kecamatan_slug": "paloh"
+    },
+    {
+      "code": "6101090003",
+      "name": "Tanah Hitam",
+      "kecamatan_code": "6101090",
+      "kecamatan_slug": "paloh"
+    },
+    {
+      "code": "6101090007",
+      "name": "Temajuk",
+      "kecamatan_code": "6101090",
+      "kecamatan_slug": "paloh"
+    },
+    {
+      "code": "6101020017",
+      "name": "Gugah Sejahtera",
+      "kecamatan_code": "6101020",
+      "kecamatan_slug": "pemangkat"
+    },
+    {
+      "code": "6101020013",
+      "name": "Harapan",
+      "kecamatan_code": "6101020",
+      "kecamatan_slug": "pemangkat"
+    },
+    {
+      "code": "6101020018",
+      "name": "Lonam",
+      "kecamatan_code": "6101020",
+      "kecamatan_slug": "pemangkat"
+    },
+    {
+      "code": "6101020015",
+      "name": "Pemangkat Kota",
+      "kecamatan_code": "6101020",
+      "kecamatan_slug": "pemangkat"
+    },
+    {
+      "code": "6101020014",
+      "name": "Penjajap",
+      "kecamatan_code": "6101020",
+      "kecamatan_slug": "pemangkat"
+    },
+    {
+      "code": "6101020011",
+      "name": "Perapakan",
+      "kecamatan_code": "6101020",
+      "kecamatan_slug": "pemangkat"
+    },
+    {
+      "code": "6101020016",
+      "name": "Sebatuan",
+      "kecamatan_code": "6101020",
+      "kecamatan_slug": "pemangkat"
+    },
+    {
+      "code": "6101043004",
+      "name": "Beringin",
+      "kecamatan_code": "6101043",
+      "kecamatan_slug": "sajad"
+    },
+    {
+      "code": "6101043001",
+      "name": "Jirak",
+      "kecamatan_code": "6101043",
+      "kecamatan_slug": "sajad"
+    },
+    {
+      "code": "6101043003",
+      "name": "Mekar Jaya",
+      "kecamatan_code": "6101043",
+      "kecamatan_slug": "sajad"
+    },
+    {
+      "code": "6101043002",
+      "name": "Tengguli",
+      "kecamatan_code": "6101043",
+      "kecamatan_slug": "sajad"
+    },
+    {
+      "code": "6101080002",
+      "name": "Kaliau'",
+      "kecamatan_code": "6101080",
+      "kecamatan_slug": "sajingan-besar"
+    },
+    {
+      "code": "6101080003",
+      "name": "Sanatab",
+      "kecamatan_code": "6101080",
+      "kecamatan_slug": "sajingan-besar"
+    },
+    {
+      "code": "6101080004",
+      "name": "Santaban",
+      "kecamatan_code": "6101080",
+      "kecamatan_slug": "sajingan-besar"
+    },
+    {
+      "code": "6101080001",
+      "name": "Sebunga'",
+      "kecamatan_code": "6101080",
+      "kecamatan_slug": "sajingan-besar"
+    },
+    {
+      "code": "6101080005",
+      "name": "Sei Bening",
+      "kecamatan_code": "6101080",
+      "kecamatan_slug": "sajingan-besar"
+    },
+    {
+      "code": "6101022001",
+      "name": "Parit Baru",
+      "kecamatan_code": "6101022",
+      "kecamatan_slug": "salatiga"
+    },
+    {
+      "code": "6101022002",
+      "name": "Salatiga",
+      "kecamatan_code": "6101022",
+      "kecamatan_slug": "salatiga"
+    },
+    {
+      "code": "6101022005",
+      "name": "Serunai",
+      "kecamatan_code": "6101022",
+      "kecamatan_slug": "salatiga"
+    },
+    {
+      "code": "6101022003",
+      "name": "Sungai Toman",
+      "kecamatan_code": "6101022",
+      "kecamatan_slug": "salatiga"
+    },
+    {
+      "code": "6101040029",
+      "name": "Dalam Kaum",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040024",
+      "name": "Durian",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040020",
+      "name": "Gapura",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040032",
+      "name": "Jagur",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040021",
+      "name": "Kartiasa",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040033",
+      "name": "Lorong",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040028",
+      "name": "Lubuk Dagang",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040023",
+      "name": "Lumbang",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040025",
+      "name": "Pasar Melayu",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040026",
+      "name": "Pendawan",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040022",
+      "name": "Saing Rambi",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040034",
+      "name": "Sebayan",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040019",
+      "name": "Sei Rambah",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040040",
+      "name": "Semangau",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040035",
+      "name": "Sumber Harapan",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040027",
+      "name": "Tanjung Bugis",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040030",
+      "name": "Tanjung Mekar",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101040031",
+      "name": "Tumuk Manggis",
+      "kecamatan_code": "6101040",
+      "kecamatan_slug": "sambas"
+    },
+    {
+      "code": "6101042004",
+      "name": "Sebangun",
+      "kecamatan_code": "6101042",
+      "kecamatan_slug": "sebawi"
+    },
+    {
+      "code": "6101042001",
+      "name": "Sebawi",
+      "kecamatan_code": "6101042",
+      "kecamatan_slug": "sebawi"
+    },
+    {
+      "code": "6101042007",
+      "name": "Semanjang",
+      "kecamatan_code": "6101042",
+      "kecamatan_slug": "sebawi"
+    },
+    {
+      "code": "6101042002",
+      "name": "Sempelai Sebedang",
+      "kecamatan_code": "6101042",
+      "kecamatan_slug": "sebawi"
+    },
+    {
+      "code": "6101042003",
+      "name": "Sepuk Tanjung",
+      "kecamatan_code": "6101042",
+      "kecamatan_slug": "sebawi"
+    },
+    {
+      "code": "6101042006",
+      "name": "Tebing Batu",
+      "kecamatan_code": "6101042",
+      "kecamatan_slug": "sebawi"
+    },
+    {
+      "code": "6101042005",
+      "name": "Tempatan",
+      "kecamatan_code": "6101042",
+      "kecamatan_slug": "sebawi"
+    },
+    {
+      "code": "6101070007",
+      "name": "Parit Raja",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070011",
+      "name": "Penakalan",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070006",
+      "name": "Perigi Landu",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070003",
+      "name": "Perigi Limus",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070008",
+      "name": "Piantus",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070002",
+      "name": "Semanga",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070005",
+      "name": "Sendoyan",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070001",
+      "name": "Sepantai",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101070010",
+      "name": "Setalik",
+      "kecamatan_code": "6101070",
+      "kecamatan_slug": "sejangkung"
+    },
+    {
+      "code": "6101010009",
+      "name": "Bentunai",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010011",
+      "name": "Gayung Bersambut",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010006",
+      "name": "Kuala",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010004",
+      "name": "Pangkalan Bemban",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010007",
+      "name": "Parit Baru",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010010",
+      "name": "Parit Kongsi",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010001",
+      "name": "Semelagi Besar",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010002",
+      "name": "Sungai Daun",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010005",
+      "name": "Sungai Nyirih",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010003",
+      "name": "Sungai Rusa",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101010008",
+      "name": "Twi Mentibar",
+      "kecamatan_code": "6101010",
+      "kecamatan_slug": "selakau"
+    },
+    {
+      "code": "6101011004",
+      "name": "Buduk Sempadang",
+      "kecamatan_code": "6101011",
+      "kecamatan_slug": "selakau-timur"
+    },
+    {
+      "code": "6101011001",
+      "name": "Gelik",
+      "kecamatan_code": "6101011",
+      "kecamatan_slug": "selakau-timur"
+    },
+    {
+      "code": "6101011003",
+      "name": "Selakau Tua",
+      "kecamatan_code": "6101011",
+      "kecamatan_slug": "selakau-timur"
+    },
+    {
+      "code": "6101011002",
+      "name": "Seranggam",
+      "kecamatan_code": "6101011",
+      "kecamatan_slug": "selakau-timur"
+    },
+    {
+      "code": "6101021001",
+      "name": "Seburing",
+      "kecamatan_code": "6101021",
+      "kecamatan_slug": "semparuk"
+    },
+    {
+      "code": "6101021004",
+      "name": "Semparuk",
+      "kecamatan_code": "6101021",
+      "kecamatan_slug": "semparuk"
+    },
+    {
+      "code": "6101021002",
+      "name": "Sepadu",
+      "kecamatan_code": "6101021",
+      "kecamatan_slug": "semparuk"
+    },
+    {
+      "code": "6101021003",
+      "name": "Sepinggan",
+      "kecamatan_code": "6101021",
+      "kecamatan_slug": "semparuk"
+    },
+    {
+      "code": "6101021005",
+      "name": "Singaraya",
+      "kecamatan_code": "6101021",
+      "kecamatan_slug": "semparuk"
+    },
+    {
+      "code": "6101041010",
+      "name": "Balai Gemuruh",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041005",
+      "name": "Bukit Mulya",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041009",
+      "name": "Karaban Jaya",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041011",
+      "name": "Madak",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041002",
+      "name": "Mensade",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041008",
+      "name": "Mukti Raharja",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041007",
+      "name": "Sabung",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041006",
+      "name": "Sei Deden",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041003",
+      "name": "Sei Sapak",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041004",
+      "name": "Sempurna",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101041001",
+      "name": "Tebuah Elok",
+      "kecamatan_code": "6101041",
+      "kecamatan_slug": "subah"
+    },
+    {
+      "code": "6101062008",
+      "name": "Arung Medang",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101062006",
+      "name": "Arung Parak",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101062007",
+      "name": "Merabuan",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101062003",
+      "name": "Merpati",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101062005",
+      "name": "Pancur",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101062001",
+      "name": "Semata",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101062004",
+      "name": "Simpang Empat",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101062002",
+      "name": "Tangaran",
+      "kecamatan_code": "6101062",
+      "kecamatan_slug": "tangaran"
+    },
+    {
+      "code": "6101030003",
+      "name": "Batu Makjage",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030004",
+      "name": "Bukit Segoler",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030014",
+      "name": "Dungun Perapakan",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030020",
+      "name": "Mak Rampai",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030007",
+      "name": "Mak Tangguk",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030002",
+      "name": "Maribas",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030006",
+      "name": "Matang Labung",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030022",
+      "name": "Mekar Sekuntum",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030013",
+      "name": "Pangkalan Kongsi",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030009",
+      "name": "Pusaka",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030017",
+      "name": "Seberkat",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030023",
+      "name": "Segarau Parit",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030008",
+      "name": "Segedong",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030016",
+      "name": "Sejiram",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030018",
+      "name": "Sempalai",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030001",
+      "name": "Seret Ayon",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030005",
+      "name": "Serindang",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030011",
+      "name": "Sungai Kelambu",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030021",
+      "name": "Tebas Kuala",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101030015",
+      "name": "Tebas Sungai",
+      "kecamatan_code": "6101030",
+      "kecamatan_slug": "tebas"
+    },
+    {
+      "code": "6101031006",
+      "name": "Cepala",
+      "kecamatan_code": "6101031",
+      "kecamatan_slug": "tekarang"
+    },
+    {
+      "code": "6101031001",
+      "name": "Matang Segarau",
+      "kecamatan_code": "6101031",
+      "kecamatan_slug": "tekarang"
+    },
+    {
+      "code": "6101031007",
+      "name": "Merubong",
+      "kecamatan_code": "6101031",
+      "kecamatan_slug": "tekarang"
+    },
+    {
+      "code": "6101031002",
+      "name": "Rambayan",
+      "kecamatan_code": "6101031",
+      "kecamatan_slug": "tekarang"
+    },
+    {
+      "code": "6101031003",
+      "name": "Sari Makmur",
+      "kecamatan_code": "6101031",
+      "kecamatan_slug": "tekarang"
+    },
+    {
+      "code": "6101031005",
+      "name": "Sempadian",
+      "kecamatan_code": "6101031",
+      "kecamatan_slug": "tekarang"
+    },
+    {
+      "code": "6101031004",
+      "name": "Tekarang",
+      "kecamatan_code": "6101031",
+      "kecamatan_slug": "tekarang"
+    },
+    {
+      "code": "6101060004",
+      "name": "Berlimang",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060019",
+      "name": "Kuala Pangkalan Keramat",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060006",
+      "name": "Kubangga",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060008",
+      "name": "Lela",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060036",
+      "name": "Matang Segantar",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060020",
+      "name": "Mekar Sekuntum",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060035",
+      "name": "Mulia",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060023",
+      "name": "Pedada",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060027",
+      "name": "Pipit Teja",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060005",
+      "name": "Puringan",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060037",
+      "name": "Sabing",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060026",
+      "name": "Samustida",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060025",
+      "name": "Sayang Sedayu",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060013",
+      "name": "Sebagu",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060010",
+      "name": "Sekura",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060002",
+      "name": "Sengawang",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060011",
+      "name": "Sepadu",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060003",
+      "name": "Sungai Baru",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060009",
+      "name": "Sungai Kumpai",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060022",
+      "name": "Sungai Serabek",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060007",
+      "name": "Tambatan",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060012",
+      "name": "Tanjung Keracut",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060001",
+      "name": "Teluk Kaseh",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060021",
+      "name": "Teluk Kembang",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    },
+    {
+      "code": "6101060024",
+      "name": "Tri Mandayan",
+      "kecamatan_code": "6101060",
+      "kecamatan_slug": "teluk-keramat"
+    }
+  ]
+}

@@ -10,6 +10,7 @@
       "type": "sejarah",
       "lat": 1.361722806,
       "lng": 109.3130395,
+      "regionId": "sambas",
       "shortDescription": "Istana Kesultanan Sambas di Desa Dalam Kaum, dibangun 1933 sampai 1935 pada masa Sultan Muhammad Mulia Ibrahim Syafiuddin.",
       "images": [
         {
@@ -103,6 +104,7 @@
       "type": "sejarah",
       "lat": 1.3611,
       "lng": 109.3125,
+      "regionId": "sambas",
       "shortDescription": "Masjid Jami Keraton Sambas adalah masjid yang berada di komplek keraton Kesultanan Sambas, Kota Sambas, Kalimantan Barat. Masjid yang resminya bernama Masjid Sultan Muhammad Syafi'oeddin II ini tercatat sebagai masjid tertua di Kalimantan Barat.",
       "images": [
         {
