@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC BY-SA 4.0",
-  "kuliner": [
+  "cuisines": [
     {
       "id": "bubur-pedas-sambas",
       "slug": "bubur-pedas-sambas",
@@ -13,11 +13,11 @@
           "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/kuliner/bubur-pedas.webp",
           "isMain": true,
           "attribution": {
-            "name": "Koleksi SambasKu",
-            "provider": "sambasku",
-            "url": "https://sambasku.com",
-            "license": "CC BY-SA 4.0",
-            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            "name": "Wibowo Djatmiko (Wie146)",
+            "provider": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Bubur_100618-4100_sbs.jpg",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
           }
         }
       ],
