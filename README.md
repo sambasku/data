@@ -16,6 +16,16 @@ Lisensi gabungan: CC BY-SA 4.0. Metadata juga tertanam di field `sources` region
 Catatan: `id` memakai slug internal (`kecamatan/desa`), bukan kode Kemendagri. Semua entri
 level desa berlabel `desa` (tidak dibedakan dari kelurahan).
 
+## places.json
+
+Objek wisata: 2 entri kurasional + 180 entri dari [Open Data Sambas](https://opendata.sambas.go.id) (dataset 116, opendata.sambas.go.id/json/116, 2023, `uraian`/`keterangan`/`jumlah`).
+
+| Sumber | Lisensi |
+| ------ | ------- |
+| [Open Data Sambas - dataset 116](https://opendata.sambas.go.id/json/116) | CC BY-SA 4.0 |
+
+Atribusi tiap entri tertanam di `sources` (`name: Open Data Sambas - Objek Wisata (dataset 116)`). Entri Open Data belum punya koordinat (`lat`/`lng` null) dan pakai gambar placeholder Elementor (`images[].url`), menunggu foto asli di repo `images`. `regionId` = kecamatan pertama bila sumber mencantumkan lebih dari satu kecamatan.
+
 ## regions-ref-kemendagri.json
 
 Subset kode wilayah Kemendagri untuk Kab. Sambas, untuk dikompare/di-join dengan
