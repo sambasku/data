@@ -24,6 +24,17 @@
       "url": "https://github.com/Han-ooman",
       "since": "2026-09-01",
       "note": "Ilustrator dan pengelola aset grafis"
+    },
+    {
+      "id": "arsa-irfandi",
+      "name": "Arsa Irfandi, S.Tr.Par",
+      "roles": [
+        "data-kontributor"
+      ],
+      "avatarUrl": "https://wsrv.nl/?url=cdn.jsdelivr.net%2Fgh%2Fsambasku%2Fimages%40main%2Fassets%2Favatars%2F01M3VE0N7EC6E7B8ZNDTRHK4QG%2F01M3YY5MTRNRRF49TPH6K6GPB5.webp&w=112&fit=cover&output=webp",
+      "url": "-",
+      "since": "2026-10-01",
+      "note": "Kontributor data dan informasi wisata"
     }
   ]
 }
