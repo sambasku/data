@@ -29,7 +29,7 @@ jobs:
           # file baru otomatis terpurge tanpa aturan tambahan.
           # Batas jsDelivr: paket max 50 file per request purge.
           FILES=$(git ls-files \
-            | grep -v '^\\.DS_Store$' \
+            | grep -vF '.DS_Store' \
             | sed 's|^|/gh/sambasku/data@main/|')
           COUNT=$(echo "$FILES" | wc -l | tr -d ' ')
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
