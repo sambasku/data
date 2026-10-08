@@ -114,4 +114,5 @@ Jawai memiliki 3 [TK](https://id.wikipedia.org/wiki/Taman_Kanak-kanak), 31 [SD](
 - SMKN 1 Jawai, Desa Sarang Burung Usrat
 
 ---
+
 Artikel: [Wikipedia bahasa Indonesia](https://id.wikipedia.org/wiki/Jawai%2C_Sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
