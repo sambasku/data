@@ -50,3 +50,17 @@ python3 scripts/regions_connector.py --enrich  # tulis data/regions-with-codes.d
 Output `data/regions-with-codes.draft.json` = schema regions.json + field `code` (Kemendagri)
 untuk region yang match. Draft, jangan dipakai produksi sebelum 12 desa unmatched
 ditinjau.
+
+
+## Rules CDN (jsDelivr)
+
+1. **Setiap push ke `main` otomatis purge seluruh file** via GitHub Action
+   `.github/workflows/purge-jsdelivr.yml` (purge penuh, chunk 50 path/request).
+   Tidak perlu purge manual lagi.
+2. **Menambah file data baru**: cukup `git add` + commit + push ke `main` -
+   workflow purge otomatis meng-cover file baru (purge penuh, bukan diff).
+   File baru bisa langsung diakes via `https://cdn.jsdelivr.net/gh/sambasku/data@main/<path>`
+   setelah workflow selesai (~1 menit).
+3. **Setelah push, cek Action hijau** (tab Actions repo data) bila file baru
+   dibutuhkan segera; purge pending maksimal beberapa menit.
+4. Jangan hapus workflow ini; cache jsDelivr ~12 jam tanpa purge.
