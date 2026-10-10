@@ -106,8 +106,8 @@
       "name": "Masjid Jami Keraton Sambas",
       "category": "wisata",
       "type": "sejarah",
-      "lat": 1.3611,
-      "lng": 109.3125,
+      "lat": 1.37515,
+      "lng": 109.31792,
       "regionId": "sambas",
       "shortDescription": "Masjid Jami Keraton Sambas adalah masjid yang berada di komplek keraton Kesultanan Sambas, Kota Sambas, Kalimantan Barat. Masjid yang resminya bernama Masjid Sultan Muhammad Syafi'oeddin II ini tercatat sebagai masjid tertua di Kalimantan Barat.",
       "images": [
@@ -139,6 +139,13 @@
           "address": "https://id.wikipedia.org/wiki/Masjid_Jami_Keraton_Sambas",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.id"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Masjid Jami' Kesultanan Sambas",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/26499",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/RW2zZF7f3Go3BRi77"
@@ -187,8 +194,8 @@
       "name": "Makam Kesultanan Sambas dan Kerabat",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.3617004,
-      "lng": 109.3156473,
+      "lat": 1.37722,
+      "lng": 109.31518,
       "regionId": "sambas",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -215,6 +222,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Makam Kesultan Sambas dan Kerabat",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/26491",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/M4Yd5VSZz28vB6im7"
@@ -486,8 +500,8 @@
       "name": "Markas Polisi Belanda",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.1738209,
-      "lng": 108.992482,
+      "lat": 1.17619106,
+      "lng": 108.97035502,
       "regionId": "pemangkat",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -514,6 +528,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Markas  Polisi Belanda",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/37213",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/rzcBrfThWM5NvB1DA"
@@ -600,8 +621,8 @@
       "name": "Benteng Peninggalan Belanda",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.181607,
-      "lng": 108.9693382,
+      "lat": 1.15534701864,
+      "lng": 108.9482983172,
       "regionId": "pemangkat",
       "shortDescription": "Sisa bangunan benteng Belanda di pusat Kota Pemangkat, bukti kehadiran kolonial di pesisir Sambas pada abad ke-18 dan ke-19. Bangunan batu dengan fondasi kokoh masih berdiri, jadi pengingat masa lalu wilayah ini. Lokasinya dekat dengan pusat kota.",
       "images": [
@@ -628,6 +649,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Benteng Peninggalan Belanda",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/37231",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/Ctwitz1SRefnpFGy9"
@@ -714,8 +742,8 @@
       "name": "Pantai Tanjung Batu",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.181607,
-      "lng": 108.9693382,
+      "lat": 1.157062631,
+      "lng": 108.979536,
       "regionId": "pemangkat",
       "shortDescription": "Pantai di Desa Pemangkat Kota, Kecamatan Pemangkat, dengan hamparan pasir yang landai dan air laut yang tenang. Tempat yang pas untuk jalan santai di tepi pantai sambil menunggu matahari terbenam. Aksesnya dekat dari jalan utama Sambas-Pemangkat.",
       "images": [
@@ -742,6 +770,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Tanjung Batu",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/39036",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/CZz6HChfqfyeqM1B9"
@@ -866,8 +901,8 @@
       "name": "Taman Istana Putri Danau Sebedang",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.2577544,
-      "lng": 109.1952949,
+      "lat": 1.36454144,
+      "lng": 109.3230984,
       "regionId": "sebawi",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -894,6 +929,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Taman Lunggi Sambas",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/30282",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/o7q6pwHkM79QrZqC9"
@@ -1039,8 +1081,8 @@
       "name": "Pantai Tanjung Lestari",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.6318345,
-      "lng": 109.2219144,
+      "lat": 1.6326494,
+      "lng": 109.2217426,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1067,6 +1109,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Tanjung Lestari Paloh",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/27882",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/epsVQjEKcxQ4itpF9"
@@ -1153,8 +1202,8 @@
       "name": "Pantai Kampak Indah",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.9052714,
-      "lng": 109.3310867,
+      "lat": 1.96017178783,
+      "lng": 109.350546466,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1181,6 +1230,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Kampak Indah",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/27886",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/zKpZ8xB4Wwp2JbJg7"
@@ -1191,8 +1247,8 @@
       "name": "Pantai Camar Bulan",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.9921053,
-      "lng": 109.5892862,
+      "lat": 1.992341189708762,
+      "lng": 109.58931838195315,
       "regionId": "paloh",
       "shortDescription": "Pantai berpasir putih di Desa Temajuk, Kecamatan Paloh, titik paling barat Kalimantan yang berbatasan langsung dengan Sarawak, Malaysia. Dinamai Camar Bulan karena sering didatangi burung camar, terutama saat musim burung migran. Pemandangannya luas, langit membentang, ombak khas pantai barat Kalimantan.",
       "images": [
@@ -1239,6 +1295,13 @@
           "type": "web",
           "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_camar_bulan",
           "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Camar Bulan",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/53106",
+          "license": "Data Resmi Kementerian Pariwisata RI",
           "licenseUrl": null
         }
       ],
@@ -1421,8 +1484,8 @@
       "name": "Pantai Telok Atong Bahari",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 2.0426479,
-      "lng": 109.6153434,
+      "lat": 2.043977297829329,
+      "lng": 109.61517145824173,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1469,6 +1532,13 @@
           "type": "web",
           "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_teluk_atong",
           "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Teluk Atong",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/129026",
+          "license": "Data Resmi Kementerian Pariwisata RI",
           "licenseUrl": null
         }
       ],
@@ -1518,8 +1588,8 @@
       "name": "Pantai Kalimantan",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.631506,
-      "lng": 109.2185712,
+      "lat": 1.84966189,
+      "lng": 109.4002856,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1546,6 +1616,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Kalimantan Paloh",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/39018",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/fmRL6GcgD2mS3NsY9"
@@ -1556,8 +1633,8 @@
       "name": "Pantai Teluk Cemara Guntung",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.6502905,
-      "lng": 109.245358,
+      "lat": 1.908681642,
+      "lng": 109.3824329,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1584,6 +1661,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Tiara",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/53277",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/hux1N8qLjeCNT2T5A"
@@ -1727,8 +1811,8 @@
       "name": "TWA Sungai Liku",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.7494435,
-      "lng": 109.3001099,
+      "lat": 1.7433012,
+      "lng": 109.3164602,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1755,6 +1839,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Taman Wisata Alam Sungai Liku",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/36190",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/WmJMKxk5sQj2VXwv7"
@@ -1840,8 +1931,8 @@
       "name": "TWA Tanjung Belimbing",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.7951776,
-      "lng": 109.3093628,
+      "lat": 1.795456411,
+      "lng": 109.30944862,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1888,6 +1979,13 @@
           "address": "https://jadesta.kemenpar.go.id/atraksi/twa_tanjung_belimbing__pantai_selimpai",
           "license": "Hak cipta Kementerian Pariwisata RI",
           "licenseUrl": null
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Taman Wisata Alam Tanjung Belimbing",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/32678",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/KqMyiGES3geEr3PbA"
@@ -1898,8 +1996,8 @@
       "name": "Taman Rekreasi Batu Bejamban",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.8767724,
-      "lng": 109.4500528,
+      "lat": 1.8769757833,
+      "lng": 109.450007107,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -1946,6 +2044,13 @@
           "type": "web",
           "address": "https://jadesta.kemenpar.go.id/atraksi/misteri_batu_bejamban",
           "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Batu  Bejamban",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/37197",
+          "license": "Data Resmi Kementerian Pariwisata RI",
           "licenseUrl": null
         }
       ],
@@ -2074,8 +2179,8 @@
       "name": "Taman Wisata Mangrove Sebubus",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.7833592,
-      "lng": 109.334872,
+      "lat": 1.7835380245618957,
+      "lng": 109.33488484883115,
       "regionId": "paloh",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -2102,6 +2207,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Ekowisata Mangrove Sebubus",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/53308",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/xczqJ5V7nWUtPpyH8"
@@ -2412,8 +2524,8 @@
       "name": "Pantai Dataran Merdeka",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.5725352,
-      "lng": 109.1107295,
+      "lat": 1.540573,
+      "lng": 109.1128496,
       "regionId": "tangaran",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -2440,6 +2552,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Pantai Dataran Merdeka",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/39009",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/k9vdXN4MB69gnZbN6"
@@ -2563,8 +2682,8 @@
       "name": "Makam Dato’ Timalar Tan Azis Bujang",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": null,
-      "lng": null,
+      "lat": 1.59338208616,
+      "lng": 109.32232359,
       "regionId": "galing",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -2591,6 +2710,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Makam Dato Timalar Aziz Bujang",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/37256",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ]
     },
@@ -3115,8 +3241,8 @@
       "name": "TWA Gunung Dungan",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.7772767,
-      "lng": 109.5748276,
+      "lat": 1.4558751,
+      "lng": 109.0520094,
       "regionId": "sajingan-besar",
       "shortDescription": "Objek Wisata",
       "images": [
@@ -3143,6 +3269,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Taman Wisata Alam Gunung Dungun",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/36189",
+          "license": "Data Resmi Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/Taxk1pAztm9HvvV29"
@@ -3835,8 +3968,8 @@
       "name": "Batu Nenek",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": null,
-      "lng": null,
+      "lat": 2.01894718153,
+      "lng": 109.6014829,
       "regionId": "paloh",
       "shortDescription": "Titik dua kelapa menjadi ikon utama pariwisata Desa Temajuk saat ini karena mempunyai landsekap yang unik menyerupai daerah belitung",
       "images": [
@@ -3865,6 +3998,13 @@
           "type": "web",
           "address": "https://jadesta.kemenpar.go.id/atraksi/batu_nenek",
           "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Batu Nenek",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/27893",
+          "license": "Data Resmi Kementerian Pariwisata RI",
           "licenseUrl": null
         }
       ],
@@ -3957,8 +4097,8 @@
       "name": "Crab Village Temajuk",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": null,
-      "lng": null,
+      "lat": 1.9876991022874162,
+      "lng": 109.58617988010586,
       "regionId": "paloh",
       "shortDescription": "Crab Village Temajuk di Desa Temaajuk, Kabupaten Sambas.",
       "images": [
@@ -3986,6 +4126,13 @@
           "type": "web",
           "address": "https://jadesta.kemenpar.go.id/atraksi/crab_village_temajuk",
           "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        },
+        {
+          "name": "SISPARNAS Kemenpar - Crab Village Temajuk",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/53238",
+          "license": "Data Resmi Kementerian Pariwisata RI",
           "licenseUrl": null
         }
       ],
@@ -4108,6 +4255,32 @@
           "type": "web",
           "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_sungai_belacan",
           "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
+    },
+    {
+      "id": "pasar-wisata-aruk",
+      "slug": "pasar-wisata-aruk",
+      "name": "Pasar Wisata Aruk",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": 1.6047177141127575,
+      "lng": 109.67606039657066,
+      "regionId": "sajingan-besar",
+      "shortDescription": "Pasar perbatasan di Aruk, Kecamatan Sajingan Besar, ujung utara Kabupaten Sambas menuju Sarawak. Gerbang perdagangan lintas batas Malaysia-Indonesia.",
+      "images": [],
+      "hours": null,
+      "contact": null,
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "SISPARNAS Kemenpar - Pasar Wisata Aruk",
+          "type": "web",
+          "address": "https://sisparnas.kemenpar.go.id/p/135149",
+          "license": "Data Resmi Kementerian Pariwisata RI",
           "licenseUrl": null
         }
       ],
