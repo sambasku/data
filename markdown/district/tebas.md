@@ -71,4 +71,4 @@ Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
 
 ---
 
-Sumber: [Wikipedia bahasa Indonesia - Tebas, Sambas](https://id.wikipedia.org/wiki/Tebas%2C_Sambas) (CC BY-SA 4.0) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* · Wisata: Open Data Kabupaten Sambas 2024.
+Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Tebas, Sambas](https://id.wikipedia.org/wiki/Tebas%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).

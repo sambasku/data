@@ -30,7 +30,7 @@ Berikut merupakan batas-batas wilayah kecamatan Sambas:
 | utara |
 | --- |
 | kecamatan Teluk Keramat, Sambas
-Sementara itu, keberagaman agama dan budaya menjadi bagian dari masyarakat kecamatan Sambas. Berdasarkan data Dukcapil] kabupaten Sambas tahun 2025 mencatat bahwa 89,07% penduduknya memeluk agama Islam, kemudian Budha 6,92%, Kekristenan 3,81% (Katolik 2,43% dan Protestan 1,38%), Konghucu 0,19% dan Hindu 0,01%. Terdapat 74 bangunan masjid, 5 bangunan gereja Protestan, 5 bangunan gereja Katolik, 3 bangunan Vihara dan 1 bangunan Klenteng.
+Sementara itu, keberagaman agama dan budaya menjadi bagian dari masyarakat kecamatan Sambas. Berdasarkan data Dukcapil Kabupaten Sambas tahun 2025 mencatat bahwa 89,07% penduduknya memeluk agama Islam, kemudian Budha 6,92%, Kekristenan 3,81% (Katolik 2,43% dan Protestan 1,38%), Konghucu 0,19% dan Hindu 0,01%. Terdapat 74 bangunan masjid, 5 bangunan gereja Protestan, 5 bangunan gereja Katolik, 3 bangunan Vihara dan 1 bangunan Klenteng.
 
 ### Makanan dan Kerajinan Khas Sambas
 Kota Sambas juga terkenal dengan kain tenunnya, yaitu Kain Tenun Songket Sambas (dikenal pula dengan sebutan Kain Lunggi) yang memiliki berbagai macam corak/motif dan warna. Produksi kain terdapat di desa Jagur dan Sumber Harapan. Kota Sambas memiliki panganan khas, yang paling terkenal adalah Bubbor Paddas (Bubur Pedas). Selain itu juga ada Bubbor Ambo' (Bubur Ambo'), Tempuyyak (Tempoyak), dan Padda'.
@@ -59,4 +59,4 @@ Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
 
 ---
 
-Sumber: [Wikipedia bahasa Indonesia - Sambas, Sambas](https://id.wikipedia.org/wiki/Sambas%2C_Sambas) (CC BY-SA 4.0) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* · Wisata: Open Data Kabupaten Sambas 2024.
+Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Sambas, Sambas](https://id.wikipedia.org/wiki/Sambas%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
