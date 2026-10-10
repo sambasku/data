@@ -33,8 +33,6 @@ Kecamatan Sajingan Besar merupakan kecamatan yang berada di wilayah Kabupaten Sa
 | selatan | Kecamatan Sejangkung dan Kabupaten Bengkayang |
 | timur | Serawak |  |
 | barat | Kecamatan Paloh dan Galing, Sambas
-- [Kecamatan Sajingan Besar pada Humas Kabupaten Sambas](http://humassambas.com/kecamatan/sajingan/) 
-- [Peresmian Pos Lintas Batas Negara Aruk, Sambas, tahun 2017](https://youtube/v3GKC43sX80)
 
 ## Wisata
 

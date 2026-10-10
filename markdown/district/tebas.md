@@ -52,12 +52,6 @@ Kecamatan Tebas memiliki batas wilayah seperti berikut:
 | timur | Kecamatan Subah dan Kabupaten Bengkayang |
 | barat | Kecamatan Tekarang dan Semparuk, Sambas
 - [Situs Resmi Badan Pusat Statistik Kabupaten Sambas](http://sambaskab.bps.go.id/)
-- [Situs Resmi Pemerintah Kabupaten Sambas](http://www.sambas.go.id/)
-- [Situs Resmi Bagian Humas, Sandi, dan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/tebas/) 
-- [Informasi tentang Jeruk Tebas](http://students.ukdw.ac.id/~22022878/produk1.htm) 
-- [Daftar Kelurahan di Kecamatan Tebas (Data Tahun 2003)](http://www.pu.go.id/infoStatistik/infosta/11miskin/kec.asp?kdprop=61&kdkab=01&kdkec=030&tx=jrt) 
-- [Daftar Sekolah di Kecamatan Tebas (PDF)](http://www.sambas.go.id/data/pdf/Data%20SPM,%20Mts.pdf) 
-- [Kecamatan Tebas](http://humassambas.com/kecamatan/tebas/) 
 - <http://sambas.go.id/tebas/1324-peta-kecamatan-tebas.html>
 
 ## Wisata

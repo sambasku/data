@@ -112,9 +112,6 @@ Subah memiliki 1 PAUD, 8 TK, 22 SD, 7 SMP, 2 MTs, 2 SMA, 1 SMK, dan 1 MA. Seluru
 
 - SMKN 1 Subah, Desa Mukti Raharja
 
-### Pranala
-- http://humassambas.com/kecamatan/subah/
-
 ## Wisata
 
 Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):

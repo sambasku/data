@@ -88,8 +88,6 @@ http://database.kalbarprov.go.id/_wilayah/wilayah_kab.php?61.01
 
 http://sambas.go.id/component/content/article/151/1826-kumpulan-perda-tahun-2007.html
 
-http://humassambas.com/kecamatan/salatiga/
-
 ## Wisata
 
 Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):

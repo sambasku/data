@@ -33,8 +33,6 @@ Berikut ini merupakan daftar camat yang pernah dan sedang menjabat.
 | 1 | Tajudin, BA. | 2007-2009 |
 | --- | --- | --- | --- |
 | 2 | H. Supardi, Sarjana Pendidikan Sekolah Dasar
-- [Situs Resmi Pemkab Sambas](http://www.sambas.go.id/)
-- [Situs Resmi Bagian Humas dan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/selakau-timur/) 
 - [Situs Resmi BPS Kabupaten Sambas](http://sambaskab.bps.go.id/)
 
 ## Wisata

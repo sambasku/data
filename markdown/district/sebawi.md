@@ -107,8 +107,6 @@ Lahan bukan sawah digunakan untuk tegal/kebun seluas 3.792 hektare, perkebunan s
 #### Lahan Bukan Pertanian
 Terdapat 3.009 hektare lahan yang digunakan untuk rumah/bangunan dan halaman disekitarnya. Angka ini meningkat sejak 2009. Selain itu, terdapat 1.205 hektare hutan negara, 300 hektare rawa-rawa yang tak ditanami, dan 194 hektare untuk jalan, lahan tandus, dll.
 
-- [Situs Resmi Pemerintah Kabupaten Sambas](http://www.sambas.go.id/)
-- [Situs Resmi Bagian Humas, Sandi, dan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/sebawi/) 
 - [Situs Resmi Badan Pusat Statistik Kabupaten Sambas](http://sambaskab.bps.go.id/)
 
 ## Wisata

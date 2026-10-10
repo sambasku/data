@@ -119,11 +119,6 @@ Sejangkung memiliki 1 PAUD, 2 TK, 3 RA, 24 SD, 2 MI, 4 SMP, 3 MTs, 1 SMA dan 1 S
 
 - SMKN 1 Sejangkung, Desa Perigi Limus
 
-- [Kecamatan Sejangkung - Blog BERT972](http://bert972.blogspot.com/2010/03/kecamatan-sejangkung.html)
-- [Kecamatan Sejangkung - Situs Resmi Bagian Humasdan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/sejangkung/) 
-- [Data Monografi Kecamatan Sejangkung - Situs Resmi Kabupaten Sambas](http://www.sambas.go.id/sejangkung/1315-data-monografi-kecamatan-sejangkung.html) 
-- [Peta Kecamatan Sejangkung - Situs Resmi Kabupaten Sambas](http://www.sambas.go.id/images/files/Kec.%20Sejangkung.jpg)
-
 ## Wisata
 
 Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):

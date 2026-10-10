@@ -69,8 +69,6 @@ Sajad memiliki 1 PAUD, 1 TK, 9 SD, 3 SMP, dan 1 SMA. Hanya satu PAUD di Sajad ya
 
 - SMAN 1 Sajad, Desa Tengguli
 
-- http://humassambas.com/kecamatan/sajad/
-
 ## Wisata
 
 Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
