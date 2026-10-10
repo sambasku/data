@@ -1,56 +1,55 @@
 # Kecamatan Salatiga
 
-Salatiga merupakan salah satu dari 19 [kecamatan](https://id.wikipedia.org/wiki/kecamatan) yang ada di wilayah [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas). Salatiga adalah [kecamatan](https://id.wikipedia.org/wiki/kecamatan) kesembilan di [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas) yang dibentuk melalui [Peraturan Daerah](https://id.wikipedia.org/wiki/Peraturan_Daerah) (Perda). Salatiga merupakan pemekaran dari [Kecamatan Pemangkat](https://id.wikipedia.org/wiki/Pemangkat%2C_Sambas).
+Salatiga merupakan salah satu dari 19 kecamatan yang ada di wilayah Kabupaten Sambas. Salatiga adalah kecamatan kesembilan di Kabupaten Sambas yang dibentuk melalui Peraturan Daerah (Perda). Salatiga merupakan pemekaran dari Kecamatan Pemangkat.
 
 ## Ringkasan
 
-- **Kabupaten**: Sambas
-- **Luas wilayah**: 82,75 Km2
-- **Camat**: H. Aspian, S.H., M.H.
-- **Provinsi**: Kalimantan Barat
+- **Nama resmi**: Kecamatan Salatiga
+- **Ibu kota**: Salatiga
+- **Jumlah desa**: 5
+- **Luas wilayah**: 67 km²
+- **Penduduk**: 18.912 jiwa (2024)
+- **Kepadatan**: 283 jiwa/km²
+- **Laju pertumbuhan**: 0.93% per tahun (2020-2024)
+- **Rasio jenis kelamin**: 102.22 (L/P)
 
-## Pembentukan
+Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 
-Kecamatan Salatiga dibentuk berdasarkan [Peraturan Daerah](https://id.wikipedia.org/wiki/Peraturan_Daerah) [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas) Nomor 5 Tahun [2007](https://id.wikipedia.org/wiki/2007) tentang Pembentukan Kecamatan Salatiga dan [Kecamatan Selakau Timur](https://id.wikipedia.org/wiki/Selakau_Timur%2C_Sambas) tertanggal [13 Juli](https://id.wikipedia.org/wiki/13_Juli) [2007](https://id.wikipedia.org/wiki/2007). Namun, Kecamatan Salatiga dibentuk secara resmi pada [12 Desember](https://id.wikipedia.org/wiki/12_Desember) [2007](https://id.wikipedia.org/wiki/2007).
+### Pembentukan
+Kecamatan Salatiga dibentuk berdasarkan Peraturan Daerah Kabupaten Sambas Nomor 5 Tahun 2007 tentang Pembentukan Kecamatan Salatiga dan Kecamatan Selakau Timur tertanggal 13 Juli 2007. Namun, Kecamatan Salatiga dibentuk secara resmi pada 12 Desember 2007.
 
-## Batas Wilayah
+### Batas Wilayah
+Bedasarkan Pasal 7 ayat (1) Perda Kabupaten Sambas Nomor 5 Tahun 2007, Kecamatan Salatiga memiliki batas-batas wilayah sebagai berikut:
+| utara | Kecamatan Pemangkat dan Kecamatan Semparuk |
+| --- | --- | --- | --- |
+| selatan | Kecamatan Selakau |  |
+| barat | laut Natuna |  |  |
+| timur | Kecamatan Semparuk dan Kecamatan Tebas |
 
-Bedasarkan Pasal 7 ayat (1) Perda [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas) Nomor 5 Tahun [2007](https://id.wikipedia.org/wiki/2007), Kecamatan Salatiga memiliki batas-batas wilayah sebagai berikut:
+### Wilayah Administrasi
+Bedasarkan Pasal 3 Perda Kabupaten Sambas Nomor 5 Tahun 2007, Kecamatan Salatiga memiliki luas 82,75 Km2, yang terdiri atas 5 (lima) desa sebagai berikut:
+| Desa Parit Baru | 25,00 |
+| --- | --- | --- |
+| Desa Sungai Toman | 12,00 |
+| Desa Serumpun | 8,50 |
+| Desa Serunai | 8,25 |
+| Desa Salatiga | 29,00 |
 
-- **Utara**: [Kecamatan Pemangkat](https://id.wikipedia.org/wiki/Pemangkat%2C_Sambas) dan [Kecamatan Semparuk](https://id.wikipedia.org/wiki/Semparuk%2C_Sambas)
-- **Selatan**: [Kecamatan Selakau](https://id.wikipedia.org/wiki/Selakau%2C_Sambas)
-- **Barat**: laut Natuna
-- **Timur**: [Kecamatan Semparuk](https://id.wikipedia.org/wiki/Semparuk%2C_Sambas) dan [Kecamatan Tebas](https://id.wikipedia.org/wiki/Tebas%2C_Sambas)
+### Pusat Pemerintahan
+Bedasarkan Pasal 8 Perda Kabupaten Sambas Nomor 5 Tahun 2007, pusat pemerintahan Kecamatan Salatiga berkedudukan di Desa Salatiga.
 
-## Wilayah Administrasi
+### Camat
+Sejak tahun berdirinya (2007), Camat Salatiga yaitu:
+1. A. Rahmat, S.I.P., M.Si.
+2. H. Budi Wijaya
+3. Tajudin, BA
+4. Drs. H. Efendi
+5. H. Aspian, S.H., M.H.
 
-Bedasarkan Pasal 3 Perda [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas) Nomor 5 Tahun [2007](https://id.wikipedia.org/wiki/2007), Kecamatan Salatiga memiliki luas 82,75 Km2, yang terdiri atas 5 (lima) [desa](https://id.wikipedia.org/wiki/desa) sebagai berikut:
+### Pendidikan
+Salatiga memiliki 11 SD, 6 MI, 5 SMP, dan 1 SMA. Seluruh MI di Salatiga berstatus swasta. Berikut adalah daftar sekolah yang ada di Salatiga:
 
-- **[Desa Parit Baru](Https://Id.Wikipedia.Org/Wiki/Parit_Baru%2C_Salatiga%2C_Sambas)**: 25,00
-- **[Desa Sungai Toman](Https://Id.Wikipedia.Org/Wiki/Sungai_Toman%2C_Salatiga%2C_Sambas)**: 12,00
-- **[Desa Serumpun](Https://Id.Wikipedia.Org/Wiki/Serumpun%2C_Salatiga%2C_Sambas)**: 8,50
-- **[Desa Serunai](Https://Id.Wikipedia.Org/Wiki/Serunai%2C_Salatiga%2C_Sambas)**: 8,25
-- **[Desa Salatiga](Https://Id.Wikipedia.Org/Wiki/Salatiga%2C_Salatiga%2C_Sambas)**: 29,00
-
-## Pusat Pemerintahan
-
-Bedasarkan Pasal 8 Perda [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas) Nomor 5 Tahun [2007](https://id.wikipedia.org/wiki/2007), pusat pemerintahan Kecamatan Salatiga berkedudukan di [Desa Salatiga](https://id.wikipedia.org/wiki/Salatiga%2C_Salatiga%2C_Sambas).
-
-## Camat
-
-Sejak tahun berdirinya ([2007](https://id.wikipedia.org/wiki/2007)), [Camat](https://id.wikipedia.org/wiki/Camat) Salatiga yaitu:
-
-- A. Rahmat, S.I.P., M.Si.
-- H. Budi Wijaya
-- Tajudin, BA
-- Drs. H. Efendi
-- H. Aspian, S.H., M.H.
-
-## Pendidikan
-
-Salatiga memiliki 11 [SD](https://id.wikipedia.org/wiki/Sekolah_Dasar), 6 [MI](https://id.wikipedia.org/wiki/Madrasah_ibtidaiyah), 5 [SMP](https://id.wikipedia.org/wiki/Sekolah_Menengah_Pertama), dan 1 [SMA](https://id.wikipedia.org/wiki/Sekolah_Menengah_Atas). Seluruh [MI](https://id.wikipedia.org/wiki/Madrasah_Ibtidaiyah) di Salatiga berstatus [swasta](https://id.wikipedia.org/wiki/swasta). Berikut adalah daftar sekolah yang ada di Salatiga:
-
-### Madrasah Ibtidaiyah
+#### Madrasah Ibtidaiyah
 
 - MIS Darussalam, Desa Salatiga
 - MIS Hidayatul Diniyah, Desa Serunai
@@ -59,7 +58,7 @@ Salatiga memiliki 11 [SD](https://id.wikipedia.org/wiki/Sekolah_Dasar), 6 [MI](h
 - MIS Nurul Hasanah, Desa Parit Baru
 - MIS Nurul Islam Seradi B, Desa Serumpun
 
-### Sekolah Dasar
+#### Sekolah Dasar
 
 - SDN 01 Parit Cegat, Desa Parit Baru
 - SDN 02 Parit Baru
@@ -73,7 +72,7 @@ Salatiga memiliki 11 [SD](https://id.wikipedia.org/wiki/Sekolah_Dasar), 6 [MI](h
 - SDN 10 Tanjung Gunung, Desa Parit Baru
 - SDN 11 Serunai
 
-### Sekolah Menengah Pertama
+#### Sekolah Menengah Pertama
 
 - SMPN 1 Salatiga
 - SMPN 2 Salatiga, Desa Serumpun
@@ -81,9 +80,22 @@ Salatiga memiliki 11 [SD](https://id.wikipedia.org/wiki/Sekolah_Dasar), 6 [MI](h
 - SMPN 4 Satu Atap Salatiga, Desa Sungai Toman
 - SMPN 5 Salatiga
 
-### Sekolah Menengah Atas
+#### Sekolah Menengah Atas
 
 - SMAN 1 Salatiga, Desa Serumpun
 
+http://database.kalbarprov.go.id/_wilayah/wilayah_kab.php?61.01
+
+http://sambas.go.id/component/content/article/151/1826-kumpulan-perda-tahun-2007.html
+
+http://humassambas.com/kecamatan/salatiga/
+
+## Wisata
+
+Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+
+- Air terjun Gunung Selindung
+
 ---
-Artikel: [Wikipedia bahasa Indonesia](https://id.wikipedia.org/wiki/Salatiga%2C_Sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+
+Sumber: [Wikipedia bahasa Indonesia - Salatiga, Sambas](https://id.wikipedia.org/wiki/Salatiga%2C_Sambas) (CC BY-SA 4.0) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* · Wisata: Open Data Kabupaten Sambas 2024.

@@ -1,0 +1,173 @@
+{
+ "selakau": {
+  "nama": "Selakau",
+  "penduduk": 39152,
+  "laju": 1.0,
+  "pct": 5.98,
+  "kepadatan": 408,
+  "rasio": 102.48,
+  "luas": 96.2
+ },
+ "selakau-timur": {
+  "nama": "Selakau Timur",
+  "penduduk": 12837,
+  "laju": 0.76,
+  "pct": 1.96,
+  "kepadatan": 69,
+  "rasio": 102.67,
+  "luas": 185.87
+ },
+ "pemangkat": {
+  "nama": "Pemangkat",
+  "penduduk": 54048,
+  "laju": 0.49,
+  "pct": 8.25,
+  "kepadatan": 557,
+  "rasio": 100.78,
+  "luas": 96.8
+ },
+ "semparuk": {
+  "nama": "Semparuk",
+  "penduduk": 31365,
+  "laju": 1.09,
+  "pct": 4.79,
+  "kepadatan": 436,
+  "rasio": 103.97,
+  "luas": 71.86
+ },
+ "salatiga": {
+  "nama": "Salatiga",
+  "penduduk": 18912,
+  "laju": 0.93,
+  "pct": 2.89,
+  "kepadatan": 283,
+  "rasio": 102.22,
+  "luas": 67.1
+ },
+ "tebas": {
+  "nama": "Tebas",
+  "penduduk": 83227,
+  "laju": 1.03,
+  "pct": 12.71,
+  "kepadatan": 131,
+  "rasio": 103.07,
+  "luas": 636.61
+ },
+ "tekarang": {
+  "nama": "Tekarang",
+  "penduduk": 18506,
+  "laju": 1.47,
+  "pct": 2.83,
+  "kepadatan": 269,
+  "rasio": 105.58,
+  "luas": 68.89
+ },
+ "sambas": {
+  "nama": "Sambas",
+  "penduduk": 59627,
+  "laju": 1.12,
+  "pct": 9.1,
+  "kepadatan": 271,
+  "rasio": 101.36,
+  "luas": 220.32
+ },
+ "subah": {
+  "nama": "Subah",
+  "penduduk": 25333,
+  "laju": 1.73,
+  "pct": 3.87,
+  "kepadatan": 34,
+  "rasio": 105.24,
+  "luas": 753.0
+ },
+ "sebawi": {
+  "nama": "Sebawi",
+  "penduduk": 21227,
+  "laju": 1.31,
+  "pct": 3.24,
+  "kepadatan": 210,
+  "rasio": 104.44,
+  "luas": 100.95
+ },
+ "sajad": {
+  "nama": "Sajad",
+  "penduduk": 14614,
+  "laju": 1.86,
+  "pct": 2.23,
+  "kepadatan": 125,
+  "rasio": 97.57,
+  "luas": 116.39
+ },
+ "jawai": {
+  "nama": "Jawai",
+  "penduduk": 50352,
+  "laju": 1.69,
+  "pct": 7.69,
+  "kepadatan": 218,
+  "rasio": 107.77,
+  "luas": 231.01
+ },
+ "jawai-selatan": {
+  "nama": "Jawai Selatan",
+  "penduduk": 22938,
+  "laju": 0.98,
+  "pct": 3.5,
+  "kepadatan": 213,
+  "rasio": 107.83,
+  "luas": 107.49
+ },
+ "teluk-keramat": {
+  "nama": "Teluk Keramat",
+  "penduduk": 76977,
+  "laju": 1.05,
+  "pct": 11.75,
+  "kepadatan": 191,
+  "rasio": 106.69,
+  "luas": 403.82
+ },
+ "galing": {
+  "nama": "Galing",
+  "penduduk": 25808,
+  "laju": 1.06,
+  "pct": 3.94,
+  "kepadatan": 61,
+  "rasio": 101.23,
+  "luas": 421.04
+ },
+ "tangaran": {
+  "nama": "Tangaran",
+  "penduduk": 26635,
+  "laju": 0.88,
+  "pct": 4.07,
+  "kepadatan": 193,
+  "rasio": 107.5,
+  "luas": 138.37
+ },
+ "sejangkung": {
+  "nama": "Sejangkung",
+  "penduduk": 28308,
+  "laju": 0.81,
+  "pct": 4.32,
+  "kepadatan": 54,
+  "rasio": 103.61,
+  "luas": 527.93
+ },
+ "sajingan-besar": {
+  "nama": "Sajingan Besar",
+  "penduduk": 14137,
+  "laju": 1.69,
+  "pct": 2.16,
+  "kepadatan": 14,
+  "rasio": 107.23,
+  "luas": 1037.45
+ },
+ "paloh": {
+  "nama": "Paloh",
+  "penduduk": 30909,
+  "laju": 0.95,
+  "pct": 4.72,
+  "kepadatan": 47,
+  "rasio": 105.39,
+  "luas": 657.39
+ }
+}

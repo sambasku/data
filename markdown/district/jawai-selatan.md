@@ -1,45 +1,47 @@
 # Kecamatan Jawai Selatan
 
-Jawai Selatan adalah [kecamatan](https://id.wikipedia.org/wiki/kecamatan) di [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas), [Kalimantan Barat](https://id.wikipedia.org/wiki/Kalimantan_Barat), [Indonesia](https://id.wikipedia.org/wiki/Indonesia). Penduduk Jawai Selatan mayoritas bersuku Melayu dan Tionghoa.
+Jawai Selatan adalah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Penduduk Jawai Selatan mayoritas bersuku Melayu dan Tionghoa.
 
 ## Ringkasan
 
-- **Kabupaten**: Sambas
-- **Luas wilayah**: ... km²
-- **Camat**: H. Budi Jaya, S.IP., M.Si.
-- **Kepadatan**: ... jiwa/km²
-- **Provinsi**: Kalimantan Barat
+- **Nama resmi**: Kecamatan Jawai Selatan
+- **Ibu kota**: Matang Terap
+- **Jumlah desa**: 9
+- **Luas wilayah**: 107 km²
+- **Penduduk**: 22.938 jiwa (2024)
+- **Kepadatan**: 213 jiwa/km²
+- **Laju pertumbuhan**: 0.98% per tahun (2020-2024)
+- **Rasio jenis kelamin**: 107.83 (L/P)
 
-## Pembentukan
+Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 
+### Pembentukan
 Kecamatan Jawai Selatan terbentuk secara resmi pada Hari Selasa tanggal 12 Oktober 2004 yang merupakan pemekaran dari Kecamatan Jawai yang membawahi 9 Desa terdiri dari:
+1. Desa Jawai Laut
+2. Desa Jelu Air
+3. Desa Matang Terap
+4. Desa Sabaran
+5. Desa Sarilaba A
+6. Desa Sarilaba B
+7. Desa Semperiuk A
+8. Desa Semperiuk B
+9. Desa Suah Api
 
-- [Desa Jawai Laut](https://id.wikipedia.org/wiki/Jawai_Laut%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Jelu Air](https://id.wikipedia.org/wiki/Jelu_Air%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Matang Terap](https://id.wikipedia.org/wiki/Matang_Terap%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Sabaran](https://id.wikipedia.org/wiki/Sabaran%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Sarilaba A](https://id.wikipedia.org/wiki/Sarilaba_A%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Sarilaba B](https://id.wikipedia.org/wiki/Sarilaba_B%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Semperiuk A](https://id.wikipedia.org/wiki/Semperiuk_A%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Semperiuk B](https://id.wikipedia.org/wiki/Semperiuk_B%2C_Jawai_Selatan%2C_Sambas)
-- [Desa Suah Api](https://id.wikipedia.org/wiki/Suah_Api%2C_Jawai_Selatan%2C_Sambas)
+### Geografi
 
-## Geografi
-
-### Batas wilayah
-
+#### Batas wilayah
 Kecamatan Jawai Selatan merupakan kecamatan ketujuh di Kabupaten Sambas yang dibentuk sejak diberlakukannya Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah dengan luas wilayah 93,51 Km2, dengan batas-batas sebagai berikut:
 
-- **Utara**: [Kecamatan Jawai](https://id.wikipedia.org/wiki/Jawai%2C_Sambas)
-- **Selatan**: [Sungai Sambas Besar](https://id.wikipedia.org/wiki/Sungai_Sambas)
-- **Timur**: [Kecamatan Tebas](https://id.wikipedia.org/wiki/Tebas%2C_Sambas)
-- **Barat**: [Laut Natuna](https://id.wikipedia.org/wiki/Laut_Natuna)
+| utara | Kecamatan Jawai |
+| --- | --- | --- |
+| selatan | Sungai Sambas Besar |
+| timur | Kecamatan Tebas |
+| barat | Laut Natuna |  |
 
-## Pendidikan
+### Pendidikan
+Jawai Selatan memiliki 1 TK, 19 SD, 3 SMP, 3 MTs, 1 MA, 1 SMA, dan 1 SMK. Seluruh TK, MTs, dan MA di Jawai Selatan berstatus swasta. Berikut adalah daftar sekolah yang ada di Jawai Selatan:
 
-Jawai Selatan memiliki 1 [TK](https://id.wikipedia.org/wiki/Taman_Kanak-kanak), 19 [SD](https://id.wikipedia.org/wiki/Sekolah_Dasar), 3 [SMP](https://id.wikipedia.org/wiki/Sekolah_Menengah_Pertama), 3 [MTs](https://id.wikipedia.org/wiki/Madrasah_Tsanawiyah), 1 [MA](https://id.wikipedia.org/wiki/Madrasah_aliyah), 1 [SMA](https://id.wikipedia.org/wiki/Sekolah_Menengah_Atas), dan 1 [SMK](https://id.wikipedia.org/wiki/Sekolah_Menengah_Kejuruan). Seluruh [TK](https://id.wikipedia.org/wiki/Taman_Kanak-kanak), [MTs](https://id.wikipedia.org/wiki/Madrasah_Tsanawiyah), dan [MA](https://id.wikipedia.org/wiki/Madrasah_aliyah) di Jawai Selatan berstatus [swasta](https://id.wikipedia.org/wiki/swasta). Berikut adalah daftar sekolah yang ada di Jawai Selatan:
-
-### Sekolah Dasar
+#### Sekolah Dasar
 
 - SDN 01 Matang Suri, Desa Matang Terap
 - SDN 02 Sarilaba A
@@ -61,27 +63,37 @@ Jawai Selatan memiliki 1 [TK](https://id.wikipedia.org/wiki/Taman_Kanak-kanak), 
 - SDN 18 Ramayadi, Desa Jawai Laut
 - SDN 19 Sarilaba B
 
-### Madrasah Tsanawiyah
+#### Madrasah Tsanawiyah
 
 - MTsS Yayasan Karya Islam, Desa Sarilaba B
 
-### Sekolah Menengah Pertama
+#### Sekolah Menengah Pertama
 
 - SMPN 1 Jawai Selatan, Desa Jelu Air
 - SMPN 2 Jawai Selatan, Desa Jawai Laut
 - SMPN 3 Jawai Selatan, Desa Semperiuk B
 
-### Madrasah Aliyah
+#### Madrasah Aliyah
 
 - MA Yaski Sarilaba B
 
-### Sekolah Menengah Atas
+#### Sekolah Menengah Atas
 
 - SMAN 1 Jawai Selatan, Desa Jelu Air
 
-### Sekolah Menengah Kejuruan
+#### Sekolah Menengah Kejuruan
 
 - SMKN 1 Jawai Selatan, Desa Matang Terap
 
+## Wisata
+
+Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+
+- Pantai Puteri Serayi
+- Pantai Kalang bau
+- Taman Wisata Bahari
+- Agro Wisata Buah Naga
+
 ---
-Artikel: [Wikipedia bahasa Indonesia](https://id.wikipedia.org/wiki/Jawai_Selatan%2C_Sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+
+Sumber: [Wikipedia bahasa Indonesia - Jawai Selatan, Sambas](https://id.wikipedia.org/wiki/Jawai_Selatan%2C_Sambas) (CC BY-SA 4.0) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* · Wisata: Open Data Kabupaten Sambas 2024.
