@@ -152,7 +152,7 @@
       "lat": 1.3636572,
       "lng": 109.314685,
       "regionId": "sambas",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Kawasan tepi Sungai Sambas yang ditata jadi tempat rekreasi warga. Ada deretan toko, kafe, dan spot foto yang apik. Paling ramai saat sore dan malam, waktu yang pas untuk menikmati pemandangan sungai di tengah kota Sambas.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -380,17 +380,50 @@
       "lat": 1.3647247,
       "lng": 109.2968682,
       "regionId": "sambas",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Museum yang menyimpan koleksi sejarah dan budaya Kabupaten Sambas, mulai dari benda peninggalan Kesultanan Sambas, artefak masa prasejarah, sampai hasil budaya suku-suku di Kalimantan Barat. Tempat yang tepat untuk mengenal warisan wilayah perbatasan Indonesia-Malaysia ini.",
       "images": [
         {
-          "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Museum_Daerah_Sambas_1.webp",
           "isMain": true,
           "attribution": {
-            "name": "Elementor",
-            "provider": "elementor",
-            "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-            "license": "All Rights Reserved",
-            "license_url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Museum_Daerah_Sambas_1.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Museum_Daerah_Sambas_6.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Museum_Daerah_Sambas_6.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Museum_Daerah_Sambas_7.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Museum_Daerah_Sambas_7.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Museum_Daerah_Sambas_9.webp",
+          "isMain": false,
+          "attribution": {
+            "name": "Zhilal Darma",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Museum_Daerah_Sambas_9.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         }
       ],
@@ -418,7 +451,7 @@
       "lat": 1.380082,
       "lng": 109.3494927,
       "regionId": "sambas",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Kampung pengrajin tenun di Desa Sumber Harapan, Kecamatan Sambas. Di sini pengrajin menenun songket dan tenun ikat dengan motif khas Melayu dan Dayak. Kamu bisa melihat langsung proses menenun dari benang jadi kain, sekaligus membawa pulang kain tenun sebagai oleh-oleh khas Sambas.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -532,17 +565,17 @@
       "lat": 1.1755598,
       "lng": 108.9762849,
       "regionId": "pemangkat",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Makam bersejarah di tengah Kota Pemangkat, peristirahatan terakhir F.J. Sorg, tokoh yang tercatat dalam sejarah kolonial di Kalimantan Barat. Situs ini mengingatkan pada masa lalu Pemangkat yang pernah jadi pusat pemerintahan penting di pesisir Sambas.",
       "images": [
         {
-          "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Makam_FJ_Sorg.webp",
           "isMain": true,
           "attribution": {
-            "name": "Elementor",
-            "provider": "elementor",
-            "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-            "license": "All Rights Reserved",
-            "license_url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"
+            "name": "sambasku",
+            "provider": "sambasku",
+            "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Makam_FJ_Sorg.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         }
       ],
@@ -570,7 +603,7 @@
       "lat": 1.181607,
       "lng": 108.9693382,
       "regionId": "pemangkat",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Sisa bangunan benteng Belanda di pusat Kota Pemangkat, bukti kehadiran kolonial di pesisir Sambas pada abad ke-18 dan ke-19. Bangunan batu dengan fondasi kokoh masih berdiri, jadi pengingat masa lalu wilayah ini. Lokasinya dekat dengan pusat kota.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -684,7 +717,7 @@
       "lat": 1.181607,
       "lng": 108.9693382,
       "regionId": "pemangkat",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Pantai di Desa Pemangkat Kota, Kecamatan Pemangkat, dengan hamparan pasir yang landai dan air laut yang tenang. Tempat yang pas untuk jalan santai di tepi pantai sambil menunggu matahari terbenam. Aksesnya dekat dari jalan utama Sambas-Pemangkat.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -722,7 +755,7 @@
       "lat": 1.1753799,
       "lng": 108.9706002,
       "regionId": "pemangkat",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Pantai di Desa Sinam, Kecamatan Pemangkat, dengan pasir yang agak gelap akibat endapan lumpur dari sungai-sungai kecil di dekatnya. Ombaknya sedang, cocok untuk melihat dinamika laut Kalimantan Barat. Di bagian belakang pantai tumbuh mangrove yang menambah hijau suasana.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -760,7 +793,7 @@
       "lat": 1.1526958,
       "lng": 108.9683729,
       "regionId": "pemangkat",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Kuil Tionghoa di tengah Kota Pemangkat, tempat ibadah sekaligus bukti budaya masyarakat Tionghoa-Melayu yang sudah lama hidup berdampingan. Arsitekturnya khas Tionghoa dengan atap melengkung, ukiran naga, dan arca ular putih di dalannya.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -874,7 +907,7 @@
       "lat": 1.2577544,
       "lng": 109.1952949,
       "regionId": "sebawi",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Danau di Desa Sempelai, Kecamatan Sebawi, dikelilingi hutan dan hamparan sawah. Airnya jadi sumber kehidupan warga sekitar sekaligus tempat rekreasi alam. Suasana tenang dan hijau membuatnya cocok untuk bersantai sambil menikmati desa Kalimantan Barat.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -1067,14 +1100,14 @@
       "shortDescription": "Objek Wisata",
       "images": [
         {
-          "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Selimpai_Kampak.webp",
           "isMain": true,
           "attribution": {
-            "name": "Elementor",
-            "provider": "elementor",
-            "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-            "license": "All Rights Reserved",
-            "license_url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"
+            "name": "Cerevisae",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Pantai_Selimpai_and_Pantai_Kampak_Indah_in_West_Kalimantan,_Indonesian_Borneo.jpg",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         }
       ],
@@ -1140,17 +1173,17 @@
       "lat": 1.9921053,
       "lng": 109.5892862,
       "regionId": "paloh",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Pantai berpasir putih di Desa Temajuk, Kecamatan Paloh, titik paling barat Kalimantan yang berbatasan langsung dengan Sarawak, Malaysia. Dinamai Camar Bulan karena sering didatangi burung camar, terutama saat musim burung migran. Pemandangannya luas, langit membentang, ombak khas pantai barat Kalimantan.",
       "images": [
         {
-          "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Sunset_Camar_Bulan.webp",
           "isMain": true,
           "attribution": {
-            "name": "Elementor",
-            "provider": "elementor",
-            "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-            "license": "All Rights Reserved",
-            "license_url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"
+            "name": "Fikri Irawan Asnawi",
+            "provider": "wikimedia",
+            "url": "https://commons.wikimedia.org/wiki/File:Sunset_Camar_Bulan.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         }
       ],
@@ -1975,14 +2008,14 @@
       "shortDescription": "Objek Wisata",
       "images": [
         {
-          "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Datok_Buntar.webp",
           "isMain": true,
           "attribution": {
-            "name": "Elementor",
-            "provider": "elementor",
-            "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-            "license": "All Rights Reserved",
-            "license_url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png"
+            "name": "sambasku",
+            "provider": "sambasku",
+            "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Datok_Buntar.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
         }
       ],
@@ -2722,10 +2755,10 @@
       "name": "Goa Kelelawar",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.161169,
-      "lng": 109.287591,
+      "lat": 1.2760269,
+      "lng": 109.985139,
       "regionId": "tebas",
-      "shortDescription": "Objek Wisata",
+      "shortDescription": "Goa alami di kawasan Tebas yang jadi rumah banyak kelelawar. Ratusan kelelawar bergelantung di langit-langit goa, dan kamu bisa mengamatinya dari dekat, terutama saat matahari tenggelam ketika mereka mulai keluar mencari makan. Suasananya gelap dan lembap, penuh nuansa petualangan.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
@@ -2760,10 +2793,10 @@
       "name": "Air terjun Riam Merasap",
       "category": "wisata",
       "type": "objek-wisata",
-      "lat": 1.6304326,
-      "lng": 109.644649,
+      "lat": 1.1272674,
+      "lng": 109.744678,
       "regionId": "sajingan-besar",
-      "shortDescription": "Objek WIsata",
+      "shortDescription": "Air terjun di kaki Gunung Senujuh, Desa Sajingan Besar. Airnya mengalir menembus bebatuan dikelilingi hutan tropis yang masih lebat. Trek menuju lokasi punya tingkat kesulitan yang beragam, cocok untuk yang suka petualangan alam terbuka.",
       "images": [
         {
           "url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
