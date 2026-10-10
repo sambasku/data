@@ -28,5 +28,5 @@ Melihat penyu naik bertelur hanya boleh dengan izin dan ditemani petugas, dengan
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 Artikel rujukan: [ANTARA Kalbar - BKSDA lepas liar tukik penyu sisik di Paloh](https://kalbar.antaranews.com/berita/548580/bksda-kalbar-lepas-liar-179-tukik-jenis-penyu-sisik-di-paloh); [Mongabay - Penyu Belimbing Muncul Kembali di Pantai Paloh](https://mongabay.co.id/2021/10/05/belasan-tahun-menghilang-penyu-belimbing-muncul-kembali-di-pantai-paloh/).

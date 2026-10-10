@@ -18,5 +18,5 @@ Kuil aktif dipakai ibadah: berpakaian sopan, lepas alas kaki sebelum masuk area 
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
-Artikel rujukan: [Wikipedia - Vihara Toa Pekong Ular Putih](https://id.wikipedia.org/wiki/Vihara_Toa_Pekong_Ular_Putih) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Daftar tempat wisata ini tercantum di artikel [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas) di Wikipedia bahasa Indonesia · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).

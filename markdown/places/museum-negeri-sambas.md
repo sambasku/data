@@ -25,6 +25,6 @@ Museum cocok jadi perhentian pertama sebelum menjelajah situs lain di Kota Samba
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
-Artikel rujukan: [Sistem Registrasi Nasional Museum - Museum Daerah Kabupaten Sambas](https://museum.kemdikbud.go.id/museum/profile/museum+daerah+kabupaten+sambas); [Indonesia Travel - Museum Daerah Kabupaten Sambas](https://www.indonesia.travel/id/destination/1/kalimantan-barat/museum-daerah-kabupaten-sambas-preserving-cultural-identity).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Tercantum juga di artikel [Kabupaten Sambas](https://id.wikipedia.org/wiki/Kabupaten_Sambas) Wikipedia bahasa Indonesia · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 Foto: Zhilal Darma · CC BY-SA 4.0 via Wikimedia Commons.

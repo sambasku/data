@@ -21,4 +21,4 @@ Sore hingga magrib waktu tersibuk dan paling hidup. Fasilitas toilet dan area pa
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).

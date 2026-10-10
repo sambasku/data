@@ -22,5 +22,5 @@ Kawasan luas: gunakan alas kaki nyaman dan bawa air minum. Jalur koleksi menempa
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 Artikel rujukan: [Elaeis.co - Kebun Raya Sambas Diresmikan](https://elaeis.co/berita/baca/kebun-raya-sambas-diresmikan-ini-kontribusi-13-perusahaan-sawit-di-sekitarnya); [Katalog Kebun Raya Sambas](https://kebunrayasambas.blogspot.com/2021/08/k-ebun-raya-sambas-yang-berlokasi-di.html).

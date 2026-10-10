@@ -20,5 +20,5 @@ Makam ini diziarahi masyarakat sejak lama dan dirawat warga setempat. Datanglah 
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
-Legenda rujukan: [Warisan Budaya Takbenda Indonesia](https://kebudayaan.kemdikbud.go.id/); [Mister Pangalayo - Legenda Bujang Nadi dan Dare Nandung](https://www.misterpangalayo.com/2015/12/legenda-bujang-nadi-dan-dare-nandung.html).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Legenda rujukan: [Mister Pangalayo - Legenda Bujang Nadi dan Dare Nandung](https://www.misterpangalayo.com/2015/12/legenda-bujang-nadi-dan-dare-nandung.html).

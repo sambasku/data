@@ -23,5 +23,5 @@ Kawasan ini berjarak jalan kaki dari Istana Alwatzikoebillah dan Masjid Jami Ker
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
-Artikel rujukan: [Tribun Pontianak - Nikmati Wisata Susur Sungai dari Waterfront City Sambas](https://pontianak.tribunnews.com/2022/03/03/nikmati-wisata-susur-sungai-dari-waterfront-city-sambas); [Jurnal Teknik Sipil Untan - Arahan Penataan Kawasan Waterfront City Sambas](https://jurnal.untan.ac.id/index.php/jtsuntan/article/view/5848).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Artikel rujukan: [Jurnal Teknik Sipil Untan - Arahan Penataan Kawasan Waterfront City Sambas](https://jurnal.untan.ac.id/index.php/jtsuntan/article/view/5848).

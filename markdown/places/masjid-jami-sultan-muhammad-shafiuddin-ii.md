@@ -25,6 +25,6 @@ Gabungkan kunjungan dengan Istana Alwatzikoebillah dan Waterfront Sambas yang le
 
 ---
 
-Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Sumber: [Open Data Sambas - Kompilasi Data Objek Wisata](https://opendata.sambas.go.id/dataset/kompilasi-data-objek-wisata-di-kabupaten-sambas/ec13d220-812c-11ef-8729-02001702e538) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 Artikel rujukan: [Wikipedia - Masjid Jami Keraton Sambas](https://id.wikipedia.org/wiki/Masjid_Jami_Keraton_Sambas) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 Foto: Zhilal Darma · CC BY-SA 4.0 via Wikimedia Commons.
