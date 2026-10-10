@@ -1,0 +1,2515 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": "55416",
+            "title": "",
+            "lat": "1.3498686838212968",
+            "lng": "109.28979598002363",
+            "text": "  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(55416)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(55416)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26542",
+            "title": " Kelenteng Sam Bong Ja. Sam San Ket Bong",
+            "lat": "1.36398",
+            "lng": "109.29731",
+            "text": " Kelenteng Sam Bong Ja. Sam San Ket Bong  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26542)'><img src='\/imgdata\/265420.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26542)'>Profile<\/a>",
+            "icon": "\/imgdata\/265420.jpg"
+        },
+        {
+            "id": "27895",
+            "title": "Agro Wisata Buah Naga Jawai",
+            "lat": "1.3343324484087697",
+            "lng": "109.03875252741437",
+            "text": "Agro Wisata Buah Naga Jawai  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27895)'><img src='\/imgdata\/278950.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27895)'>Profile<\/a>",
+            "icon": "\/imgdata\/278950.jpg"
+        },
+        {
+            "id": "38756",
+            "title": "Agro Wisata Buah Nenas",
+            "lat": "1.364624485",
+            "lng": "109.21269522866",
+            "text": "Agro Wisata Buah Nenas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(38756)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(38756)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "27894",
+            "title": "Agro Wisata kota Jeruk Tebas",
+            "lat": "1.175566958330376",
+            "lng": "109.17026710912617",
+            "text": "Agro Wisata kota Jeruk Tebas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27894)'><img src='\/imgdata\/278940.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27894)'>Profile<\/a>",
+            "icon": "\/imgdata\/278940.jpg"
+        },
+        {
+            "id": "37356",
+            "title": "Agro Wisata Matang Nangka",
+            "lat": "1.2426448546",
+            "lng": "109.085276727",
+            "text": "Agro Wisata Matang Nangka  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37356)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37356)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "39014",
+            "title": "Air Terjun Gunung Pangi",
+            "lat": "1.837308668",
+            "lng": "109.383806204",
+            "text": "Air Terjun Gunung Pangi  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39014)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39014)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37277",
+            "title": "Air Terjun Gunung Selindung",
+            "lat": "1.121500392",
+            "lng": "108.993422471",
+            "text": "Air Terjun Gunung Selindung  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37277)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37277)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26475",
+            "title": "Air Terjun Riam Berasap Kaliau'",
+            "lat": "1.63079",
+            "lng": "109.64466",
+            "text": "Air Terjun Riam Berasap Kaliau'  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26475)'><img src='\/imgdata\/264750.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26475)'>Profile<\/a>",
+            "icon": "\/imgdata\/264750.jpg"
+        },
+        {
+            "id": "39015",
+            "title": "Air Terjun Teluk Nibung",
+            "lat": "1.87436807604",
+            "lng": "109.40715215236",
+            "text": "Air Terjun Teluk Nibung  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39015)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39015)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37219",
+            "title": "Bangunan Kantor Kewedanaan Balairung Sari",
+            "lat": "1.5755215499",
+            "lng": "109.3330131",
+            "text": "Bangunan Kantor Kewedanaan Balairung Sari  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37219)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37219)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37197",
+            "title": "Batu  Bejamban",
+            "lat": "1.8769757833",
+            "lng": "109.450007107",
+            "text": "Batu  Bejamban  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37197)'><img src='\/imgdata\/371970.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37197)'>Profile<\/a>",
+            "icon": "\/imgdata\/371970.jpg"
+        },
+        {
+            "id": "32664",
+            "title": "Batu Betarup",
+            "lat": "1.6242322867",
+            "lng": "109.3493917",
+            "text": "Batu Betarup  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32664)'><img src='\/imgdata\/326640.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32664)'>Profile<\/a>",
+            "icon": "\/imgdata\/326640.jpg"
+        },
+        {
+            "id": "53399",
+            "title": "Batu Lapak",
+            "lat": "1.271579719062061",
+            "lng": "108.98765182599054",
+            "text": "Batu Lapak  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53399)'><img src='\/imgdata\/533990.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53399)'>Profile<\/a>",
+            "icon": "\/imgdata\/533990.jpg"
+        },
+        {
+            "id": "134729",
+            "title": "BATU LAPAK",
+            "lat": "1.2716011714495097",
+            "lng": "108.98767328375143",
+            "text": "BATU LAPAK  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(134729)'><img src='\/imgdata\/1347290.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(134729)'>Profile<\/a>",
+            "icon": "\/imgdata\/1347290.jpg"
+        },
+        {
+            "id": "27893",
+            "title": "Batu Nenek",
+            "lat": "2.01894718153",
+            "lng": "109.6014829",
+            "text": "Batu Nenek  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27893)'><img src='\/imgdata\/278930.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27893)'>Profile<\/a>",
+            "icon": "\/imgdata\/278930.jpg"
+        },
+        {
+            "id": "37231",
+            "title": "Benteng Peninggalan Belanda",
+            "lat": "1.15534701864",
+            "lng": "108.9482983172",
+            "text": "Benteng Peninggalan Belanda  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37231)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37231)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "32555",
+            "title": "Bukit Piantus",
+            "lat": "1.4911801209",
+            "lng": "109.32047653",
+            "text": "Bukit Piantus  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32555)'><img src='\/imgdata\/325550.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32555)'>Profile<\/a>",
+            "icon": "\/imgdata\/325550.jpg"
+        },
+        {
+            "id": "55237",
+            "title": "Bukit Piantus",
+            "lat": "1.4599588352034918",
+            "lng": "109.31491902243401",
+            "text": "Bukit Piantus  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(55237)'><img src='\/imgdata\/552370.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(55237)'>Profile<\/a>",
+            "icon": "\/imgdata\/552370.jpg"
+        },
+        {
+            "id": "134732",
+            "title": "BUKIT PIANTUS",
+            "lat": "1.4599159338022472",
+            "lng": "109.31496193704537",
+            "text": "BUKIT PIANTUS  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(134732)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(134732)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "53238",
+            "title": "Crab Village Temajuk ",
+            "lat": "1.9876991022874162",
+            "lng": "109.58617988010586",
+            "text": "Crab Village Temajuk   - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53238)'><img src='\/imgdata\/532380.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53238)'>Profile<\/a>",
+            "icon": "\/imgdata\/532380.jpg"
+        },
+        {
+            "id": "37273",
+            "title": "Danau Biru",
+            "lat": "1.06351513504",
+            "lng": "109.120875845",
+            "text": "Danau Biru  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37273)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37273)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26450",
+            "title": "Danau Sebedang",
+            "lat": "1.25811",
+            "lng": "109.19525",
+            "text": "Danau Sebedang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26450)'><img src='\/imgdata\/264500.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26450)'>Profile<\/a>",
+            "icon": "\/imgdata\/264500.jpg"
+        },
+        {
+            "id": "55236",
+            "title": "Danau Sebedang",
+            "lat": "1.257936744989279",
+            "lng": "109.19530562363161",
+            "text": "Danau Sebedang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(55236)'><img src='\/imgdata\/552360.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(55236)'>Profile<\/a>",
+            "icon": "\/imgdata\/552360.jpg"
+        },
+        {
+            "id": "129033",
+            "title": "DANAU SEBEDANG",
+            "lat": "1.255291370906113",
+            "lng": "109.18213724973138",
+            "text": "DANAU SEBEDANG  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129033)'><img src='\/imgdata\/1290330.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129033)'>Profile<\/a>",
+            "icon": "\/imgdata\/1290330.jpg"
+        },
+        {
+            "id": "39023",
+            "title": "Dermaga Asam Jawe",
+            "lat": "1.892211215",
+            "lng": "109.4044055",
+            "text": "Dermaga Asam Jawe  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39023)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39023)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "30286",
+            "title": "Dermaga Wisata Sambas",
+            "lat": "1.38992349",
+            "lng": "109.31831505",
+            "text": "Dermaga Wisata Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(30286)'><img src='\/imgdata\/302860.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(30286)'>Profile<\/a>",
+            "icon": "\/imgdata\/302860.jpg"
+        },
+        {
+            "id": "37270",
+            "title": "Desa Sumber Harapan",
+            "lat": "1.38493",
+            "lng": "109.361962",
+            "text": "Desa Sumber Harapan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37270)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37270)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "53308",
+            "title": "Ekowisata Mangrove Sebubus",
+            "lat": "1.7885940309555661",
+            "lng": "109.33217501652108",
+            "text": "Ekowisata Mangrove Sebubus  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53308)'><img src='\/imgdata\/533080.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53308)'>Profile<\/a>",
+            "icon": "\/imgdata\/533080.jpg"
+        },
+        {
+            "id": "129534",
+            "title": "EKOWISATA MANGROVE SEBUBUS",
+            "lat": "1.7835380245618957",
+            "lng": "109.33488484883115",
+            "text": "EKOWISATA MANGROVE SEBUBUS  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129534)'><img src='\/imgdata\/1295340.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129534)'>Profile<\/a>",
+            "icon": "\/imgdata\/1295340.jpg"
+        },
+        {
+            "id": "26442",
+            "title": "Ekowisata Mangrove Setingga",
+            "lat": "1.78402",
+            "lng": "109.33462",
+            "text": "Ekowisata Mangrove Setingga  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26442)'><img src='\/imgdata\/264420.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26442)'>Profile<\/a>",
+            "icon": "\/imgdata\/264420.jpg"
+        },
+        {
+            "id": "129536",
+            "title": "GALERI ROTAN SEJANGKUNG",
+            "lat": "1.4398009584262332",
+            "lng": "109.31326825465254",
+            "text": "GALERI ROTAN SEJANGKUNG  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129536)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129536)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "129539",
+            "title": "GALERI TENUN SUMBER HARAPAN",
+            "lat": "1.3802750616249482",
+            "lng": "109.34944977979035",
+            "text": "GALERI TENUN SUMBER HARAPAN  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129539)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129539)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37331",
+            "title": "Goa Kelelawar",
+            "lat": "1.244351205",
+            "lng": "109.095578655",
+            "text": "Goa Kelelawar  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37331)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37331)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26458",
+            "title": "Goa Maria Santok",
+            "lat": "1.61612",
+            "lng": "109.49274",
+            "text": "Goa Maria Santok  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26458)'><img src='\/imgdata\/264580.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26458)'>Profile<\/a>",
+            "icon": "\/imgdata\/264580.jpg"
+        },
+        {
+            "id": "32579",
+            "title": "Gunung Senujuh",
+            "lat": "1.440495684",
+            "lng": "109.447829",
+            "text": "Gunung Senujuh  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32579)'><img src='\/imgdata\/325790.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32579)'>Profile<\/a>",
+            "icon": "\/imgdata\/325790.jpg"
+        },
+        {
+            "id": "55238",
+            "title": "Gunung Senujuh",
+            "lat": "1.440474232909415",
+            "lng": "109.44777543527867",
+            "text": "Gunung Senujuh  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(55238)'><img src='\/imgdata\/552380.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(55238)'>Profile<\/a>",
+            "icon": "\/imgdata\/552380.jpg"
+        },
+        {
+            "id": "134731",
+            "title": "GUNUNG SENUJUH",
+            "lat": "1.4543306531638065",
+            "lng": "109.44461048717073",
+            "text": "GUNUNG SENUJUH  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(134731)'><img src='\/imgdata\/1347310.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(134731)'>Profile<\/a>",
+            "icon": "\/imgdata\/1347310.jpg"
+        },
+        {
+            "id": "39016",
+            "title": "Hutan Hujan Tropis Tanjung Dato",
+            "lat": "1.9586111226",
+            "lng": "109.529466",
+            "text": "Hutan Hujan Tropis Tanjung Dato  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39016)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39016)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "129540",
+            "title": "ISTANA ALWATZIKHOEBILLAH",
+            "lat": "1.3618799729032345",
+            "lng": "109.31557326750706",
+            "text": "ISTANA ALWATZIKHOEBILLAH  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129540)'><img src='\/imgdata\/1295400.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129540)'>Profile<\/a>",
+            "icon": "\/imgdata\/1295400.jpg"
+        },
+        {
+            "id": "55234",
+            "title": "Istana Alwatzikhoebillah Sambas",
+            "lat": "1.3621154177152062",
+            "lng": "109.31562110846941",
+            "text": "Istana Alwatzikhoebillah Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(55234)'><img src='\/imgdata\/552340.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(55234)'>Profile<\/a>",
+            "icon": "\/imgdata\/552340.jpg"
+        },
+        {
+            "id": "24445",
+            "title": "Istana Keraton  Alwatzikhobillah Sambas",
+            "lat": "1.36197",
+            "lng": "109.3156",
+            "text": "Istana Keraton  Alwatzikhobillah Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(24445)'><img src='\/imgdata\/244450.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(24445)'>Profile<\/a>",
+            "icon": "\/imgdata\/244450.jpg"
+        },
+        {
+            "id": "39039",
+            "title": "Jembataan Gerrattak Batu",
+            "lat": "1.356730289",
+            "lng": "109.2964628",
+            "text": "Jembataan Gerrattak Batu  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39039)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39039)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "39041",
+            "title": "Jembatan Gerattak Asam",
+            "lat": "1.359176163",
+            "lng": "109.315603693",
+            "text": "Jembatan Gerattak Asam  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39041)'><img src='\/imgdata\/390410.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39041)'>Profile<\/a>",
+            "icon": "\/imgdata\/390410.jpg"
+        },
+        {
+            "id": "27892",
+            "title": "Kebun Raya Sambas",
+            "lat": "1.27108",
+            "lng": "109.48517",
+            "text": "Kebun Raya Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27892)'><img src='\/imgdata\/278920.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27892)'>Profile<\/a>",
+            "icon": "\/imgdata\/278920.jpg"
+        },
+        {
+            "id": "37247",
+            "title": "Makam  Pangeran Timba' Bayi",
+            "lat": "1.05723401",
+            "lng": "108.968669",
+            "text": "Makam  Pangeran Timba' Bayi  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37247)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37247)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37244",
+            "title": "Makam  Ratu Anom Kesuma Yuda",
+            "lat": "1.0696816063",
+            "lng": "108.99979462",
+            "text": "Makam  Ratu Anom Kesuma Yuda  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37244)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37244)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37253",
+            "title": "Makam  Syech Muhammad Sattaruddin",
+            "lat": "1.581546456",
+            "lng": "109.3602938",
+            "text": "Makam  Syech Muhammad Sattaruddin  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37253)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37253)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26511",
+            "title": "Makam Bujang Nadi Dare Nandung ",
+            "lat": "1.2635",
+            "lng": "109.1795",
+            "text": "Makam Bujang Nadi Dare Nandung   - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26511)'><img src='\/imgdata\/265110.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26511)'>Profile<\/a>",
+            "icon": "\/imgdata\/265110.jpg"
+        },
+        {
+            "id": "37256",
+            "title": "Makam Dato Timalar Aziz Bujang",
+            "lat": "1.59338208616",
+            "lng": "109.32232359",
+            "text": "Makam Dato Timalar Aziz Bujang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37256)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37256)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37224",
+            "title": "Makam F.J Sorg ",
+            "lat": "1.15294424697",
+            "lng": "108.98142896129",
+            "text": "Makam F.J Sorg   - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37224)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37224)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "32543",
+            "title": "Makam Keramat Bantilan",
+            "lat": "1.4112353501",
+            "lng": "109.4039",
+            "text": "Makam Keramat Bantilan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32543)'><img src='\/imgdata\/325430.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32543)'>Profile<\/a>",
+            "icon": "\/imgdata\/325430.jpg"
+        },
+        {
+            "id": "37260",
+            "title": "Makam Keramat Dato' Sanggup",
+            "lat": "1.605107798",
+            "lng": "109.31521877",
+            "text": "Makam Keramat Dato' Sanggup  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37260)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37260)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37324",
+            "title": "Makam Keramat Sungai Kumpai",
+            "lat": "1.4657516138",
+            "lng": "109.19300037",
+            "text": "Makam Keramat Sungai Kumpai  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37324)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37324)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26491",
+            "title": "Makam Kesultan Sambas dan Kerabat",
+            "lat": "1.37722",
+            "lng": "109.31518",
+            "text": "Makam Kesultan Sambas dan Kerabat  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26491)'><img src='\/imgdata\/264910.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26491)'>Profile<\/a>",
+            "icon": "\/imgdata\/264910.jpg"
+        },
+        {
+            "id": "37283",
+            "title": "Makam Petinggi Tekarang",
+            "lat": "1.2852724821",
+            "lng": "109.099297014",
+            "text": "Makam Petinggi Tekarang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37283)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37283)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37285",
+            "title": "Makam Petinggi Tekarang",
+            "lat": "1.2852724821",
+            "lng": "109.099297014",
+            "text": "Makam Petinggi Tekarang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37285)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37285)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26531",
+            "title": "Makam Ratu Sepundak",
+            "lat": "1.50577",
+            "lng": "109.36829",
+            "text": "Makam Ratu Sepundak  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26531)'><img src='\/imgdata\/265310.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26531)'>Profile<\/a>",
+            "icon": "\/imgdata\/265310.jpg"
+        },
+        {
+            "id": "32578",
+            "title": "Makam Tuk Kullub Sejangkung",
+            "lat": "1.459894483",
+            "lng": "109.314940481",
+            "text": "Makam Tuk Kullub Sejangkung  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32578)'><img src='\/imgdata\/325780.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32578)'>Profile<\/a>",
+            "icon": "\/imgdata\/325780.jpg"
+        },
+        {
+            "id": "37213",
+            "title": "Markas  Polisi Belanda",
+            "lat": "1.17619106",
+            "lng": "108.97035502",
+            "text": "Markas  Polisi Belanda  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37213)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37213)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26499",
+            "title": "Masjid Jami' Kesultanan Sambas",
+            "lat": "1.37515",
+            "lng": "109.31792",
+            "text": "Masjid Jami' Kesultanan Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26499)'><img src='\/imgdata\/264990.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26499)'>Profile<\/a>",
+            "icon": "\/imgdata\/264990.jpg"
+        },
+        {
+            "id": "24440",
+            "title": "Museum Daerah Sambas",
+            "lat": "1.36481",
+            "lng": "109.29716",
+            "text": "Museum Daerah Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(24440)'><img src='\/imgdata\/244400.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(24440)'>Profile<\/a>",
+            "icon": "\/imgdata\/244400.jpg"
+        },
+        {
+            "id": "30276",
+            "title": "Museum Tamadun Islam",
+            "lat": "1.356705",
+            "lng": "109.315327",
+            "text": "Museum Tamadun Islam  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(30276)'><img src='\/imgdata\/302760.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(30276)'>Profile<\/a>",
+            "icon": "\/imgdata\/302760.jpg"
+        },
+        {
+            "id": "30270",
+            "title": "Muzeum khasanah Melayu H.Subhan Nur",
+            "lat": "1.3689004564",
+            "lng": "109.2962237",
+            "text": "Muzeum khasanah Melayu H.Subhan Nur  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(30270)'><img src='\/imgdata\/302700.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(30270)'>Profile<\/a>",
+            "icon": "\/imgdata\/302700.jpg"
+        },
+        {
+            "id": "53329",
+            "title": "Pantai  Taman Wisata Bahari",
+            "lat": "1.2951367905708715",
+            "lng": "109.00982244820962",
+            "text": "Pantai  Taman Wisata Bahari  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53329)'><img src='\/imgdata\/533290.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53329)'>Profile<\/a>",
+            "icon": "\/imgdata\/533290.jpg"
+        },
+        {
+            "id": "39031",
+            "title": "Pantai Banyuan",
+            "lat": "1.84005383",
+            "lng": "109.39204595",
+            "text": "Pantai Banyuan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39031)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39031)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "39022",
+            "title": "Pantai Batu Pipih",
+            "lat": "1.87985829",
+            "lng": "109.4304981",
+            "text": "Pantai Batu Pipih  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39022)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39022)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "27887",
+            "title": "Pantai Camar Bulan",
+            "lat": "1.9923859",
+            "lng": "109.5892211",
+            "text": "Pantai Camar Bulan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27887)'><img src='\/imgdata\/278870.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27887)'>Profile<\/a>",
+            "icon": "\/imgdata\/278870.jpg"
+        },
+        {
+            "id": "53106",
+            "title": "Pantai Camar Bulan",
+            "lat": "1.992341189708762",
+            "lng": "109.58931838195315",
+            "text": "Pantai Camar Bulan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53106)'><img src='\/imgdata\/531060.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53106)'>Profile<\/a>",
+            "icon": "\/imgdata\/531060.jpg"
+        },
+        {
+            "id": "129065",
+            "title": "Pantai Camar Bulan",
+            "lat": "1.9934558530907185",
+            "lng": "109.58918295254625",
+            "text": "Pantai Camar Bulan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129065)'><img src='\/imgdata\/1290650.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129065)'>Profile<\/a>",
+            "icon": "\/imgdata\/1290650.jpg"
+        },
+        {
+            "id": "39009",
+            "title": "Pantai Dataran Merdeka",
+            "lat": "1.540573",
+            "lng": "109.1128496",
+            "text": "Pantai Dataran Merdeka  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39009)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39009)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37157",
+            "title": "Pantai Datok Buntar",
+            "lat": "1.31439005371",
+            "lng": "109.025306876",
+            "text": "Pantai Datok Buntar  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37157)'><img src='\/imgdata\/371570.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37157)'>Profile<\/a>",
+            "icon": "\/imgdata\/371570.jpg"
+        },
+        {
+            "id": "27884",
+            "title": "Pantai Harapan",
+            "lat": "1.6317222",
+            "lng": "109.218769",
+            "text": "Pantai Harapan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27884)'><img src='\/imgdata\/278840.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27884)'>Profile<\/a>",
+            "icon": "\/imgdata\/278840.jpg"
+        },
+        {
+            "id": "53284",
+            "title": "Pantai JLO",
+            "lat": "2.0323093557973",
+            "lng": "109.6089442873117",
+            "text": "Pantai JLO  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53284)'><img src='\/imgdata\/532840.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53284)'>Profile<\/a>",
+            "icon": "\/imgdata\/532840.jpg"
+        },
+        {
+            "id": "32668",
+            "title": "Pantai Kahona",
+            "lat": "1.465094857",
+            "lng": "109.038525082",
+            "text": "Pantai Kahona  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32668)'><img src='\/imgdata\/326680.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32668)'>Profile<\/a>",
+            "icon": "\/imgdata\/326680.jpg"
+        },
+        {
+            "id": "39018",
+            "title": "Pantai Kalimantan Paloh",
+            "lat": "1.84966189",
+            "lng": "109.4002856",
+            "text": "Pantai Kalimantan Paloh  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39018)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39018)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "27886",
+            "title": "Pantai Kampak Indah",
+            "lat": "1.96017178783",
+            "lng": "109.350546466",
+            "text": "Pantai Kampak Indah  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27886)'><img src='\/imgdata\/278860.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27886)'>Profile<\/a>",
+            "icon": "\/imgdata\/278860.jpg"
+        },
+        {
+            "id": "55233",
+            "title": "Pantai Katsuri Indah",
+            "lat": "1.4475503249415531",
+            "lng": "109.03619231008457",
+            "text": "Pantai Katsuri Indah  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(55233)'><img src='\/imgdata\/552330.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(55233)'>Profile<\/a>",
+            "icon": "\/imgdata\/552330.jpg"
+        },
+        {
+            "id": "129953",
+            "title": "Pantai Katsuri Indah",
+            "lat": "1.4477602074673748",
+            "lng": "109.04325030515815",
+            "text": "Pantai Katsuri Indah  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129953)'><img src='\/imgdata\/1299530.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129953)'>Profile<\/a>",
+            "icon": "\/imgdata\/1299530.jpg"
+        },
+        {
+            "id": "129535",
+            "title": "PANTAI MATANG DANAU",
+            "lat": "1.620613905958414",
+            "lng": "109.19940032347503",
+            "text": "PANTAI MATANG DANAU  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129535)'><img src='\/imgdata\/1295350.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129535)'>Profile<\/a>",
+            "icon": "\/imgdata\/1295350.jpg"
+        },
+        {
+            "id": "38777",
+            "title": "Pantai Muare Jalan Indah",
+            "lat": "1.55567376906",
+            "lng": "109.1293788113",
+            "text": "Pantai Muare Jalan Indah  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(38777)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(38777)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "38774",
+            "title": "Pantai Natuna Indah",
+            "lat": "1.0550923",
+            "lng": "108.9666603984",
+            "text": "Pantai Natuna Indah  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(38774)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(38774)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "129063",
+            "title": "Pantai PJM",
+            "lat": "2.0072855857522898",
+            "lng": "109.58994148231798",
+            "text": "Pantai PJM  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129063)'><img src='\/imgdata\/1290630.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129063)'>Profile<\/a>",
+            "icon": "\/imgdata\/1290630.jpg"
+        },
+        {
+            "id": "32671",
+            "title": "Pantai Polaria ",
+            "lat": "1.0360131846",
+            "lng": "108.96953966",
+            "text": "Pantai Polaria   - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32671)'><img src='\/imgdata\/326710.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32671)'>Profile<\/a>",
+            "icon": "\/imgdata\/326710.jpg"
+        },
+        {
+            "id": "27885",
+            "title": "Pantai Pulau Selimpai",
+            "lat": "1.7852182",
+            "lng": "109.2965136",
+            "text": "Pantai Pulau Selimpai  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27885)'><img src='\/imgdata\/278850.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27885)'>Profile<\/a>",
+            "icon": "\/imgdata\/278850.jpg"
+        },
+        {
+            "id": "26479",
+            "title": "Pantai Putri Serayi",
+            "lat": "1.27844",
+            "lng": "108.99264",
+            "text": "Pantai Putri Serayi  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26479)'><img src='\/imgdata\/264790.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26479)'>Profile<\/a>",
+            "icon": "\/imgdata\/264790.jpg"
+        },
+        {
+            "id": "53439",
+            "title": "Pantai Putri Serayi",
+            "lat": "1.278014246823314",
+            "lng": "108.99268181091475",
+            "text": "Pantai Putri Serayi  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53439)'><img src='\/imgdata\/534390.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53439)'>Profile<\/a>",
+            "icon": "\/imgdata\/534390.jpg"
+        },
+        {
+            "id": "129954",
+            "title": "Pantai Putri Serayi",
+            "lat": "1.2779123482474917",
+            "lng": "108.99263889422834",
+            "text": "Pantai Putri Serayi  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129954)'><img src='\/imgdata\/1299540.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129954)'>Profile<\/a>",
+            "icon": "\/imgdata\/1299540.jpg"
+        },
+        {
+            "id": "32666",
+            "title": "Pantai Rindu Samudera",
+            "lat": "1.90958132213",
+            "lng": "109.328424659",
+            "text": "Pantai Rindu Samudera  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32666)'><img src='\/imgdata\/326660.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32666)'>Profile<\/a>",
+            "icon": "\/imgdata\/326660.jpg"
+        },
+        {
+            "id": "37144",
+            "title": "Pantai Saadi\/Terigas",
+            "lat": "1.0043112931197",
+            "lng": "108.97869207278",
+            "text": "Pantai Saadi\/Terigas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37144)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37144)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "38773",
+            "title": "Pantai Saaidi\/ Terigas",
+            "lat": "1.0568086304",
+            "lng": "108.999619381",
+            "text": "Pantai Saaidi\/ Terigas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(38773)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(38773)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "39034",
+            "title": "Pantai Sinam",
+            "lat": "1.165987188",
+            "lng": "108.97679",
+            "text": "Pantai Sinam  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39034)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39034)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "134071",
+            "title": "PANTAI SINAM",
+            "lat": "1.175583703806682",
+            "lng": "108.97067529657161",
+            "text": "PANTAI SINAM  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(134071)'><img src='\/imgdata\/1340710.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(134071)'>Profile<\/a>",
+            "icon": "\/imgdata\/1340710.jpg"
+        },
+        {
+            "id": "53291",
+            "title": "Pantai Sungai Belacan",
+            "lat": "1.9443576828520326",
+            "lng": "109.37528214378317",
+            "text": "Pantai Sungai Belacan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53291)'><img src='\/imgdata\/532910.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53291)'>Profile<\/a>",
+            "icon": "\/imgdata\/532910.jpg"
+        },
+        {
+            "id": "129533",
+            "title": "PANTAI TANJUNG API",
+            "lat": "1.9422826344470705",
+            "lng": "109.34498367550809",
+            "text": "PANTAI TANJUNG API  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129533)'><img src='\/imgdata\/1295330.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129533)'>Profile<\/a>",
+            "icon": "\/imgdata\/1295330.jpg"
+        },
+        {
+            "id": "39036",
+            "title": "Pantai Tanjung Batu ",
+            "lat": "1.157062631",
+            "lng": "108.979536",
+            "text": "Pantai Tanjung Batu   - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39036)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39036)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "27882",
+            "title": "Pantai Tanjung Lestari Paloh ",
+            "lat": "1.6326494",
+            "lng": "109.2217426",
+            "text": "Pantai Tanjung Lestari Paloh   - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27882)'><img src='\/imgdata\/278820.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27882)'>Profile<\/a>",
+            "icon": "\/imgdata\/278820.jpg"
+        },
+        {
+            "id": "39008",
+            "title": "Pantai Tanjung Terabitan",
+            "lat": "1.5488098212",
+            "lng": "109.111476364",
+            "text": "Pantai Tanjung Terabitan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39008)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39008)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "32682",
+            "title": "Pantai Telok Atong Bahari",
+            "lat": "2.0317440087",
+            "lng": "109.60804756",
+            "text": "Pantai Telok Atong Bahari  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32682)'><img src='\/imgdata\/326820.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32682)'>Profile<\/a>",
+            "icon": "\/imgdata\/326820.jpg"
+        },
+        {
+            "id": "39017",
+            "title": "Pantai Teluk  Cemara  Guntung",
+            "lat": "1.908681642",
+            "lng": "109.3824329",
+            "text": "Pantai Teluk  Cemara  Guntung  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39017)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39017)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "129026",
+            "title": "Pantai Teluk Atong",
+            "lat": "2.043977297829329",
+            "lng": "109.61517145824173",
+            "text": "Pantai Teluk Atong  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129026)'><img src='\/imgdata\/1290260.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129026)'>Profile<\/a>",
+            "icon": "\/imgdata\/1290260.jpg"
+        },
+        {
+            "id": "53277",
+            "title": "Pantai Tiara",
+            "lat": "2.0294838598437273",
+            "lng": "109.60778857094216",
+            "text": "Pantai Tiara  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53277)'><img src='\/imgdata\/532770.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53277)'>Profile<\/a>",
+            "icon": "\/imgdata\/532770.jpg"
+        },
+        {
+            "id": "129061",
+            "title": "Pantai Tiara",
+            "lat": "2.029319634402259",
+            "lng": "109.60708504823782",
+            "text": "Pantai Tiara  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129061)'><img src='\/imgdata\/1290610.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129061)'>Profile<\/a>",
+            "icon": "\/imgdata\/1290610.jpg"
+        },
+        {
+            "id": "38757",
+            "title": "Perkebunan Lada",
+            "lat": "1.90181898501",
+            "lng": "109.4305050321",
+            "text": "Perkebunan Lada  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(38757)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(38757)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "27891",
+            "title": "Perkebunan Sawo Tekarang",
+            "lat": "1.302289403",
+            "lng": "109.1015371",
+            "text": "Perkebunan Sawo Tekarang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27891)'><img src='\/imgdata\/278910.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27891)'>Profile<\/a>",
+            "icon": "\/imgdata\/278910.jpg"
+        },
+        {
+            "id": "25455",
+            "title": "Ramin Bantang Sungai Rambah",
+            "lat": "1.32568",
+            "lng": "109.2795",
+            "text": "Ramin Bantang Sungai Rambah  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(25455)'><img src='\/imgdata\/254550.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(25455)'>Profile<\/a>",
+            "icon": "\/imgdata\/254550.jpg"
+        },
+        {
+            "id": "53107",
+            "title": "Resort Camar Bulan",
+            "lat": "1.9929625903499533",
+            "lng": "109.59185981356971",
+            "text": "Resort Camar Bulan  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53107)'><img src='\/imgdata\/531070.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53107)'>Profile<\/a>",
+            "icon": "\/imgdata\/531070.jpg"
+        },
+        {
+            "id": "56156",
+            "title": "Riam Banokng",
+            "lat": "1.663695236411498",
+            "lng": "109.60364136528366",
+            "text": "Riam Banokng  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(56156)'><img src='\/imgdata\/561560.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(56156)'>Profile<\/a>",
+            "icon": "\/imgdata\/561560.jpg"
+        },
+        {
+            "id": "56165",
+            "title": "Riam Berasap",
+            "lat": "1.6306685371802363",
+            "lng": "109.64469191007016",
+            "text": "Riam Berasap  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(56165)'><img src='\/imgdata\/561650.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(56165)'>Profile<\/a>",
+            "icon": "\/imgdata\/561650.jpg"
+        },
+        {
+            "id": "32590",
+            "title": "Riam Sunge Banokng",
+            "lat": "1.660969304",
+            "lng": "109.6043",
+            "text": "Riam Sunge Banokng  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32590)'><img src='\/imgdata\/325900.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32590)'>Profile<\/a>",
+            "icon": "\/imgdata\/325900.jpg"
+        },
+        {
+            "id": "129955",
+            "title": "Riam Sunge Banokng",
+            "lat": "1.6608835092467562",
+            "lng": "109.60438826724666",
+            "text": "Riam Sunge Banokng  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129955)'><img src='\/imgdata\/1299550.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129955)'>Profile<\/a>",
+            "icon": "\/imgdata\/1299550.jpg"
+        },
+        {
+            "id": "39001",
+            "title": "Rumah Batu",
+            "lat": "1.2052025612",
+            "lng": "109.44910952",
+            "text": "Rumah Batu  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39001)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39001)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "30274",
+            "title": "Rumah Kediaman H. Sood Datuk Kaya Lela Mahkota",
+            "lat": "1.36677135",
+            "lng": "109.30828",
+            "text": "Rumah Kediaman H. Sood Datuk Kaya Lela Mahkota  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(30274)'><img src='\/imgdata\/302740.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(30274)'>Profile<\/a>",
+            "icon": "\/imgdata\/302740.jpg"
+        },
+        {
+            "id": "36889",
+            "title": "Rumah Makan Vaksa",
+            "lat": "1.35580149",
+            "lng": "109.29381565",
+            "text": "Rumah Makan Vaksa  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(36889)'><img src='\/imgdata\/368890.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(36889)'>Profile<\/a>",
+            "icon": "\/imgdata\/368890.jpg"
+        },
+        {
+            "id": "27890",
+            "title": "Rumah Petinggi Tekarang",
+            "lat": "1.285542",
+            "lng": "109.1163458",
+            "text": "Rumah Petinggi Tekarang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(27890)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(27890)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37317",
+            "title": "Rumah Petinggi Tekarang",
+            "lat": "1.30449364613",
+            "lng": "109.10616347",
+            "text": "Rumah Petinggi Tekarang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37317)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37317)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "37203",
+            "title": "Rumah Tahanan Belanda",
+            "lat": "1.17636268763",
+            "lng": "108.970569604",
+            "text": "Rumah Tahanan Belanda  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37203)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37203)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "24354",
+            "title": "Rumah Terbalik",
+            "lat": "1.9896",
+            "lng": "109.59075",
+            "text": "Rumah Terbalik  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(24354)'><img src='\/imgdata\/243540.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(24354)'>Profile<\/a>",
+            "icon": "\/imgdata\/243540.jpg"
+        },
+        {
+            "id": "129066",
+            "title": "Rumah Terbalik",
+            "lat": "1.9896537305096265",
+            "lng": "109.59070120112283",
+            "text": "Rumah Terbalik  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(129066)'><img src='\/imgdata\/1290660.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(129066)'>Profile<\/a>",
+            "icon": "\/imgdata\/1290660.jpg"
+        },
+        {
+            "id": "26524",
+            "title": "Surau Peninggalan Raden Sulaiman",
+            "lat": "1.28992",
+            "lng": "109.17492",
+            "text": "Surau Peninggalan Raden Sulaiman  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26524)'><img src='\/imgdata\/265240.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26524)'>Profile<\/a>",
+            "icon": "\/imgdata\/265240.jpg"
+        },
+        {
+            "id": "39033",
+            "title": "Taman Istana  Putri Danau Sebedang",
+            "lat": "1.2612873567",
+            "lng": "109.176594135",
+            "text": "Taman Istana  Putri Danau Sebedang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39033)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39033)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "30282",
+            "title": "Taman Lunggi Sambas",
+            "lat": "1.36454144",
+            "lng": "109.3230984",
+            "text": "Taman Lunggi Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(30282)'><img src='\/imgdata\/302820.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(30282)'>Profile<\/a>",
+            "icon": "\/imgdata\/302820.jpg"
+        },
+        {
+            "id": "39010",
+            "title": "Taman Rekreasi Batu Bejamban",
+            "lat": "1.877113186",
+            "lng": "109.4153918986",
+            "text": "Taman Rekreasi Batu Bejamban  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39010)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39010)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "39006",
+            "title": "Taman Rekreasi Batu Mak Jage",
+            "lat": "1.1934159",
+            "lng": "109.199788829",
+            "text": "Taman Rekreasi Batu Mak Jage  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(39006)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(39006)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "36187",
+            "title": "Taman Wisata Alam Gunung Asuansang ",
+            "lat": "1.801158071",
+            "lng": "109.483204497",
+            "text": "Taman Wisata Alam Gunung Asuansang   - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(36187)'><img src='\/imgdata\/361870.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(36187)'>Profile<\/a>",
+            "icon": "\/imgdata\/361870.jpg"
+        },
+        {
+            "id": "36189",
+            "title": "Taman Wisata Alam Gunung Dungun",
+            "lat": "1.4558751",
+            "lng": "109.0520094",
+            "text": "Taman Wisata Alam Gunung Dungun  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(36189)'><img src='\/imgdata\/361890.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(36189)'>Profile<\/a>",
+            "icon": "\/imgdata\/361890.jpg"
+        },
+        {
+            "id": "36190",
+            "title": "Taman Wisata Alam Sungai Liku",
+            "lat": "1.7433012",
+            "lng": "109.3164602",
+            "text": "Taman Wisata Alam Sungai Liku  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(36190)'><img src='\/imgdata\/361900.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(36190)'>Profile<\/a>",
+            "icon": "\/imgdata\/361900.jpg"
+        },
+        {
+            "id": "32678",
+            "title": "Taman Wisata Alam Tanjung Belimbing",
+            "lat": "1.795456411",
+            "lng": "109.30944862",
+            "text": "Taman Wisata Alam Tanjung Belimbing  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32678)'><img src='\/imgdata\/326780.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32678)'>Profile<\/a>",
+            "icon": "\/imgdata\/326780.jpg"
+        },
+        {
+            "id": "24035",
+            "title": "Taman Wisata Bahari",
+            "lat": "1.2963",
+            "lng": "109.00863",
+            "text": "Taman Wisata Bahari  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(24035)'><img src='\/imgdata\/240350.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(24035)'>Profile<\/a>",
+            "icon": "\/imgdata\/240350.jpg"
+        },
+        {
+            "id": "123895",
+            "title": "TAMAN WISATA BAHARI",
+            "lat": "1.2951518792648582",
+            "lng": "109.00990525332125",
+            "text": "TAMAN WISATA BAHARI  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(123895)'><img src='\/imgdata\/1238950.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(123895)'>Profile<\/a>",
+            "icon": "\/imgdata\/1238950.jpg"
+        },
+        {
+            "id": "32604",
+            "title": "Taman Wista Alam Gunung Melintang",
+            "lat": "1.719199085",
+            "lng": "109.5791482",
+            "text": "Taman Wista Alam Gunung Melintang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(32604)'><img src='\/imgdata\/326040.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(32604)'>Profile<\/a>",
+            "icon": "\/imgdata\/326040.jpg"
+        },
+        {
+            "id": "24397",
+            "title": "Tanjung Api",
+            "lat": "1.944335",
+            "lng": "109.3460614",
+            "text": "Tanjung Api  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(24397)'><img src='\/imgdata\/243970.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(24397)'>Profile<\/a>",
+            "icon": "\/imgdata\/243970.jpg"
+        },
+        {
+            "id": "53296",
+            "title": "Tanjung Api",
+            "lat": "1.9351354712067521",
+            "lng": "109.3333357548151",
+            "text": "Tanjung Api  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53296)'><img src='\/imgdata\/532960.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53296)'>Profile<\/a>",
+            "icon": "\/imgdata\/532960.jpg"
+        },
+        {
+            "id": "37327",
+            "title": "Tanjung Monang",
+            "lat": "1.47536148463",
+            "lng": "109.22321278",
+            "text": "Tanjung Monang  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37327)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37327)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "53254",
+            "title": "Teluk Atong",
+            "lat": "2.0440202847997084",
+            "lng": "109.61521457279788",
+            "text": "Teluk Atong  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(53254)'><img src='\/imgdata\/532540.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(53254)'>Profile<\/a>",
+            "icon": "\/imgdata\/532540.jpg"
+        },
+        {
+            "id": "26555",
+            "title": "Toa Kelenteng Ular Putih",
+            "lat": "1.15287815",
+            "lng": "108.96848018",
+            "text": "Toa Kelenteng Ular Putih  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26555)'><img src='\/imgdata\/265550.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26555)'>Profile<\/a>",
+            "icon": "\/imgdata\/265550.jpg"
+        },
+        {
+            "id": "26545",
+            "title": "Toa Pekong Dewi Kwan In",
+            "lat": "1.13039",
+            "lng": "108.968143",
+            "text": "Toa Pekong Dewi Kwan In  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26545)'><img src='\/imgdata\/265450.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26545)'>Profile<\/a>",
+            "icon": "\/imgdata\/265450.jpg"
+        },
+        {
+            "id": "37237",
+            "title": "Tugu Fasisme",
+            "lat": "1.16049580822",
+            "lng": "108.984",
+            "text": "Tugu Fasisme  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(37237)'><img src='\/images2\/destinasi.png' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(37237)'>Profile<\/a>",
+            "icon": "\/images2\/destinasi.png"
+        },
+        {
+            "id": "26536",
+            "title": "Waterfront City Sambas",
+            "lat": "1.3639",
+            "lng": "109.31477",
+            "text": "Waterfront City Sambas  - Kabupaten Sambas<br\/><a href='#' onclick='return openPopup(26536)'><img src='\/imgdata\/265360.jpg' width='200px'\/><\/a><br\/><a href='#' onclick='return openPopup(26536)'>Profile<\/a>",
+            "icon": "\/imgdata\/265360.jpg"
+        }
+    ],
+    "section": "peta",
+    "scope": "dtw",
+    "zoom": 0,
+    "list": "<table class=\"table table-hover table-stripped\">\n<tr><th>#<\/th><th>Nama<\/th><th>Action<\/th><\/tr>\n<tr><td>1<\/td><td><\/td><td><a href='javascript:openPopup(55416)'>Profile<\/a><\/td><\/tr><tr><td>2<\/td><td> Kelenteng Sam Bong Ja. Sam San Ket Bong<\/td><td><a href='javascript:openPopup(26542)'>Profile<\/a><\/td><\/tr><tr><td>3<\/td><td>Agro Wisata Buah Naga Jawai<\/td><td><a href='javascript:openPopup(27895)'>Profile<\/a><\/td><\/tr><tr><td>4<\/td><td>Agro Wisata Buah Nenas<\/td><td><a href='javascript:openPopup(38756)'>Profile<\/a><\/td><\/tr><tr><td>5<\/td><td>Agro Wisata kota Jeruk Tebas<\/td><td><a href='javascript:openPopup(27894)'>Profile<\/a><\/td><\/tr><tr><td>6<\/td><td>Agro Wisata Matang Nangka<\/td><td><a href='javascript:openPopup(37356)'>Profile<\/a><\/td><\/tr><tr><td>7<\/td><td>Air Terjun Gunung Pangi<\/td><td><a href='javascript:openPopup(39014)'>Profile<\/a><\/td><\/tr><tr><td>8<\/td><td>Air Terjun Gunung Selindung<\/td><td><a href='javascript:openPopup(37277)'>Profile<\/a><\/td><\/tr><tr><td>9<\/td><td>Air Terjun Riam Berasap Kaliau'<\/td><td><a href='javascript:openPopup(26475)'>Profile<\/a><\/td><\/tr><tr><td>10<\/td><td>Air Terjun Teluk Nibung<\/td><td><a href='javascript:openPopup(39015)'>Profile<\/a><\/td><\/tr><tr><td>11<\/td><td>Bangunan Kantor Kewedanaan Balairung Sari<\/td><td><a href='javascript:openPopup(37219)'>Profile<\/a><\/td><\/tr><tr><td>12<\/td><td>Batu  Bejamban<\/td><td><a href='javascript:openPopup(37197)'>Profile<\/a><\/td><\/tr><tr><td>13<\/td><td>Batu Betarup<\/td><td><a href='javascript:openPopup(32664)'>Profile<\/a><\/td><\/tr><tr><td>14<\/td><td>Batu Lapak<\/td><td><a href='javascript:openPopup(53399)'>Profile<\/a><\/td><\/tr><tr><td>15<\/td><td>BATU LAPAK<\/td><td><a href='javascript:openPopup(134729)'>Profile<\/a><\/td><\/tr><tr><td>16<\/td><td>Batu Nenek<\/td><td><a href='javascript:openPopup(27893)'>Profile<\/a><\/td><\/tr><tr><td>17<\/td><td>Benteng Peninggalan Belanda<\/td><td><a href='javascript:openPopup(37231)'>Profile<\/a><\/td><\/tr><tr><td>18<\/td><td>Bukit Piantus<\/td><td><a href='javascript:openPopup(32555)'>Profile<\/a><\/td><\/tr><tr><td>19<\/td><td>Bukit Piantus<\/td><td><a href='javascript:openPopup(55237)'>Profile<\/a><\/td><\/tr><tr><td>20<\/td><td>BUKIT PIANTUS<\/td><td><a href='javascript:openPopup(134732)'>Profile<\/a><\/td><\/tr><tr><td>21<\/td><td>Crab Village Temajuk <\/td><td><a href='javascript:openPopup(53238)'>Profile<\/a><\/td><\/tr><tr><td>22<\/td><td>Danau Biru<\/td><td><a href='javascript:openPopup(37273)'>Profile<\/a><\/td><\/tr><tr><td>23<\/td><td>Danau Sebedang<\/td><td><a href='javascript:openPopup(26450)'>Profile<\/a><\/td><\/tr><tr><td>24<\/td><td>Danau Sebedang<\/td><td><a href='javascript:openPopup(55236)'>Profile<\/a><\/td><\/tr><tr><td>25<\/td><td>DANAU SEBEDANG<\/td><td><a href='javascript:openPopup(129033)'>Profile<\/a><\/td><\/tr><tr><td>26<\/td><td>Dermaga Asam Jawe<\/td><td><a href='javascript:openPopup(39023)'>Profile<\/a><\/td><\/tr><tr><td>27<\/td><td>Dermaga Wisata Sambas<\/td><td><a href='javascript:openPopup(30286)'>Profile<\/a><\/td><\/tr><tr><td>28<\/td><td>Desa Sumber Harapan<\/td><td><a href='javascript:openPopup(37270)'>Profile<\/a><\/td><\/tr><tr><td>29<\/td><td>Ekowisata Mangrove Sebubus<\/td><td><a href='javascript:openPopup(53308)'>Profile<\/a><\/td><\/tr><tr><td>30<\/td><td>EKOWISATA MANGROVE SEBUBUS<\/td><td><a href='javascript:openPopup(129534)'>Profile<\/a><\/td><\/tr><tr><td>31<\/td><td>Ekowisata Mangrove Setingga<\/td><td><a href='javascript:openPopup(26442)'>Profile<\/a><\/td><\/tr><tr><td>32<\/td><td>GALERI ROTAN SEJANGKUNG<\/td><td><a href='javascript:openPopup(129536)'>Profile<\/a><\/td><\/tr><tr><td>33<\/td><td>GALERI TENUN SUMBER HARAPAN<\/td><td><a href='javascript:openPopup(129539)'>Profile<\/a><\/td><\/tr><tr><td>34<\/td><td>Goa Kelelawar<\/td><td><a href='javascript:openPopup(37331)'>Profile<\/a><\/td><\/tr><tr><td>35<\/td><td>Goa Maria Santok<\/td><td><a href='javascript:openPopup(26458)'>Profile<\/a><\/td><\/tr><tr><td>36<\/td><td>Gunung Senujuh<\/td><td><a href='javascript:openPopup(32579)'>Profile<\/a><\/td><\/tr><tr><td>37<\/td><td>Gunung Senujuh<\/td><td><a href='javascript:openPopup(55238)'>Profile<\/a><\/td><\/tr><tr><td>38<\/td><td>GUNUNG SENUJUH<\/td><td><a href='javascript:openPopup(134731)'>Profile<\/a><\/td><\/tr><tr><td>39<\/td><td>Hutan Hujan Tropis Tanjung Dato<\/td><td><a href='javascript:openPopup(39016)'>Profile<\/a><\/td><\/tr><tr><td>40<\/td><td>ISTANA ALWATZIKHOEBILLAH<\/td><td><a href='javascript:openPopup(129540)'>Profile<\/a><\/td><\/tr><tr><td>41<\/td><td>Istana Alwatzikhoebillah Sambas<\/td><td><a href='javascript:openPopup(55234)'>Profile<\/a><\/td><\/tr><tr><td>42<\/td><td>Istana Keraton  Alwatzikhobillah Sambas<\/td><td><a href='javascript:openPopup(24445)'>Profile<\/a><\/td><\/tr><tr><td>43<\/td><td>Jembataan Gerrattak Batu<\/td><td><a href='javascript:openPopup(39039)'>Profile<\/a><\/td><\/tr><tr><td>44<\/td><td>Jembatan Gerattak Asam<\/td><td><a href='javascript:openPopup(39041)'>Profile<\/a><\/td><\/tr><tr><td>45<\/td><td>Kebun Raya Sambas<\/td><td><a href='javascript:openPopup(27892)'>Profile<\/a><\/td><\/tr><tr><td>46<\/td><td>Makam  Pangeran Timba' Bayi<\/td><td><a href='javascript:openPopup(37247)'>Profile<\/a><\/td><\/tr><tr><td>47<\/td><td>Makam  Ratu Anom Kesuma Yuda<\/td><td><a href='javascript:openPopup(37244)'>Profile<\/a><\/td><\/tr><tr><td>48<\/td><td>Makam  Syech Muhammad Sattaruddin<\/td><td><a href='javascript:openPopup(37253)'>Profile<\/a><\/td><\/tr><tr><td>49<\/td><td>Makam Bujang Nadi Dare Nandung <\/td><td><a href='javascript:openPopup(26511)'>Profile<\/a><\/td><\/tr><tr><td>50<\/td><td>Makam Dato Timalar Aziz Bujang<\/td><td><a href='javascript:openPopup(37256)'>Profile<\/a><\/td><\/tr><tr><td>51<\/td><td>Makam F.J Sorg <\/td><td><a href='javascript:openPopup(37224)'>Profile<\/a><\/td><\/tr><tr><td>52<\/td><td>Makam Keramat Bantilan<\/td><td><a href='javascript:openPopup(32543)'>Profile<\/a><\/td><\/tr><tr><td>53<\/td><td>Makam Keramat Dato' Sanggup<\/td><td><a href='javascript:openPopup(37260)'>Profile<\/a><\/td><\/tr><tr><td>54<\/td><td>Makam Keramat Sungai Kumpai<\/td><td><a href='javascript:openPopup(37324)'>Profile<\/a><\/td><\/tr><tr><td>55<\/td><td>Makam Kesultan Sambas dan Kerabat<\/td><td><a href='javascript:openPopup(26491)'>Profile<\/a><\/td><\/tr><tr><td>56<\/td><td>Makam Petinggi Tekarang<\/td><td><a href='javascript:openPopup(37283)'>Profile<\/a><\/td><\/tr><tr><td>57<\/td><td>Makam Petinggi Tekarang<\/td><td><a href='javascript:openPopup(37285)'>Profile<\/a><\/td><\/tr><tr><td>58<\/td><td>Makam Ratu Sepundak<\/td><td><a href='javascript:openPopup(26531)'>Profile<\/a><\/td><\/tr><tr><td>59<\/td><td>Makam Tuk Kullub Sejangkung<\/td><td><a href='javascript:openPopup(32578)'>Profile<\/a><\/td><\/tr><tr><td>60<\/td><td>Markas  Polisi Belanda<\/td><td><a href='javascript:openPopup(37213)'>Profile<\/a><\/td><\/tr><tr><td>61<\/td><td>Masjid Jami' Kesultanan Sambas<\/td><td><a href='javascript:openPopup(26499)'>Profile<\/a><\/td><\/tr><tr><td>62<\/td><td>Museum Daerah Sambas<\/td><td><a href='javascript:openPopup(24440)'>Profile<\/a><\/td><\/tr><tr><td>63<\/td><td>Museum Tamadun Islam<\/td><td><a href='javascript:openPopup(30276)'>Profile<\/a><\/td><\/tr><tr><td>64<\/td><td>Muzeum khasanah Melayu H.Subhan Nur<\/td><td><a href='javascript:openPopup(30270)'>Profile<\/a><\/td><\/tr><tr><td>65<\/td><td>Pantai  Taman Wisata Bahari<\/td><td><a href='javascript:openPopup(53329)'>Profile<\/a><\/td><\/tr><tr><td>66<\/td><td>Pantai Banyuan<\/td><td><a href='javascript:openPopup(39031)'>Profile<\/a><\/td><\/tr><tr><td>67<\/td><td>Pantai Batu Pipih<\/td><td><a href='javascript:openPopup(39022)'>Profile<\/a><\/td><\/tr><tr><td>68<\/td><td>Pantai Camar Bulan<\/td><td><a href='javascript:openPopup(27887)'>Profile<\/a><\/td><\/tr><tr><td>69<\/td><td>Pantai Camar Bulan<\/td><td><a href='javascript:openPopup(53106)'>Profile<\/a><\/td><\/tr><tr><td>70<\/td><td>Pantai Camar Bulan<\/td><td><a href='javascript:openPopup(129065)'>Profile<\/a><\/td><\/tr><tr><td>71<\/td><td>Pantai Dataran Merdeka<\/td><td><a href='javascript:openPopup(39009)'>Profile<\/a><\/td><\/tr><tr><td>72<\/td><td>Pantai Datok Buntar<\/td><td><a href='javascript:openPopup(37157)'>Profile<\/a><\/td><\/tr><tr><td>73<\/td><td>Pantai Harapan<\/td><td><a href='javascript:openPopup(27884)'>Profile<\/a><\/td><\/tr><tr><td>74<\/td><td>Pantai JLO<\/td><td><a href='javascript:openPopup(53284)'>Profile<\/a><\/td><\/tr><tr><td>75<\/td><td>Pantai Kahona<\/td><td><a href='javascript:openPopup(32668)'>Profile<\/a><\/td><\/tr><tr><td>76<\/td><td>Pantai Kalimantan Paloh<\/td><td><a href='javascript:openPopup(39018)'>Profile<\/a><\/td><\/tr><tr><td>77<\/td><td>Pantai Kampak Indah<\/td><td><a href='javascript:openPopup(27886)'>Profile<\/a><\/td><\/tr><tr><td>78<\/td><td>Pantai Katsuri Indah<\/td><td><a href='javascript:openPopup(55233)'>Profile<\/a><\/td><\/tr><tr><td>79<\/td><td>Pantai Katsuri Indah<\/td><td><a href='javascript:openPopup(129953)'>Profile<\/a><\/td><\/tr><tr><td>80<\/td><td>PANTAI MATANG DANAU<\/td><td><a href='javascript:openPopup(129535)'>Profile<\/a><\/td><\/tr><tr><td>81<\/td><td>Pantai Muare Jalan Indah<\/td><td><a href='javascript:openPopup(38777)'>Profile<\/a><\/td><\/tr><tr><td>82<\/td><td>Pantai Natuna Indah<\/td><td><a href='javascript:openPopup(38774)'>Profile<\/a><\/td><\/tr><tr><td>83<\/td><td>Pantai PJM<\/td><td><a href='javascript:openPopup(129063)'>Profile<\/a><\/td><\/tr><tr><td>84<\/td><td>Pantai Polaria <\/td><td><a href='javascript:openPopup(32671)'>Profile<\/a><\/td><\/tr><tr><td>85<\/td><td>Pantai Pulau Selimpai<\/td><td><a href='javascript:openPopup(27885)'>Profile<\/a><\/td><\/tr><tr><td>86<\/td><td>Pantai Putri Serayi<\/td><td><a href='javascript:openPopup(26479)'>Profile<\/a><\/td><\/tr><tr><td>87<\/td><td>Pantai Putri Serayi<\/td><td><a href='javascript:openPopup(53439)'>Profile<\/a><\/td><\/tr><tr><td>88<\/td><td>Pantai Putri Serayi<\/td><td><a href='javascript:openPopup(129954)'>Profile<\/a><\/td><\/tr><tr><td>89<\/td><td>Pantai Rindu Samudera<\/td><td><a href='javascript:openPopup(32666)'>Profile<\/a><\/td><\/tr><tr><td>90<\/td><td>Pantai Saadi\/Terigas<\/td><td><a href='javascript:openPopup(37144)'>Profile<\/a><\/td><\/tr><tr><td>91<\/td><td>Pantai Saaidi\/ Terigas<\/td><td><a href='javascript:openPopup(38773)'>Profile<\/a><\/td><\/tr><tr><td>92<\/td><td>Pantai Sinam<\/td><td><a href='javascript:openPopup(39034)'>Profile<\/a><\/td><\/tr><tr><td>93<\/td><td>PANTAI SINAM<\/td><td><a href='javascript:openPopup(134071)'>Profile<\/a><\/td><\/tr><tr><td>94<\/td><td>Pantai Sungai Belacan<\/td><td><a href='javascript:openPopup(53291)'>Profile<\/a><\/td><\/tr><tr><td>95<\/td><td>PANTAI TANJUNG API<\/td><td><a href='javascript:openPopup(129533)'>Profile<\/a><\/td><\/tr><tr><td>96<\/td><td>Pantai Tanjung Batu <\/td><td><a href='javascript:openPopup(39036)'>Profile<\/a><\/td><\/tr><tr><td>97<\/td><td>Pantai Tanjung Lestari Paloh <\/td><td><a href='javascript:openPopup(27882)'>Profile<\/a><\/td><\/tr><tr><td>98<\/td><td>Pantai Tanjung Terabitan<\/td><td><a href='javascript:openPopup(39008)'>Profile<\/a><\/td><\/tr><tr><td>99<\/td><td>Pantai Telok Atong Bahari<\/td><td><a href='javascript:openPopup(32682)'>Profile<\/a><\/td><\/tr><tr><td>100<\/td><td>Pantai Teluk  Cemara  Guntung<\/td><td><a href='javascript:openPopup(39017)'>Profile<\/a><\/td><\/tr><tr><td>101<\/td><td>Pantai Teluk Atong<\/td><td><a href='javascript:openPopup(129026)'>Profile<\/a><\/td><\/tr><tr><td>102<\/td><td>Pantai Tiara<\/td><td><a href='javascript:openPopup(53277)'>Profile<\/a><\/td><\/tr><tr><td>103<\/td><td>Pantai Tiara<\/td><td><a href='javascript:openPopup(129061)'>Profile<\/a><\/td><\/tr><tr><td>104<\/td><td>Perkebunan Lada<\/td><td><a href='javascript:openPopup(38757)'>Profile<\/a><\/td><\/tr><tr><td>105<\/td><td>Perkebunan Sawo Tekarang<\/td><td><a href='javascript:openPopup(27891)'>Profile<\/a><\/td><\/tr><tr><td>106<\/td><td>Ramin Bantang Sungai Rambah<\/td><td><a href='javascript:openPopup(25455)'>Profile<\/a><\/td><\/tr><tr><td>107<\/td><td>Resort Camar Bulan<\/td><td><a href='javascript:openPopup(53107)'>Profile<\/a><\/td><\/tr><tr><td>108<\/td><td>Riam Banokng<\/td><td><a href='javascript:openPopup(56156)'>Profile<\/a><\/td><\/tr><tr><td>109<\/td><td>Riam Berasap<\/td><td><a href='javascript:openPopup(56165)'>Profile<\/a><\/td><\/tr><tr><td>110<\/td><td>Riam Sunge Banokng<\/td><td><a href='javascript:openPopup(32590)'>Profile<\/a><\/td><\/tr><tr><td>111<\/td><td>Riam Sunge Banokng<\/td><td><a href='javascript:openPopup(129955)'>Profile<\/a><\/td><\/tr><tr><td>112<\/td><td>Rumah Batu<\/td><td><a href='javascript:openPopup(39001)'>Profile<\/a><\/td><\/tr><tr><td>113<\/td><td>Rumah Kediaman H. Sood Datuk Kaya Lela Mahkota<\/td><td><a href='javascript:openPopup(30274)'>Profile<\/a><\/td><\/tr><tr><td>114<\/td><td>Rumah Makan Vaksa<\/td><td><a href='javascript:openPopup(36889)'>Profile<\/a><\/td><\/tr><tr><td>115<\/td><td>Rumah Petinggi Tekarang<\/td><td><a href='javascript:openPopup(27890)'>Profile<\/a><\/td><\/tr><tr><td>116<\/td><td>Rumah Petinggi Tekarang<\/td><td><a href='javascript:openPopup(37317)'>Profile<\/a><\/td><\/tr><tr><td>117<\/td><td>Rumah Tahanan Belanda<\/td><td><a href='javascript:openPopup(37203)'>Profile<\/a><\/td><\/tr><tr><td>118<\/td><td>Rumah Terbalik<\/td><td><a href='javascript:openPopup(24354)'>Profile<\/a><\/td><\/tr><tr><td>119<\/td><td>Rumah Terbalik<\/td><td><a href='javascript:openPopup(129066)'>Profile<\/a><\/td><\/tr><tr><td>120<\/td><td>Surau Peninggalan Raden Sulaiman<\/td><td><a href='javascript:openPopup(26524)'>Profile<\/a><\/td><\/tr><tr><td>121<\/td><td>Taman Istana  Putri Danau Sebedang<\/td><td><a href='javascript:openPopup(39033)'>Profile<\/a><\/td><\/tr><tr><td>122<\/td><td>Taman Lunggi Sambas<\/td><td><a href='javascript:openPopup(30282)'>Profile<\/a><\/td><\/tr><tr><td>123<\/td><td>Taman Rekreasi Batu Bejamban<\/td><td><a href='javascript:openPopup(39010)'>Profile<\/a><\/td><\/tr><tr><td>124<\/td><td>Taman Rekreasi Batu Mak Jage<\/td><td><a href='javascript:openPopup(39006)'>Profile<\/a><\/td><\/tr><tr><td>125<\/td><td>Taman Wisata Alam Gunung Asuansang <\/td><td><a href='javascript:openPopup(36187)'>Profile<\/a><\/td><\/tr><tr><td>126<\/td><td>Taman Wisata Alam Gunung Dungun<\/td><td><a href='javascript:openPopup(36189)'>Profile<\/a><\/td><\/tr><tr><td>127<\/td><td>Taman Wisata Alam Sungai Liku<\/td><td><a href='javascript:openPopup(36190)'>Profile<\/a><\/td><\/tr><tr><td>128<\/td><td>Taman Wisata Alam Tanjung Belimbing<\/td><td><a href='javascript:openPopup(32678)'>Profile<\/a><\/td><\/tr><tr><td>129<\/td><td>Taman Wisata Bahari<\/td><td><a href='javascript:openPopup(24035)'>Profile<\/a><\/td><\/tr><tr><td>130<\/td><td>TAMAN WISATA BAHARI<\/td><td><a href='javascript:openPopup(123895)'>Profile<\/a><\/td><\/tr><tr><td>131<\/td><td>Taman Wista Alam Gunung Melintang<\/td><td><a href='javascript:openPopup(32604)'>Profile<\/a><\/td><\/tr><tr><td>132<\/td><td>Tanjung Api<\/td><td><a href='javascript:openPopup(24397)'>Profile<\/a><\/td><\/tr><tr><td>133<\/td><td>Tanjung Api<\/td><td><a href='javascript:openPopup(53296)'>Profile<\/a><\/td><\/tr><tr><td>134<\/td><td>Tanjung Monang<\/td><td><a href='javascript:openPopup(37327)'>Profile<\/a><\/td><\/tr><tr><td>135<\/td><td>Teluk Atong<\/td><td><a href='javascript:openPopup(53254)'>Profile<\/a><\/td><\/tr><tr><td>136<\/td><td>Toa Kelenteng Ular Putih<\/td><td><a href='javascript:openPopup(26555)'>Profile<\/a><\/td><\/tr><tr><td>137<\/td><td>Toa Pekong Dewi Kwan In<\/td><td><a href='javascript:openPopup(26545)'>Profile<\/a><\/td><\/tr><tr><td>138<\/td><td>Tugu Fasisme<\/td><td><a href='javascript:openPopup(37237)'>Profile<\/a><\/td><\/tr><tr><td>139<\/td><td>Waterfront City Sambas<\/td><td><a href='javascript:openPopup(26536)'>Profile<\/a><\/td><\/tr>\n<\/table>Catatan: Jumlah data adalah jumlah dari data yang memiliki koordinat lengkap",
+    "region": [
+        {
+            "kode": "6101",
+            "nama": "KAB. SAMBAS",
+            "path": [
+                [
+                    1.536919951439,
+                    109.74904632567996
+                ],
+                [
+                    1.506240963936,
+                    109.73589324951001
+                ],
+                [
+                    1.4936690330505,
+                    109.72820281982001
+                ],
+                [
+                    1.4806009531022,
+                    109.71890258788994
+                ],
+                [
+                    1.4686599969864,
+                    109.70495605469
+                ],
+                [
+                    1.4472299814225,
+                    109.66398620605003
+                ],
+                [
+                    1.4190089702606,
+                    109.63928222656
+                ],
+                [
+                    1.4142600297929,
+                    109.62948608398005
+                ],
+                [
+                    1.4206000566483,
+                    109.61109161376999
+                ],
+                [
+                    1.4187200069428,
+                    109.60336303711006
+                ],
+                [
+                    1.4023400545121,
+                    109.57479858398005
+                ],
+                [
+                    1.3901300430299,
+                    109.56894683838004
+                ],
+                [
+                    1.3799790143967,
+                    109.56759643555006
+                ],
+                [
+                    1.363569021225,
+                    109.57198333740007
+                ],
+                [
+                    1.3507610559464,
+                    109.58228302001999
+                ],
+                [
+                    1.3366210460664,
+                    109.59736633300997
+                ],
+                [
+                    1.3292620182038,
+                    109.61192321777003
+                ],
+                [
+                    1.32796895504,
+                    109.62203216553007
+                ],
+                [
+                    1.3229889869691,
+                    109.62992095946993
+                ],
+                [
+                    1.3014489412309,
+                    109.61405944824003
+                ],
+                [
+                    1.2860399484634,
+                    109.60720825194994
+                ],
+                [
+                    1.2749700546265,
+                    109.61078643798999
+                ],
+                [
+                    1.2603909969331,
+                    109.61001586913994
+                ],
+                [
+                    1.2364599704743,
+                    109.59143066406
+                ],
+                [
+                    1.2275389432907,
+                    109.58023071288994
+                ],
+                [
+                    1.221130013466,
+                    109.56430816650004
+                ],
+                [
+                    1.2102700471879,
+                    109.54669952392999
+                ],
+                [
+                    1.1766799688339,
+                    109.52639770507994
+                ],
+                [
+                    1.1626700162888,
+                    109.52078247069994
+                ],
+                [
+                    1.1428010463715,
+                    109.51825714110998
+                ],
+                [
+                    1.1328090429306,
+                    109.51976013184003
+                ],
+                [
+                    1.1181110143663,
+                    109.51550292969
+                ],
+                [
+                    1.108050942421,
+                    109.50740814209007
+                ],
+                [
+                    1.0782510042191,
+                    109.49453735351995
+                ],
+                [
+                    1.0634709596634,
+                    109.48311614990007
+                ],
+                [
+                    1.035071015358,
+                    109.47621154784997
+                ],
+                [
+                    1.0131590366364,
+                    109.46598052978993
+                ],
+                [
+                    1.0061600208282,
+                    109.45923614501999
+                ],
+                [
+                    1.0050710439683,
+                    109.45435333251999
+                ],
+                [
+                    1.0064200162888,
+                    109.44938659668003
+                ],
+                [
+                    1.0136899948121,
+                    109.43979644775004
+                ],
+                [
+                    1.0163799524307,
+                    109.43264770507994
+                ],
+                [
+                    1.0172109603883,
+                    109.41809844970999
+                ],
+                [
+                    1.005970954895,
+                    109.36995697021007
+                ],
+                [
+                    1.006201028824,
+                    109.34996032715003
+                ],
+                [
+                    1.0125099420547,
+                    109.31196594237997
+                ],
+                [
+                    1.0159100294113,
+                    109.27603149413994
+                ],
+                [
+                    1.02316904068,
+                    109.24321746826001
+                ],
+                [
+                    0.99746000766766,
+                    109.23915863036996
+                ],
+                [
+                    0.98539900779735,
+                    109.23435974121003
+                ],
+                [
+                    0.97552198171627,
+                    109.22421264648005
+                ],
+                [
+                    0.9595490097999,
+                    109.20220947266
+                ],
+                [
+                    0.95380997657776,
+                    109.17883300781
+                ],
+                [
+                    0.9494709968568,
+                    109.17250823974996
+                ],
+                [
+                    0.97324001789087,
+                    109.15196228027003
+                ],
+                [
+                    0.97560101747519,
+                    109.14848327637003
+                ],
+                [
+                    0.97556000947958,
+                    109.14135742188
+                ],
+                [
+                    0.97832000255579,
+                    109.13191223144997
+                ],
+                [
+                    0.98502099514008,
+                    109.12869262694994
+                ],
+                [
+                    1.000100016594,
+                    109.12734222411996
+                ],
+                [
+                    1.0069899559022,
+                    109.12124633788994
+                ],
+                [
+                    1.0090110301973,
+                    109.11579895019997
+                ],
+                [
+                    1.0087900161744,
+                    109.10173797607001
+                ],
+                [
+                    0.99212998151779,
+                    109.07183837891
+                ],
+                [
+                    0.98760098218918,
+                    109.05671691894997
+                ],
+                [
+                    0.99029898643494,
+                    109.02001190186002
+                ],
+                [
+                    0.98422098159796,
+                    108.99577331543003
+                ],
+                [
+                    0.98329997062677,
+                    108.97807312012003
+                ],
+                [
+                    0.99999898672115,
+                    108.97833251953
+                ],
+                [
+                    1.0143510103225,
+                    108.97630310059003
+                ],
+                [
+                    1.0304399728775,
+                    108.97215270996003
+                ],
+                [
+                    1.0347199440002,
+                    108.96888732909997
+                ],
+                [
+                    1.0393010377884,
+                    108.96880340576001
+                ],
+                [
+                    1.0602780580521,
+                    108.95833587646007
+                ],
+                [
+                    1.0662770271301,
+                    108.96134948730003
+                ],
+                [
+                    1.0680910348893,
+                    108.95884704590003
+                ],
+                [
+                    1.0686110258104,
+                    108.94969177246003
+                ],
+                [
+                    1.0867320299149,
+                    108.94277191161996
+                ],
+                [
+                    1.0928039550781,
+                    108.93886566161996
+                ],
+                [
+                    1.0990799665452,
+                    108.93077087402003
+                ],
+                [
+                    1.1072210073471,
+                    108.93083190918003
+                ],
+                [
+                    1.1191660165788,
+                    108.93499755859
+                ],
+                [
+                    1.1190639734269,
+                    108.93728637694994
+                ],
+                [
+                    1.1151000261308,
+                    108.94215393065997
+                ],
+                [
+                    1.1213630437852,
+                    108.93521118163994
+                ],
+                [
+                    1.1152780056,
+                    108.92666625976995
+                ],
+                [
+                    1.117499947548,
+                    108.92250061034997
+                ],
+                [
+                    1.1357899904252,
+                    108.91575622559003
+                ],
+                [
+                    1.1554000377656,
+                    108.90590667724996
+                ],
+                [
+                    1.1648679971695,
+                    108.90424346923999
+                ],
+                [
+                    1.1741709709167,
+                    108.90944671630996
+                ],
+                [
+                    1.1758320331574,
+                    108.91805267334007
+                ],
+                [
+                    1.1762909889222,
+                    108.92790222168003
+                ],
+                [
+                    1.1655559539795,
+                    108.94805908203
+                ],
+                [
+                    1.1688899993896,
+                    108.96221923828
+                ],
+                [
+                    1.1752790212631,
+                    108.97000122069994
+                ],
+                [
+                    1.177479982376,
+                    108.97041320800997
+                ],
+                [
+                    1.1828449964524,
+                    108.96708679199003
+                ],
+                [
+                    1.1857509613038,
+                    108.96888732909997
+                ],
+                [
+                    1.1969419717789,
+                    108.96593475342002
+                ],
+                [
+                    1.1972910165787,
+                    108.96351623534997
+                ],
+                [
+                    1.2047230005264,
+                    108.95944213867006
+                ],
+                [
+                    1.2136110067368,
+                    108.96111297607001
+                ],
+                [
+                    1.2505559921265,
+                    108.98388671875
+                ],
+                [
+                    1.2680599689484,
+                    108.98972320557004
+                ],
+                [
+                    1.2718909978868,
+                    108.98628234862997
+                ],
+                [
+                    1.2742550373079,
+                    108.98947143555006
+                ],
+                [
+                    1.2768100500108,
+                    108.98974609375
+                ],
+                [
+                    1.277783036232,
+                    108.99244689940997
+                ],
+                [
+                    1.2938890457154,
+                    109.00944519043003
+                ],
+                [
+                    1.3228800296784,
+                    109.03131866454999
+                ],
+                [
+                    1.3378560543061,
+                    109.03952026367006
+                ],
+                [
+                    1.3543070554734,
+                    109.04460144043003
+                ],
+                [
+                    1.3741509914399,
+                    109.04512786865007
+                ],
+                [
+                    1.423791050911,
+                    109.03566741942996
+                ],
+                [
+                    1.4472910165787,
+                    109.03569793701001
+                ],
+                [
+                    1.4837410449982,
+                    109.04118347168003
+                ],
+                [
+                    1.5134799480439,
+                    109.05222320557004
+                ],
+                [
+                    1.5247069597245,
+                    109.05921936034997
+                ],
+                [
+                    1.5420490503312,
+                    109.07633972168003
+                ],
+                [
+                    1.5616899728775,
+                    109.09703063965003
+                ],
+                [
+                    1.5848959684372,
+                    109.12595367432004
+                ],
+                [
+                    1.5979599952698,
+                    109.14756011963004
+                ],
+                [
+                    1.6250300407411,
+                    109.20703887938998
+                ],
+                [
+                    1.6395000219346,
+                    109.22991943359
+                ],
+                [
+                    1.6496009826661,
+                    109.24191284180006
+                ],
+                [
+                    1.6616890430451,
+                    109.25305175781
+                ],
+                [
+                    1.6764700412751,
+                    109.26206207275004
+                ],
+                [
+                    1.697005033493,
+                    109.26888275146007
+                ],
+                [
+                    1.715499997139,
+                    109.27093505859
+                ],
+                [
+                    1.7193809747696,
+                    109.27945709228993
+                ],
+                [
+                    1.7251590490342,
+                    109.28517913817996
+                ],
+                [
+                    1.7399120330812,
+                    109.28389739990007
+                ],
+                [
+                    1.7443490028381,
+                    109.28775024413994
+                ],
+                [
+                    1.7519409656525,
+                    109.28833007812
+                ],
+                [
+                    1.7619709968568,
+                    109.29708862305006
+                ],
+                [
+                    1.7812010049821,
+                    109.30564117432004
+                ],
+                [
+                    1.7854440212251,
+                    109.31172180175997
+                ],
+                [
+                    1.7959940433503,
+                    109.33943939209007
+                ],
+                [
+                    1.8050080537796,
+                    109.34847259521007
+                ],
+                [
+                    1.8192600011827,
+                    109.35647583007994
+                ],
+                [
+                    1.829589009285,
+                    109.36561584472997
+                ],
+                [
+                    1.8311109542847,
+                    109.3701171875
+                ],
+                [
+                    1.8294609785081,
+                    109.37316894531
+                ],
+                [
+                    1.8047209978104,
+                    109.39050292969
+                ],
+                [
+                    1.8025310039521,
+                    109.39353179932004
+                ],
+                [
+                    1.8049060106277,
+                    109.41240692139002
+                ],
+                [
+                    1.8118159770966,
+                    109.41764831543003
+                ],
+                [
+                    1.8097170591354,
+                    109.42206573485998
+                ],
+                [
+                    1.8014800548553,
+                    109.43134307860998
+                ],
+                [
+                    1.7967779636383,
+                    109.43318939209007
+                ],
+                [
+                    1.7937400341034,
+                    109.43245697021007
+                ],
+                [
+                    1.7877099514009,
+                    109.42536926269997
+                ],
+                [
+                    1.7839490175247,
+                    109.42494964599996
+                ],
+                [
+                    1.7758309841157,
+                    109.43527984619004
+                ],
+                [
+                    1.7725009918213,
+                    109.43555450438998
+                ],
+                [
+                    1.7725009918213,
+                    109.43694305420001
+                ],
+                [
+                    1.7763890028001,
+                    109.43638610840003
+                ],
+                [
+                    1.7819440364838,
+                    109.42833709717002
+                ],
+                [
+                    1.7859909534455,
+                    109.42666625976995
+                ],
+                [
+                    1.7891620397567,
+                    109.42829895019997
+                ],
+                [
+                    1.7926399707794,
+                    109.43333435059003
+                ],
+                [
+                    1.7982009649277,
+                    109.43434906005996
+                ],
+                [
+                    1.8047349452973,
+                    109.43119049071993
+                ],
+                [
+                    1.8127000331879,
+                    109.42201995849996
+                ],
+                [
+                    1.8132499456405,
+                    109.41709136963004
+                ],
+                [
+                    1.8063900470735,
+                    109.41071319579999
+                ],
+                [
+                    1.806589961052,
+                    109.40355682373001
+                ],
+                [
+                    1.8041880130769,
+                    109.39644622803007
+                ],
+                [
+                    1.8056240081788,
+                    109.39206695557004
+                ],
+                [
+                    1.8091700077056,
+                    109.39170837402003
+                ],
+                [
+                    1.8161100149155,
+                    109.39971923828
+                ],
+                [
+                    1.8138879537584,
+                    109.40333557128997
+                ],
+                [
+                    1.8150000572205,
+                    109.40583038329999
+                ],
+                [
+                    1.818675994873,
+                    109.40666961670001
+                ],
+                [
+                    1.8150000572205,
+                    109.40389251709007
+                ],
+                [
+                    1.8197909593582,
+                    109.39997863769997
+                ],
+                [
+                    1.8246860504152,
+                    109.39976501465003
+                ],
+                [
+                    1.8275150060654,
+                    109.40211486815997
+                ],
+                [
+                    1.8283900022507,
+                    109.41403198242006
+                ],
+                [
+                    1.8338899612428,
+                    109.42055511474996
+                ],
+                [
+                    1.8411120176316,
+                    109.42250061034997
+                ],
+                [
+                    1.8405560255051,
+                    109.42500305175997
+                ],
+                [
+                    1.8374999761582,
+                    109.42527770996003
+                ],
+                [
+                    1.834442973137,
+                    109.42861175536996
+                ],
+                [
+                    1.8416659832001,
+                    109.42527770996003
+                ],
+                [
+                    1.8424999713898,
+                    109.42250061034997
+                ],
+                [
+                    1.8402780294418,
+                    109.42028045654001
+                ],
+                [
+                    1.8347189426422,
+                    109.41944122313998
+                ],
+                [
+                    1.8337069749832,
+                    109.41739654540993
+                ],
+                [
+                    1.8380260467529,
+                    109.41507720946993
+                ],
+                [
+                    1.842687010765,
+                    109.40818023682004
+                ],
+                [
+                    1.8471109867097,
+                    109.40795898438
+                ],
+                [
+                    1.8505109548569,
+                    109.41324615478993
+                ],
+                [
+                    1.8511400222778,
+                    109.41854095459007
+                ],
+                [
+                    1.8441749811173,
+                    109.43541717529001
+                ],
+                [
+                    1.8458369970322,
+                    109.43843078612997
+                ],
+                [
+                    1.8491419553757,
+                    109.43993377686002
+                ],
+                [
+                    1.8612979650497,
+                    109.44065093994004
+                ],
+                [
+                    1.8613899946213,
+                    109.44526672362997
+                ],
+                [
+                    1.8650000095367,
+                    109.44055175781
+                ],
+                [
+                    1.8643369674683,
+                    109.43757629394997
+                ],
+                [
+                    1.862398982048,
+                    109.43888854980003
+                ],
+                [
+                    1.8459420204164,
+                    109.43591308594
+                ],
+                [
+                    1.8527309894563,
+                    109.41961669922
+                ],
+                [
+                    1.8518739938737,
+                    109.41108703612997
+                ],
+                [
+                    1.8497200012208,
+                    109.40775299071993
+                ],
+                [
+                    1.8452509641648,
+                    109.40562438965003
+                ],
+                [
+                    1.8425619602203,
+                    109.40628051757994
+                ],
+                [
+                    1.8334729671479,
+                    109.41416168213004
+                ],
+                [
+                    1.8315720558168,
+                    109.41263580321993
+                ],
+                [
+                    1.8293809890747,
+                    109.40037536621003
+                ],
+                [
+                    1.8188790082932,
+                    109.39552307128997
+                ],
+                [
+                    1.8144509792327,
+                    109.39086151123001
+                ],
+                [
+                    1.8154350519181,
+                    109.38783264159997
+                ],
+                [
+                    1.8283560276033,
+                    109.38358306884993
+                ],
+                [
+                    1.8352780342103,
+                    109.37305450438998
+                ],
+                [
+                    1.8405560255051,
+                    109.37110900878997
+                ],
+                [
+                    1.8458319902421,
+                    109.37055206298999
+                ],
+                [
+                    1.8502810001373,
+                    109.37249755859
+                ],
+                [
+                    1.855831027031,
+                    109.38027954101995
+                ],
+                [
+                    1.8647190332413,
+                    109.37944793701001
+                ],
+                [
+                    1.8672219514846,
+                    109.38138580321993
+                ],
+                [
+                    1.8669389486313,
+                    109.38804626465003
+                ],
+                [
+                    1.8619409799575,
+                    109.38833618163994
+                ],
+                [
+                    1.8588889837265,
+                    109.39193725586006
+                ],
+                [
+                    1.8575010299684,
+                    109.39888763428007
+                ],
+                [
+                    1.8588889837265,
+                    109.40277862548999
+                ],
+                [
+                    1.8641660213471,
+                    109.40416717529001
+                ],
+                [
+                    1.8688880205155,
+                    109.39833068847997
+                ],
+                [
+                    1.8705559968949,
+                    109.39833068847997
+                ],
+                [
+                    1.8736100196838,
+                    109.40110778809003
+                ],
+                [
+                    1.8783329725266,
+                    109.41027832031
+                ],
+                [
+                    1.8827790021897,
+                    109.41027832031
+                ],
+                [
+                    1.8772230148315,
+                    109.40694427490007
+                ],
+                [
+                    1.871943950653,
+                    109.39749908446993
+                ],
+                [
+                    1.8680560588838,
+                    109.39778137206997
+                ],
+                [
+                    1.8636120557786,
+                    109.40277862548999
+                ],
+                [
+                    1.8591669797898,
+                    109.40110778809003
+                ],
+                [
+                    1.8611119985581,
+                    109.39083099365007
+                ],
+                [
+                    1.8686100244523,
+                    109.38805389404001
+                ],
+                [
+                    1.8691710233688,
+                    109.38333129882994
+                ],
+                [
+                    1.8677799701691,
+                    109.37999725342002
+                ],
+                [
+                    1.8616679906846,
+                    109.37805175781
+                ],
+                [
+                    1.8561110496521,
+                    109.37916564940997
+                ],
+                [
+                    1.8527810573577,
+                    109.373046875
+                ],
+                [
+                    1.8477790355683,
+                    109.36972045898005
+                ],
+                [
+                    1.8355560302734,
+                    109.37000274657998
+                ],
+                [
+                    1.8341699838639,
+                    109.36083221436002
+                ],
+                [
+                    1.8298710584641,
+                    109.35459136963004
+                ],
+                [
+                    1.8210599422455,
+                    109.34786987305006
+                ],
+                [
+                    1.8071030378341,
+                    109.34071350097997
+                ],
+                [
+                    1.7992399930955,
+                    109.33416748047
+                ],
+                [
+                    1.7971659898758,
+                    109.33080291748001
+                ],
+                [
+                    1.7954449653627,
+                    109.31823730469
+                ],
+                [
+                    1.7908320426941,
+                    109.30375671387003
+                ],
+                [
+                    1.7802799940109,
+                    109.29400634766
+                ],
+                [
+                    1.7835229635239,
+                    109.29438781737997
+                ],
+                [
+                    1.827852010727,
+                    109.33364105224996
+                ],
+                [
+                    1.832330942154,
+                    109.3359375
+                ],
+                [
+                    1.8575170040131,
+                    109.33781433105003
+                ],
+                [
+                    1.8630809783937,
+                    109.34102630615007
+                ],
+                [
+                    1.8658339977265,
+                    109.33972167969
+                ],
+                [
+                    1.8750009536744,
+                    109.34361267090003
+                ],
+                [
+                    1.9205559492111,
+                    109.32334136963004
+                ],
+                [
+                    1.9251890182496,
+                    109.32263183594
+                ],
+                [
+                    1.927502989769,
+                    109.32334899902003
+                ],
+                [
+                    1.9333970546722,
+                    109.33242034911996
+                ],
+                [
+                    1.9422899484636,
+                    109.33727264404001
+                ],
+                [
+                    1.9455510377885,
+                    109.34935760498001
+                ],
+                [
+                    1.9453439712525,
+                    109.39146423340003
+                ],
+                [
+                    1.9504669904709,
+                    109.43070220946993
+                ],
+                [
+                    1.9535030126572,
+                    109.43676757813
+                ],
+                [
+                    1.9627410173417,
+                    109.44612884521007
+                ],
+                [
+                    1.9697099924088,
+                    109.45208740234
+                ],
+                [
+                    1.9742230176926,
+                    109.45285797119004
+                ],
+                [
+                    1.976611018181,
+                    109.45696258545001
+                ],
+                [
+                    1.9827599525452,
+                    109.48030853271007
+                ],
+                [
+                    1.9894380569458,
+                    109.53497314453
+                ],
+                [
+                    1.9875940084458,
+                    109.56835174561002
+                ],
+                [
+                    1.9899990558625,
+                    109.58666992188
+                ],
+                [
+                    1.9932949543,
+                    109.59055328369004
+                ],
+                [
+                    2.0053670406342,
+                    109.59804534911996
+                ],
+                [
+                    2.0087110996247,
+                    109.59680175781
+                ],
+                [
+                    2.0151669979095,
+                    109.60123443603993
+                ],
+                [
+                    2.0173850059509,
+                    109.60041046142999
+                ],
+                [
+                    2.0212049484253,
+                    109.60302734375
+                ],
+                [
+                    2.0263900756837,
+                    109.60388946532998
+                ],
+                [
+                    2.028328895569,
+                    109.60694122313998
+                ],
+                [
+                    2.0500950813294,
+                    109.61811065673999
+                ],
+                [
+                    2.0521850585939,
+                    109.62046813965003
+                ],
+                [
+                    2.054409980774,
+                    109.62046813965003
+                ],
+                [
+                    2.0573539733887,
+                    109.62381744384993
+                ],
+                [
+                    2.0691668987274,
+                    109.62666320800997
+                ],
+                [
+                    2.0697228908539,
+                    109.63111114501999
+                ],
+                [
+                    2.0788490772248,
+                    109.63765716553007
+                ],
+                [
+                    2.081880092621,
+                    109.64319610595999
+                ],
+                [
+                    2.0809090137482,
+                    109.64710235595999
+                ],
+                [
+                    2.0682899951935,
+                    109.64881896972997
+                ],
+                [
+                    2.0282909870148,
+                    109.64186096190997
+                ],
+                [
+                    1.9893310070037,
+                    109.6201171875
+                ],
+                [
+                    1.9825010299683,
+                    109.61200714110998
+                ],
+                [
+                    1.9744889736176,
+                    109.59390258788994
+                ],
+                [
+                    1.9690899848938,
+                    109.58831024170001
+                ],
+                [
+                    1.9633510112762,
+                    109.58458709717002
+                ],
+                [
+                    1.9385319948196,
+                    109.57742309569994
+                ],
+                [
+                    1.9287610054017,
+                    109.56981658936002
+                ],
+                [
+                    1.9248499870301,
+                    109.56199645996003
+                ],
+                [
+                    1.9296000003815,
+                    109.55335998534997
+                ],
+                [
+                    1.9286199808122,
+                    109.54564666748001
+                ],
+                [
+                    1.9237899780275,
+                    109.53874206543003
+                ],
+                [
+                    1.9151799678803,
+                    109.53885650634993
+                ],
+                [
+                    1.9015710353852,
+                    109.54406738281
+                ],
+                [
+                    1.8845410346986,
+                    109.54596710204999
+                ],
+                [
+                    1.8752900362016,
+                    109.55255126953
+                ],
+                [
+                    1.8570300340653,
+                    109.55428314209007
+                ],
+                [
+                    1.8531889915467,
+                    109.56022644043003
+                ],
+                [
+                    1.8514800071717,
+                    109.57492065430006
+                ],
+                [
+                    1.8470200300217,
+                    109.58143615722997
+                ],
+                [
+                    1.8390909433365,
+                    109.58612823485998
+                ],
+                [
+                    1.8199800252914,
+                    109.59253692626999
+                ],
+                [
+                    1.8104009628296,
+                    109.59969329834007
+                ],
+                [
+                    1.8059910535814,
+                    109.60719299315997
+                ],
+                [
+                    1.8023810386657,
+                    109.61873626709007
+                ],
+                [
+                    1.8041199445724,
+                    109.63313293456997
+                ],
+                [
+                    1.7982800006866,
+                    109.65616607665993
+                ],
+                [
+                    1.7908910512925,
+                    109.67166137694994
+                ],
+                [
+                    1.7840700149537,
+                    109.67920684813998
+                ],
+                [
+                    1.7775900363923,
+                    109.68150329590003
+                ],
+                [
+                    1.7674210071564,
+                    109.68052673340003
+                ],
+                [
+                    1.7569600343704,
+                    109.67620086670001
+                ],
+                [
+                    1.7442690134049,
+                    109.66803741454999
+                ],
+                [
+                    1.7323199510575,
+                    109.66416168213004
+                ],
+                [
+                    1.7057909965516,
+                    109.66594696045001
+                ],
+                [
+                    1.6906299591064,
+                    109.66024780273005
+                ],
+                [
+                    1.6669000387192,
+                    109.65840148925997
+                ],
+                [
+                    1.6470710039139,
+                    109.65149688720999
+                ],
+                [
+                    1.6353310346605,
+                    109.65180206298999
+                ],
+                [
+                    1.626708984375,
+                    109.65853118896007
+                ],
+                [
+                    1.6168409585954,
+                    109.66339111328
+                ],
+                [
+                    1.6081409454346,
+                    109.68572998047
+                ],
+                [
+                    1.5901700258255,
+                    109.69425964355003
+                ],
+                [
+                    1.5808299779892,
+                    109.70672607422
+                ],
+                [
+                    1.5636110305787,
+                    109.71975708007994
+                ],
+                [
+                    1.5494400262834,
+                    109.73802947998001
+                ],
+                [
+                    1.536919951439,
+                    109.74904632567996
+                ]
+            ],
+            "label": "<b>KAB. SAMBAS<\/b>",
+            "color": "red"
+        }
+    ]
+}
