@@ -919,10 +919,24 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/danau_sebedang_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/98303.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "081257579828",
+        "email": "pokdarwispaggongsebedang@gmail.com"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -932,6 +946,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Wisata Danau Sebedang",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/desa/danau_sebedang",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/PFUyEVXLdFDvuV3R8"
@@ -1282,10 +1303,23 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/pantai_tanjung_kemuning_1_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/59425.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "0812-1000-2190"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1295,6 +1329,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Pantai Tanjung Kemuning",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_tanjung_kemuning_1",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ]
     },
@@ -1395,10 +1436,24 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/pantai_teluk_atong_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/35189.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "085229186159",
+        "email": "budiprasetiya@rocketmail.com"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1408,6 +1463,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Pantai Teluk Atong",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_teluk_atong",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/bRbXodzyYRNr7F3J6"
@@ -1547,10 +1609,24 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/tanjung_dato_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/35210.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "085229186159",
+        "email": "budiprasetiya@rocketmail.com"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1560,6 +1636,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Tanjung Dato",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/tanjung_dato",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/HvptwTpA1ardxroB9"
@@ -1772,10 +1855,23 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/twa_tanjung_belimbing__pantai_selimpai_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/59397.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "0812-1000-2190"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1785,6 +1881,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Twa Tanjung Belimbing - Pantai Selimpai",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/twa_tanjung_belimbing__pantai_selimpai",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/KqMyiGES3geEr3PbA"
@@ -1810,10 +1913,24 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/misteri_batu_bejamban_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/52153.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "082148241312",
+        "email": "sisikpenyu@gmail.com"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1823,6 +1940,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Misteri Batu Bejamban",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/misteri_batu_bejamban",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/HSeViVRkB8rCRvfT7"
@@ -1848,10 +1972,23 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/pantai_kampak__rindu_samudra_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/59400.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "0812-1000-2190"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1861,6 +1998,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Pantai Kampak - Rindu Samudra",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_kampak__rindu_samudra",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/NxtF4LPyAFvbjRky8"
@@ -1886,10 +2030,24 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/dtw_tanjung_api_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/52069.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "082148241312",
+        "email": "sisikpenyu@gmail.com"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1899,6 +2057,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - DTW Tanjung Api",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/dtw_tanjung_api",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/Aojkry6jyATzR3NZ9"
@@ -2563,10 +2728,23 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/pantai_putri_serayi_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/110725.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "082151453167"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -2576,6 +2754,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Pantai Putri Serayi",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_putri_serayi",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/jF9Rv4dKSNd6WGSw7"
@@ -2601,10 +2786,23 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/menara_suar_kalang_bahu_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/128651.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "085754421328"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -2614,6 +2812,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Menara Suar Kalang Bahu",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/menara_suar_kalang_bahu",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/79EPpPCxqWx5q6WUA"
@@ -2639,10 +2844,23 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/pantai_taman_wisata_bahari_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/98103.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "082151453167"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -2652,6 +2870,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Pantai Taman Wisata Bahari",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_taman_wisata_bahari",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/jQkaNWNFs6aPF8Zb9"
@@ -3603,6 +3828,290 @@
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/iZR8L4XNW5YxSWhY6"
+    },
+    {
+      "id": "batu-nenek",
+      "slug": "batu-nenek",
+      "name": "Batu Nenek",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": null,
+      "lng": null,
+      "regionId": "paloh",
+      "shortDescription": "Titik dua kelapa menjadi ikon utama pariwisata Desa Temajuk saat ini karena mempunyai landsekap yang unik menyerupai daerah belitung",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/batu_nenek_JADESTA.jpg",
+          "isMain": true,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/35234.jpg",
+            "license": null,
+            "license_url": null
+          }
+        }
+      ],
+      "hours": null,
+      "contact": {
+        "phone": "085229186159",
+        "email": "budiprasetiya@rocketmail.com"
+      },
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "Jadesta Kemenpar - Batu Nenek",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/batu_nenek",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
+    },
+    {
+      "id": "hutan-magrove-dusun-maludin",
+      "slug": "hutan-magrove-dusun-maludin",
+      "name": "Hutan Mangrove Dusun Maludin",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": null,
+      "lng": null,
+      "regionId": "paloh",
+      "shortDescription": "Kawasan sungai ini juga memiliki keunikan berupa warna air sungai biru tosca ketika pasang air laut dan ditambah dengan barisan hutan bakau disisi sungai.",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/hutan_magrove_dusun_maludin_JADESTA.jpg",
+          "isMain": true,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/35271.jpg",
+            "license": null,
+            "license_url": null
+          }
+        }
+      ],
+      "hours": null,
+      "contact": {
+        "phone": "085229186159",
+        "email": "budiprasetiya@rocketmail.com"
+      },
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "Jadesta Kemenpar - Hutan Magrove Dusun Maludin",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/hutan_magrove_dusun_maludin",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
+    },
+    {
+      "id": "resort-camar-bulan",
+      "slug": "resort-camar-bulan",
+      "name": "Resort Camar Bulan",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": null,
+      "lng": null,
+      "regionId": "paloh",
+      "shortDescription": "Resort Camar Bulan merupakan satu kawasan pantai yang terdiri dari spot foto, villa, watersport, tempat makan dan hiburan berupa live music.",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/resort_camar_bulan_JADESTA.jpg",
+          "isMain": true,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/129181.jpg",
+            "license": null,
+            "license_url": null
+          }
+        }
+      ],
+      "hours": null,
+      "contact": {
+        "phone": "085389729113"
+      },
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "Jadesta Kemenpar - Resort Camar Bulan",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/resort_camar_bulan",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
+    },
+    {
+      "id": "crab-village-temajuk",
+      "slug": "crab-village-temajuk",
+      "name": "Crab Village Temajuk",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": null,
+      "lng": null,
+      "regionId": "paloh",
+      "shortDescription": "Crab Village Temajuk di Desa Temaajuk, Kabupaten Sambas.",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/crab_village_temajuk_JADESTA.jpg",
+          "isMain": true,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/129199.jpg",
+            "license": null,
+            "license_url": null
+          }
+        }
+      ],
+      "hours": null,
+      "contact": {
+        "phone": "0812-1000-2190"
+      },
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "Jadesta Kemenpar - Crab Village Temajuk",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/crab_village_temajuk",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
+    },
+    {
+      "id": "susur-sungai-11",
+      "slug": "susur-sungai-11",
+      "name": "Susur Sungai",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": null,
+      "lng": null,
+      "regionId": "sambas",
+      "shortDescription": "Susur sungai dilakukan menggunakan perahu ataupun motor kecil. Susur sungai dibantu oleh pemandu wisata. Kegiatan susur sungai dilakukan sambil melihat keindahan Desa Sumber Harapan dari sudut pesisir sungai.",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/susur_sungai_11_JADESTA.jpg",
+          "isMain": true,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/61261.jpg",
+            "license": null,
+            "license_url": null
+          }
+        }
+      ],
+      "hours": null,
+      "contact": {
+        "phone": "082252401336",
+        "email": "pahimapima16@gmail.com"
+      },
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "Jadesta Kemenpar - Susur Sungai",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/susur_sungai_11",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
+    },
+    {
+      "id": "batulapak",
+      "slug": "batulapak",
+      "name": "Batulapak",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": null,
+      "lng": null,
+      "regionId": "jawai",
+      "shortDescription": "Batulapak merupakan DTW pantai yang didalamnya terdapat bukit, pulau kecil (pulau pontianak) dan bangunan penahan abrasi dengan luas area 20.000 meter persegi. Aktivitas utama di DTW Batulapak adalah berfoto dengan landsekap pantai dari atas bukit ditambah dengan gugusan batu yang cantik. DTW Batula",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/batulapak_JADESTA.jpg",
+          "isMain": true,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/98165.jpg",
+            "license": null,
+            "license_url": null
+          }
+        }
+      ],
+      "hours": null,
+      "contact": {
+        "phone": "082156941400"
+      },
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "Jadesta Kemenpar - Batulapak",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/batulapak",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
+    },
+    {
+      "id": "pantai-sungai-belacan",
+      "slug": "pantai-sungai-belacan",
+      "name": "Pantai Sungai Belacan",
+      "category": "wisata",
+      "type": "objek-wisata",
+      "lat": null,
+      "lng": null,
+      "regionId": "paloh",
+      "shortDescription": "Pantai Sungai Belacan di Desa Sebubus, Kabupaten Sambas.",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/pantai_sungai_belacan_JADESTA.jpg",
+          "isMain": true,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.kemenpar.go.id/imgpost/59412.jpg",
+            "license": null,
+            "license_url": null
+          }
+        }
+      ],
+      "hours": null,
+      "contact": {
+        "phone": "082148241312",
+        "email": "sisikpenyu@gmail.com"
+      },
+      "relatedWordIds": [],
+      "related": [],
+      "sources": [
+        {
+          "name": "Jadesta Kemenpar - Pantai Sungai Belacan",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_sungai_belacan",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
+        }
+      ],
+      "mapsUrl": null
     }
   ]
 }
