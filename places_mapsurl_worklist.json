@@ -1,0 +1,639 @@
+[
+  {
+    "id": "masjid-jami-sultan-muhammad-shafiuddin-ii",
+    "name": "Masjid Jami Keraton Sambas",
+    "regionId": "sambas",
+    "lat": 1.3611,
+    "lng": 109.3125
+  },
+  {
+    "id": "waterfront-city-sambas",
+    "name": "Waterfront City Sambas",
+    "regionId": "sambas",
+    "lat": 1.3636572,
+    "lng": 109.314685
+  },
+  {
+    "id": "makam-kesultanan-sambas-dan-kerabat",
+    "name": "Makam Kesultanan Sambas dan Kerabat",
+    "regionId": "sambas",
+    "lat": 1.3617004,
+    "lng": 109.3156473
+  },
+  {
+    "id": "masjid-jami",
+    "name": "Masjid Jami’",
+    "regionId": "sambas",
+    "lat": 1.361327,
+    "lng": 109.3149167
+  },
+  {
+    "id": "bangunan-kantor-kewedanaan-balairung-sari",
+    "name": "Bangunan Kantor Kewedanaan Balairung Sari",
+    "regionId": "sambas",
+    "lat": 1.365193,
+    "lng": 109.297026
+  },
+  {
+    "id": "jembatan-gerattak-asam",
+    "name": "Jembatan (Gerattak) Asam",
+    "regionId": "sambas",
+    "lat": 1.3613897,
+    "lng": 109.3081027
+  },
+  {
+    "id": "jembatan-gerattak-batu",
+    "name": "Jembatan (Gerattak) Batu",
+    "regionId": "sambas",
+    "lat": 1.3648001,
+    "lng": 109.3004797
+  },
+  {
+    "id": "museum-negeri-sambas",
+    "name": "Museum Negeri Sambas",
+    "regionId": "sambas",
+    "lat": 1.3647247,
+    "lng": 109.2968682
+  },
+  {
+    "id": "kampung-tenun-semberang",
+    "name": "Kampung Tenun Semberang",
+    "regionId": "sambas",
+    "lat": 1.380082,
+    "lng": 109.3494927
+  },
+  {
+    "id": "markas-polisi-belanda",
+    "name": "Markas Polisi Belanda",
+    "regionId": "pemangkat",
+    "lat": 1.1738209,
+    "lng": 108.992482
+  },
+  {
+    "id": "rumah-tahanan-belanda",
+    "name": "Rumah Tahanan Belanda",
+    "regionId": "pemangkat",
+    "lat": 1.181607,
+    "lng": 108.9693382
+  },
+  {
+    "id": "makam-fj-sorg",
+    "name": "Makam F.J Sorg",
+    "regionId": "pemangkat",
+    "lat": 1.1755598,
+    "lng": 108.9762849
+  },
+  {
+    "id": "benteng-peninggalan-belanda",
+    "name": "Benteng Peninggalan Belanda",
+    "regionId": "pemangkat",
+    "lat": 1.181607,
+    "lng": 108.9693382
+  },
+  {
+    "id": "sumur-peninggalan-belanda",
+    "name": "Sumur Peninggalan Belanda",
+    "regionId": "pemangkat",
+    "lat": 1.181607,
+    "lng": 108.9693382
+  },
+  {
+    "id": "tugu-fasisme",
+    "name": "Tugu Fasisme",
+    "regionId": "pemangkat",
+    "lat": 1.1757459,
+    "lng": 108.9709475
+  },
+  {
+    "id": "pantai-tanjung-batu",
+    "name": "Pantai Tanjung Batu",
+    "regionId": "pemangkat",
+    "lat": 1.181607,
+    "lng": 108.9693382
+  },
+  {
+    "id": "pantai-sinam",
+    "name": "Pantai Sinam",
+    "regionId": "pemangkat",
+    "lat": 1.1753799,
+    "lng": 108.9706002
+  },
+  {
+    "id": "toa-pekong-ular-putih",
+    "name": "Toa Pekong Ular Putih",
+    "regionId": "pemangkat",
+    "lat": 1.1526958,
+    "lng": 108.9683729
+  },
+  {
+    "id": "toa-pekong-dewi-kwan-im",
+    "name": "Toa Pekong Dewi Kwan Im",
+    "regionId": "pemangkat",
+    "lat": 1.1298789,
+    "lng": 108.9682563
+  },
+  {
+    "id": "taman-istana-putri-danau-sebedang",
+    "name": "Taman Istana Putri Danau Sebedang",
+    "regionId": "sebawi",
+    "lat": 1.2577544,
+    "lng": 109.1952949
+  },
+  {
+    "id": "danau-sebedang",
+    "name": "Danau Sebedang",
+    "regionId": "sebawi",
+    "lat": 1.2577544,
+    "lng": 109.1952949
+  },
+  {
+    "id": "makam-bujang-nadi-dare-nandung",
+    "name": "Makam Bujang Nadi Dare Nandung",
+    "regionId": "sebawi",
+    "lat": 1.2631263,
+    "lng": 109.179506
+  },
+  {
+    "id": "surau-peninggalan-raden-sulaiman",
+    "name": "Surau Peninggalan Raden Sulaiman",
+    "regionId": "sebawi",
+    "lat": 1.2896135,
+    "lng": 109.1748561
+  },
+  {
+    "id": "pantai-tanjung-lestari",
+    "name": "Pantai Tanjung Lestari",
+    "regionId": "paloh",
+    "lat": 1.6318345,
+    "lng": 109.2219144
+  },
+  {
+    "id": "pantai-harapan",
+    "name": "Pantai Harapan",
+    "regionId": "paloh",
+    "lat": 1.6498106,
+    "lng": 109.2430236
+  },
+  {
+    "id": "pantai-pulau-selimpai",
+    "name": "Pantai Pulau Selimpai",
+    "regionId": "paloh",
+    "lat": 1.7847358,
+    "lng": 109.296512
+  },
+  {
+    "id": "pantai-kampak-indah",
+    "name": "Pantai Kampak Indah",
+    "regionId": "paloh",
+    "lat": 1.9052714,
+    "lng": 109.3310867
+  },
+  {
+    "id": "pantai-camar-bulan",
+    "name": "Pantai Camar Bulan",
+    "regionId": "paloh",
+    "lat": 1.9921053,
+    "lng": 109.5892862
+  },
+  {
+    "id": "pantai-tanjung-bendera",
+    "name": "Pantai Tanjung Bendera",
+    "regionId": "paloh",
+    "lat": 1.9423508,
+    "lng": 109.3381533
+  },
+  {
+    "id": "pantai-tanjung-kemuning",
+    "name": "Pantai Tanjung Kemuning",
+    "regionId": "paloh",
+    "lat": 1.6498106,
+    "lng": 109.2430236
+  },
+  {
+    "id": "pantai-banyuan",
+    "name": "Pantai Banyuan",
+    "regionId": "paloh",
+    "lat": 1.6318345,
+    "lng": 109.2219144
+  },
+  {
+    "id": "dermaga-asam-jawe",
+    "name": "Dermaga Asam Jawe",
+    "regionId": "paloh",
+    "lat": 1.8306473,
+    "lng": 109.3703083
+  },
+  {
+    "id": "pantai-telok-atong-bahari",
+    "name": "Pantai Telok Atong Bahari",
+    "regionId": "paloh",
+    "lat": 2.0426479,
+    "lng": 109.6153434
+  },
+  {
+    "id": "pantai-batu-pipih",
+    "name": "Pantai Batu Pipih",
+    "regionId": "paloh",
+    "lat": 1.9383707,
+    "lng": 109.3420023
+  },
+  {
+    "id": "pantai-kalimantan",
+    "name": "Pantai Kalimantan",
+    "regionId": "paloh",
+    "lat": 1.631506,
+    "lng": 109.2185712
+  },
+  {
+    "id": "pantai-teluk-cemara-guntung",
+    "name": "Pantai Teluk Cemara Guntung",
+    "regionId": "paloh",
+    "lat": 1.6502905,
+    "lng": 109.245358
+  },
+  {
+    "id": "hutan-hujan-tropis-tanjung-dato-di-temajuk",
+    "name": "Hutan Hujan Tropis Tanjung Dato di Temajuk",
+    "regionId": "paloh",
+    "lat": 1.9823587,
+    "lng": 109.5497303
+  },
+  {
+    "id": "air-terjun-teluk-nibung",
+    "name": "Air terjun Teluk Nibung",
+    "regionId": "paloh",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "air-terjun-gunung-pangi",
+    "name": "Air terjun Gunung Pangi",
+    "regionId": "paloh",
+    "lat": 1.9918032,
+    "lng": 109.6032325
+  },
+  {
+    "id": "twa-sungai-liku",
+    "name": "TWA Sungai Liku",
+    "regionId": "paloh",
+    "lat": 1.7494435,
+    "lng": 109.3001099
+  },
+  {
+    "id": "twa-gunung-melintang",
+    "name": "TWA Gunung Melintang",
+    "regionId": "paloh",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "twa-asuansang",
+    "name": "TWA Asuansang",
+    "regionId": "paloh",
+    "lat": 1.8299018,
+    "lng": 109.4558617
+  },
+  {
+    "id": "twa-tanjung-belimbing",
+    "name": "TWA Tanjung Belimbing",
+    "regionId": "paloh",
+    "lat": 1.7951776,
+    "lng": 109.3093628
+  },
+  {
+    "id": "taman-rekreasi-batu-bejamban",
+    "name": "Taman Rekreasi Batu Bejamban",
+    "regionId": "paloh",
+    "lat": 1.8767724,
+    "lng": 109.4500528
+  },
+  {
+    "id": "pantai-rindu-samudera",
+    "name": "Pantai Rindu Samudera",
+    "regionId": "paloh",
+    "lat": 1.9040912,
+    "lng": 109.331257
+  },
+  {
+    "id": "pantai-tanjung-api",
+    "name": "Pantai Tanjung Api",
+    "regionId": "paloh",
+    "lat": 1.9423508,
+    "lng": 109.3381533
+  },
+  {
+    "id": "taman-wisata-mangrove-sebubus",
+    "name": "Taman Wisata Mangrove Sebubus",
+    "regionId": "paloh",
+    "lat": 1.7833592,
+    "lng": 109.334872
+  },
+  {
+    "id": "pantai-kahona",
+    "name": "Pantai Kahona",
+    "regionId": "jawai",
+    "lat": 1.464816,
+    "lng": 109.0384929
+  },
+  {
+    "id": "pantai-natuna-indah",
+    "name": "Pantai Natuna Indah",
+    "regionId": "jawai",
+    "lat": 1.3194005,
+    "lng": 109.0287451
+  },
+  {
+    "id": "pantai-datok-buntar",
+    "name": "Pantai Datok Buntar",
+    "regionId": "jawai",
+    "lat": 1.3141809,
+    "lng": 109.0253069
+  },
+  {
+    "id": "pantai-polaria",
+    "name": "Pantai Polaria",
+    "regionId": "selakau",
+    "lat": 1.0349907,
+    "lng": 108.9693104
+  },
+  {
+    "id": "pantai-saaditerigas",
+    "name": "Pantai Saadi/Terigas",
+    "regionId": "selakau",
+    "lat": 1.0349907,
+    "lng": 108.9693104
+  },
+  {
+    "id": "makam-ratu-anom-kesuma-yuda",
+    "name": "Makam Ratu Anom Kesuma Yuda",
+    "regionId": "selakau",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "makam-pangeran-timba-bayi",
+    "name": "Makam Pangeran Timba’ Bayi",
+    "regionId": "selakau",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "pantai-muare-jalan-indah",
+    "name": "Pantai Muare Jalan Indah",
+    "regionId": "tangaran",
+    "lat": 1.6037961,
+    "lng": 109.1631238
+  },
+  {
+    "id": "pantai-dataran-merdeka",
+    "name": "Pantai Dataran Merdeka",
+    "regionId": "tangaran",
+    "lat": 1.5725352,
+    "lng": 109.1107295
+  },
+  {
+    "id": "pantai-tanjung-terabitan",
+    "name": "Pantai Tanjung Terabitan",
+    "regionId": "tangaran",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "pantai-venesia",
+    "name": "Pantai Venesia",
+    "regionId": "tangaran",
+    "lat": 1.5305057,
+    "lng": 109.0661569
+  },
+  {
+    "id": "makamsyech-muhammad-sattaruddin",
+    "name": "MakamSyech Muhammad Sattaruddin",
+    "regionId": "galing",
+    "lat": 1.5054168,
+    "lng": 109.3683205
+  },
+  {
+    "id": "makam-dato-timalar-tan-azis-bujang",
+    "name": "Makam Dato’ Timalar Tan Azis Bujang",
+    "regionId": "galing",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "makam-keramat-dato-sanggup",
+    "name": "Makam Keramat Dato’ Sanggup",
+    "regionId": "galing",
+    "lat": 1.5054168,
+    "lng": 109.3683205
+  },
+  {
+    "id": "batu-betarup",
+    "name": "Batu Betarup",
+    "regionId": "galing",
+    "lat": 1.623932,
+    "lng": 109.349381
+  },
+  {
+    "id": "makam-ratu-sepudak",
+    "name": "Makam Ratu Sepudak",
+    "regionId": "galing",
+    "lat": 1.5054168,
+    "lng": 109.3683205
+  },
+  {
+    "id": "pantai-puteri-serayi",
+    "name": "Pantai Puteri Serayi",
+    "regionId": "jawai-selatan",
+    "lat": 1.2776871,
+    "lng": 108.9926389
+  },
+  {
+    "id": "pantai-kalang-bau",
+    "name": "Pantai Kalang bau",
+    "regionId": "jawai-selatan",
+    "lat": 1.2028334,
+    "lng": 108.96189
+  },
+  {
+    "id": "taman-wisata-bahari",
+    "name": "Taman Wisata Bahari",
+    "regionId": "jawai-selatan",
+    "lat": 1.2949749,
+    "lng": 109.0098838
+  },
+  {
+    "id": "agro-wisata-matang-nangka",
+    "name": "Agro Wisata Matang Nangka",
+    "regionId": "tebas",
+    "lat": 1.2053448,
+    "lng": 109.1615959
+  },
+  {
+    "id": "agro-wisata-kota-jeruk",
+    "name": "Agro Wisata Kota Jeruk",
+    "regionId": "tebas",
+    "lat": 1.2054269,
+    "lng": 109.1013082
+  },
+  {
+    "id": "taman-rekreasi-batu-mak-jage",
+    "name": "Taman Rekreasi Batu Mak Jage",
+    "regionId": "tebas",
+    "lat": 1.1254221,
+    "lng": 109.1548418
+  },
+  {
+    "id": "goa-kelelawar",
+    "name": "Goa Kelelawar",
+    "regionId": "tebas",
+    "lat": 1.161169,
+    "lng": 109.287591
+  },
+  {
+    "id": "air-terjun-riam-merasap",
+    "name": "Air terjun Riam Merasap",
+    "regionId": "sajingan-besar",
+    "lat": 1.6304326,
+    "lng": 109.644649
+  },
+  {
+    "id": "air-terjun-riam-cagat",
+    "name": "Air terjun Riam Cagat",
+    "regionId": "sajingan-besar",
+    "lat": 1.6304326,
+    "lng": 109.644649
+  },
+  {
+    "id": "twa-gunung-dungan",
+    "name": "TWA Gunung Dungan",
+    "regionId": "sajingan-besar",
+    "lat": 1.7772767,
+    "lng": 109.5748276
+  },
+  {
+    "id": "goa-alam-santok",
+    "name": "Goa Alam Santok",
+    "regionId": "sajingan-besar",
+    "lat": 1.6148402,
+    "lng": 109.4933338
+  },
+  {
+    "id": "riam-sunge-banokng",
+    "name": "Riam Sunge Banokng",
+    "regionId": "sajingan-besar",
+    "lat": 1.6606583,
+    "lng": 109.6043239
+  },
+  {
+    "id": "bukit-piantus",
+    "name": "Bukit Piantus",
+    "regionId": "sejangkung",
+    "lat": 1.4596049,
+    "lng": 109.3149834
+  },
+  {
+    "id": "gunung-senujuh",
+    "name": "Gunung Senujuh",
+    "regionId": "sejangkung",
+    "lat": 1.440249,
+    "lng": 109.447872
+  },
+  {
+    "id": "makam-to-kullub",
+    "name": "Makam To’ Kullub",
+    "regionId": "sejangkung",
+    "lat": 1.4588467,
+    "lng": 109.3151266
+  },
+  {
+    "id": "rumah-batu",
+    "name": "Rumah Batu",
+    "regionId": "subah",
+    "lat": 1.154876,
+    "lng": 109.4736136
+  },
+  {
+    "id": "kebun-raya-sambas",
+    "name": "Kebun Raya Sambas",
+    "regionId": "subah",
+    "lat": 1.2699086,
+    "lng": 109.4852044
+  },
+  {
+    "id": "perkebunan-salak",
+    "name": "Perkebunan Salak",
+    "regionId": "teluk-keramat",
+    "lat": 1.4717995,
+    "lng": 109.2230538
+  },
+  {
+    "id": "tanjung-monang",
+    "name": "Tanjung Monang",
+    "regionId": "teluk-keramat",
+    "lat": 1.3226802,
+    "lng": 109.1774838
+  },
+  {
+    "id": "makam-keramat-sungai-kumpai",
+    "name": "Makam Keramat Sungai Kumpai",
+    "regionId": "teluk-keramat",
+    "lat": 1.44545,
+    "lng": 109.1998972
+  },
+  {
+    "id": "perkebunan-sawo",
+    "name": "Perkebunan Sawo",
+    "regionId": "tekarang",
+    "lat": 1.2703429,
+    "lng": 109.1298238
+  },
+  {
+    "id": "rumah-petinggi-tekarang",
+    "name": "Rumah Petinggi Tekarang",
+    "regionId": "tekarang",
+    "lat": 1.2615132,
+    "lng": 109.0956351
+  },
+  {
+    "id": "makam-petinggi-tekarang",
+    "name": "Makam Petinggi Tekarang",
+    "regionId": "tekarang",
+    "lat": 1.2706976,
+    "lng": 109.1212793
+  },
+  {
+    "id": "agro-wisata-buah-naga",
+    "name": "Agro Wisata Buah Naga",
+    "regionId": "jawai",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "air-terjun-gunung-selindung",
+    "name": "Air terjun Gunung Selindung",
+    "regionId": "salatiga",
+    "lat": 1.1032109,
+    "lng": 109.005479
+  },
+  {
+    "id": "makam-bantilan",
+    "name": "Makam Bantilan",
+    "regionId": "sajad",
+    "lat": 1.4111562,
+    "lng": 109.4039902
+  },
+  {
+    "id": "danau-biru",
+    "name": "Danau Biru",
+    "regionId": "selakau-timur",
+    "lat": 1.0507987,
+    "lng": 109.11807
+  },
+  {
+    "id": "kawasan-istane-alwatzikhoebillah-2",
+    "name": "Kawasan Istane Alwatzikhoebillah",
+    "regionId": "sambas",
+    "lat": 1.3617004,
+    "lng": 109.3156473
+  }
+]
