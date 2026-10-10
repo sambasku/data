@@ -144,9 +144,9 @@
       "mapsUrl": "https://maps.app.goo.gl/RW2zZF7f3Go3BRi77"
     },
     {
-      "id": "waterfront-city-sambas",
-      "slug": "waterfront-city-sambas",
-      "name": "Waterfront City Sambas",
+      "id": "waterfront-sambas",
+      "slug": "waterfront-sambas",
+      "name": "Waterfront Sambas",
       "category": "wisata",
       "type": "objek-wisata",
       "lat": 1.3636572,
@@ -1185,10 +1185,24 @@
             "license": "CC BY-SA 4.0",
             "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
           }
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Camar_Bulan_JADESTA.jpg",
+          "isMain": false,
+          "attribution": {
+            "name": "Jadesta - Kementerian Pariwisata RI",
+            "provider": "jadesta",
+            "url": "https://jadesta.com/imgpost/33622.jpg",
+            "license": null,
+            "license_url": null
+          }
         }
       ],
       "hours": null,
-      "contact": null,
+      "contact": {
+        "phone": "085229186159",
+        "email": "budiprasetiya@rocketmail.com"
+      },
       "relatedWordIds": [],
       "related": [],
       "sources": [
@@ -1198,6 +1212,13 @@
           "address": "https://opendata.sambas.go.id/json/116",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Jadesta Kemenpar - Atraksi Pantai Camar Bulan",
+          "type": "web",
+          "address": "https://jadesta.kemenpar.go.id/atraksi/pantai_camar_bulan",
+          "license": "Hak cipta Kementerian Pariwisata RI",
+          "licenseUrl": null
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/mtyr1UQSzEVSE1FT9"
