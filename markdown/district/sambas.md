@@ -45,6 +45,13 @@ Objek wisata yang tercatat di wilayah ini:
 - **Bangunan Kantor Kewedanaan Balairung Sari**
 - **Jembatan (Gerattak) Asam**
 - **Jembatan (Gerattak) Batu**
+- **Museum Negeri Sambas** - Museum yang menyimpan koleksi sejarah dan budaya Kabupaten Sambas, mulai dari benda peninggalan Kesultanan Sambas, artefak masa prasejarah, sampai hasil budaya suku-suku di Kalimantan Barat. Tempat yang tepat untuk mengenal warisan wilayah perbatasan Indonesia-Malaysia ini.
+- **Kampung Tenun Semberang** - Kampung pengrajin tenun di Desa Sumber Harapan, Kecamatan Sambas. Di sini pengrajin menenun songket dan tenun ikat dengan motif khas Melayu dan Dayak. Kamu bisa melihat langsung proses menenun dari benang jadi kain, sekaligus membawa pulang kain tenun sebagai oleh-oleh khas Sambas.
+- **Kawasan Istane Alwatzikhoebillah**
+- **Susur Sungai** - Susur sungai dilakukan menggunakan perahu ataupun motor kecil. Susur sungai dibantu oleh pemandu wisata. Kegiatan susur sungai dilakukan sambil melihat keindahan Desa Sumber Harapan dari sudut pesisir sungai.
+- **Ramin Bantang Sungai Rambah**
+- **Agro Wisata Buah Nenas**
+- **Taman Lunggi**
 
 ---
 

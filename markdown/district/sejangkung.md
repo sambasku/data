@@ -131,7 +131,6 @@ Objek wisata yang tercatat di wilayah ini:
 - **Bukit Piantus**
 - **Gunung Senujuh**
 - **Makam To’ Kullub**
-- **Galeri Rotan Sejangkung**
 
 ---
 

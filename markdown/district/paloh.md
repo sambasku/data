@@ -188,6 +188,32 @@ Objek wisata yang tercatat di wilayah ini:
 - **Pantai Tanjung Bendera**
 - **Pantai Tanjung Kemuning**
 - **Pantai Banyuan**
+- **Dermaga Asam Jawe**
+- **Pantai Telok Atong Bahari**
+- **Pantai Batu Pipih**
+- **Pantai Kalimantan**
+- **Pantai Teluk Cemara Guntung**
+- **Hutan Hujan Tropis Tanjung Dato di Temajuk**
+- **Air terjun Teluk Nibung**
+- **Air terjun Gunung Pangi**
+- **TWA Sungai Liku**
+- **TWA Gunung Melintang**
+- **TWA Asuansang**
+- **TWA Tanjung Belimbing**
+- **Taman Rekreasi Batu Bejamban**
+- **Pantai Rindu Samudera**
+- **Pantai Tanjung Api**
+- **Taman Wisata Mangrove Sebubus**
+- **Batu Nenek** - Titik dua kelapa menjadi ikon utama pariwisata Desa Temajuk saat ini karena mempunyai landsekap yang unik menyerupai daerah belitung
+- **Hutan Mangrove Dusun Maludin** - Kawasan sungai ini juga memiliki keunikan berupa warna air sungai biru tosca ketika pasang air laut dan ditambah dengan barisan hutan bakau disisi sungai.
+- **Resort Camar Bulan** - Resort Camar Bulan merupakan satu kawasan pantai yang terdiri dari spot foto, villa, watersport, tempat makan dan hiburan berupa live music.
+- **Crab Village Temajuk** - Crab Village Temajuk di Desa Temaajuk, Kabupaten Sambas.
+- **Pantai Sungai Belacan** - Pantai Sungai Belacan di Desa Sebubus, Kabupaten Sambas.
+- **Pantai JLO**
+- **Pantai Matang Danau**
+- **Pantai PJM**
+- **Pantai Tiara**
+- **Perkebunan Lada**
 
 ---
 
