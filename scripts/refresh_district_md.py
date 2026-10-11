@@ -14,6 +14,43 @@ MD_DIR = os.path.join(ROOT, 'markdown', 'district')
 UA = {'User-Agent': 'sambasku-data/1.0 (repo: sambasku/data)'}
 
 BPS = json.load(open(os.path.join(BASE, 'bps_311.json')))
+PLACES = json.load(open(os.path.join(ROOT, 'places.json')))['places']
+
+# hero per slug: place id places.json (fallback: place pertama dengan gambar)
+HERO = {'sambas':'istana-alwatzikoebillah','pemangkat':'pantai-tanjung-batu',
+        'jawai':'pantai-kahona','jawai-selatan':'pantai-puteri-serayi',
+        'selakau':'pantai-polaria','tangaran':'pantai-venesia',
+        'paloh':'pantai-camar-bulan','sebawi':'danau-sebedang',
+        'sajingan-besar':'air-terjun-riam-merasap','sejangkung':'bukit-piantus',
+        'subah':'kebun-raya-sambas','tebas':'agro-wisata-matang-nangka',
+        'sajad':'makam-bantilan','salatiga':'air-terjun-gunung-selindung',
+        'selakau-timur':'danau-biru','tekarang':'perkebunan-sawo',
+        'teluk-keramat':'perkebunan-salak','galing':'batu-betarup'}
+
+def hero_from_place(slug):
+    """Hero image dari places.json (CDN jsDelivr + attribution lengkap).
+    Prioritas: place HERO dict > place mana pun; gambar non-placeholder > placeholder.
+    Return None jika hanya placeholder (membuang hero generik)."""
+    def real_img(p):
+        for i in p.get('images', []):
+            if 'placeholder' not in i['url']:
+                return i
+        return None
+    cands = [p for p in PLACES if p.get('regionId') == slug]
+    pick = next((p for p in cands if p['id'] == HERO.get(slug)), None)
+    img = real_img(pick) if pick else None
+    if not img:
+        for p in cands:
+            img = real_img(p)
+            if img:
+                pick = p
+                break
+    # ponytail: jika semua placeholder, skip hero (return None) bukan pakai placeholder
+    if not img:
+        return None
+    a = img.get('attribution') or {}
+    return {'url': img['url'], 'artist': a.get('name', 'SambasKu'),
+            'license': a.get('license', ''), 'caption': pick['name']}
 
 # jumlah desa resmi (desa_2025.csv; baris "Sambas,195" = sampah, fix ke 18)
 DESA = {'Selakau':11,'Selakau Timur':4,'Pemangkat':8,'Semparuk':5,'Salatiga':5,
@@ -205,7 +242,9 @@ def sanitize(md):
     def stash(m):
         stashed.append(m.group(0)); return f'\x00{len(stashed)-1}\x00'
     md = re.sub(r'!?\[[^\]]*\]\([^)]+\)', stash, md)
-    # 2) buang bracket liar
+    # 2) buang bracket liar + wiki File: table rows
+    md = re.sub(r'\|\s*File:[^\n]*\n', '', md)  # wiki File: inside table row
+    md = re.sub(r'^File:[^\n]*\n', '', md, flags=re.M)  # standalone File: line
     md = md.replace('[[','').replace(']]','')
     md = re.sub(r'\(\s*\)', '', md)  # hanya kurung kosong betulan
     md = re.sub(r'(?<!\x00\d)\[([^()\[\]]*)\]', r'\1', md)  # [x] tanpa ( -> x
@@ -233,8 +272,23 @@ def opendata_wisata(slug_nama):
         nm = (r.get('keterangan') or '').strip()
         key = re.sub(r"['’\s]+", '', nm.lower())
         if nm and key not in seen:
-            seen.add(key); out.append(nm)
+            seen.add(key); out.append(f'- {nm}')
     return out[:8]
+
+def wisata_places(slug):
+    """Bullet wisata dari places.json: nama + deskripsi 1 kalimat."""
+    cands = [p for p in PLACES if p.get('regionId') == slug]
+    out = []
+    for p in cands[:8]:
+        nm = p['name'].strip()
+        desc = (p.get('shortDescription') or '').strip()
+        if desc.lower().startswith('objek w'):
+            desc = ''
+        if desc:
+            out.append(f'- **{nm}** - {desc}')
+        else:
+            out.append(f'- **{nm}**')
+    return out
 
 def build(slug, dry=False):
     bps = BPS[slug]
@@ -243,7 +297,7 @@ def build(slug, dry=False):
     if not title:
         return f'{slug}: SKIP (no wikipedia article)'
     wikitext = get_wikitext(title)
-    hero = hero_image(wikitext, title)
+    hero = hero_from_place(slug) or hero_image(wikitext, title)
 
     b = bps
     ringkasan = [
@@ -256,11 +310,11 @@ def build(slug, dry=False):
         f'**Laju pertumbuhan**: {b["laju"]:.2f}% per tahun (2020-2024)',
         f'**Rasio jenis kelamin**: {b["rasio"]:.2f} (L/P)',
     ]
-    wisata = opendata_wisata(nama)
+    wisata = wisata_places(slug) or opendata_wisata(nama)
 
     parts = [f'# Kecamatan {nama}', '']
     if hero:
-        parts.append(f'![{nama}]({hero["url"]})')
+        parts.append(f'![{hero.get("caption", nama)}]({hero["url"]})')
         parts.append('')
     # lead: paragraf pertama bersih
     body = strip_wiki(wikitext)
@@ -285,13 +339,13 @@ def build(slug, dry=False):
     if wisata:
         parts.append('## Wisata')
         parts.append('')
-        parts.append(f'Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):')
+        parts.append('Objek wisata yang tercatat di wilayah ini:')
         parts.append('')
-        parts += [f'- {w}' for w in wisata]
+        parts += wisata
         parts.append('')
     parts.append('---')
     parts.append('')
-    parts.append(f'Sumber: [Wikipedia bahasa Indonesia - {title}](https://id.wikipedia.org/wiki/{urllib.parse.quote(title.replace(" ","_"))}) (CC BY-SA 4.0) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* · Wisata: Open Data Kabupaten Sambas 2024.')
+    parts.append(f'Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - {title}](https://id.wikipedia.org/wiki/{urllib.parse.quote(title.replace(" ","_"))}) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).')
     if hero:
         lic = f' ({hero["license"]})' if hero['license'] else ''
         parts.append(f'Foto: {hero["artist"]}{lic}')
