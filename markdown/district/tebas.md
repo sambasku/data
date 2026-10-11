@@ -1,6 +1,6 @@
 # Kecamatan Tebas
 
-Tebas adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Terletak Di antara 059' Lintang Utara Serta 117' Lintang Utara dan 10903' Bujur Timur serta 10925' Bujur Timur. Sebagian besar pekerjaan Masyarakat adalah Petani, selebihnya Pedagang, Buruh, Nelayan, dan Pegawai. Banyaknya penduduk Tebas pada semester pertama tahun 2025 sebanyak 82.753 jiwa, dan menjadi kecamatan dengan jumlah penduduk terbanyak di Sambas.
+Tebas adalah kecamatan dengan jumlah penduduk terbanyak di Kabupaten Sambas, Kalimantan Barat: 83.227 jiwa (BPS 2024) tersebar di 23 desa seluas 637 km². Nama Tebas sudah lama identik dengan jeruk; Agro Wisata Kota Jeruk-nya dikenal sampai ke luar daerah sebagai ikon komoditas hortikultura Sambas. Mayoritas warganya bertani, ditopang pedagang, buruh, nelayan, dan pegawai, dengan posisi strategis di jalur Sambas-Singkawang yang membuat Tebas terus tumbuh sebagai penyangga pangan dan permukiman.
 
 ## Ringkasan
 
@@ -47,21 +47,19 @@ Sejalan dengan perkembangan, yaitu dengan diterbitkannya Peraturan Daerah Kabupa
 Kecamatan Tebas memiliki batas wilayah seperti berikut:
 
 | utara | Kecamatan Sambas |
-| --- | --- | --- |
+| --- | --- |
 | selatan | Kecamatan Selakau dan Kabupaten Bengkayang |
 | timur | Kecamatan Subah dan Kabupaten Bengkayang |
-| barat | Kecamatan Tekarang dan Semparuk, Sambas
-- [Situs Resmi Badan Pusat Statistik Kabupaten Sambas](http://sambaskab.bps.go.id/)
-- <http://sambas.go.id/tebas/1324-peta-kecamatan-tebas.html>
+| barat | Kecamatan Tekarang dan Semparuk, Sambas |
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Agro Wisata Matang Nangka
-- Agro Wisata Kota Jeruk
-- Taman Rekreasi Batu Mak Jage
-- Goa Kelelawar
+- **Agro Wisata Matang Nangka**
+- **Agro Wisata Kota Jeruk**
+- **Taman Rekreasi Batu Mak Jage**
+- **Goa Kelelawar** - Goa alami di kawasan Tebas yang jadi rumah banyak kelelawar. Ratusan kelelawar bergelantung di langit-langit goa, dan kamu bisa mengamatinya dari dekat, terutama saat matahari tenggelam ketika mereka mulai keluar mencari makan. Suasananya gelap dan lembap, penuh nuansa petualangan.
 
 ---
 

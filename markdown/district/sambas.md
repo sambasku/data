@@ -1,6 +1,8 @@
 # Kecamatan Sambas
 
-Sambas adalah ibu kota kabupaten Sambas yang sekaligus menjadi pusat pemerintahan dari kabupaten Sambas. Sambas juga merupakan sebuah kecamatan yang berada di kabupaten Sambas, Kalimantan Barat, Indonesia. Kota Sambas secara geografis terletak hampir di tengah-tengah wilayah Kabupaten Sambas. Kecamatan Sambas memiliki luas wilayah 246,66 km², dengan jumlah penduduk 61.165 jiwa (2025) dan kepadatan penduduk 248 jiwa/km².
+![Istana Alwatzikoebillah](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/01M400SFRTANSHQ4R6MAAA0VDD.webp)
+
+Kecamatan Sambas adalah ibu kota sekaligus jantung Kabupaten Sambas, Kalimantan Barat. Berslogan "Kota Sambas Terigas", kota ini berkembang dari Muare Ulakkan, persimpangan Sungai Sambas, Sungai Teberau, dan Sungai Subah, yang dijadikan pusat Kesultanan Sambas oleh Sultan Muhammad Tajuddin I sekitar tahun 1683. Warisan kesultanan itu masih hidup sampai sekarang: Istana Alwatzikoebillah berdiri anggun di Desa Dalam Kaum, ditemani Masjid Sultan Muhammad Syafi'oeddin II yang tercatat sebagai masjid tertua di Kalimantan Barat. Lebih dari 59 ribu jiwa (BPS 2024) kini tinggal dan bekerja di kecamatan seluas 220 km² ini, menjadikannya pusat administrasi, perdagangan, sekaligus gudang budaya Melayu Sambas mulai dari kain songket lunggi sampai bubur pedas.
 
 ## Ringkasan
 
@@ -24,39 +26,27 @@ Tepat di depan istana berdiri pula sebuah masjid tua yang merupakan salah satu m
 Pada zaman pemerintahan Hindia Belanda kecamatan Sambas merupakan sebuah onder afdeeling yang berada di bawah seorang controleur yang disebut Onder Afdeeling Chef (OAC), dan juga merupakan tempat kedudukan Sultan Sambas. Pada zaman pendudukan Jepang kecamatan Sambas berada di bawah kekuasaan seorang Gunco.
 
 ### Letak Geografis
-Kecamatan Sambas terletak pada 1o11'20" - 10o24'48" LU dan 109o09'16" - 109o26'23" BT. Dengan luas 246,56 km², wilayah kecamatan Sambas mencakup sekitar 0,64% dari wilayah kabupaten Sambas.
+Kecamatan Sambas terletak pada koordinat 1°11'20" - 1°24'48" Lintang Utara dan 109°09'16" - 109°26'23" Bujur Timur. Dengan luas 220 km², wilayah kecamatan Sambas mencakup sekitar 0,64% dari wilayah kabupaten Sambas.
 
-Berikut merupakan batas-batas wilayah kecamatan Sambas:
-| utara |
-| --- |
-| kecamatan Teluk Keramat, Sambas
-Sementara itu, keberagaman agama dan budaya menjadi bagian dari masyarakat kecamatan Sambas. Berdasarkan data Dukcapil Kabupaten Sambas tahun 2025 mencatat bahwa 89,07% penduduknya memeluk agama Islam, kemudian Budha 6,92%, Kekristenan 3,81% (Katolik 2,43% dan Protestan 1,38%), Konghucu 0,19% dan Hindu 0,01%. Terdapat 74 bangunan masjid, 5 bangunan gereja Protestan, 5 bangunan gereja Katolik, 3 bangunan Vihara dan 1 bangunan Klenteng.
+Sementara itu, keberagaman agama dan budaya menjadi bagian dari masyarakat kecamatan Sambas. Berdasarkan data Dukcapil Kabupaten Sambas tahun 2025, 89,07% penduduknya memeluk agama Islam, kemudian Buddha 6,92%, Kekristenan 3,81% (Katolik 2,43% dan Protestan 1,38%), Konghucu 0,19%, dan Hindu 0,01%. Terdapat 74 bangunan masjid, 5 bangunan gereja Protestan, 5 bangunan gereja Katolik, 3 vihara, dan 1 klenteng.
 
 ### Makanan dan Kerajinan Khas Sambas
 Kota Sambas juga terkenal dengan kain tenunnya, yaitu Kain Tenun Songket Sambas (dikenal pula dengan sebutan Kain Lunggi) yang memiliki berbagai macam corak/motif dan warna. Produksi kain terdapat di desa Jagur dan Sumber Harapan. Kota Sambas memiliki panganan khas, yang paling terkenal adalah Bubbor Paddas (Bubur Pedas). Selain itu juga ada Bubbor Ambo' (Bubur Ambo'), Tempuyyak (Tempoyak), dan Padda'.
 
-### Galeri foto
-
-File:Istana 100613-3106 sbs.jpg|Istana Alwatzikhoebillah
-File:Sambas Sultanate mosque, Indonesia.jpg|Masjid Sultan Muhammad Syafi'oeddin II
-File:Jembatan Belanda 100618-4094 sbs.jpg|Jembatan tua buatan Belanda
-File:Bubur 100618-4100 sbs.jpg|Bubur pedas, makanan khas Sambas
-File:PLN Rayon Sambas.jpg|thumb|PLN Rayon Sambas
-File:Kawasan Terminal Bus Sambas.jpg|thumb|Kawasan Terminal Bus Sambas
-
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Kawasan Istane Alwatzikhoebillah
-- Waterfront City Sambas
-- Makam Kesultanan Sambas dan Kerabat
-- Masjid Jami’
-- Bangunan Kantor Kewedanaan Balairung Sari
-- Jembatan (Gerattak) Asam
-- Jembatan (Gerattak) Batu
-- Museum Negeri Sambas
+- **Istana Alwatzikoebillah** - Istana Kesultanan Sambas di Desa Dalam Kaum, dibangun 1933 sampai 1935 pada masa Sultan Muhammad Mulia Ibrahim Syafiuddin.
+- **Masjid Jami Keraton Sambas** - Masjid Jami Keraton Sambas adalah masjid yang berada di komplek keraton Kesultanan Sambas, Kota Sambas, Kalimantan Barat. Masjid yang resminya bernama Masjid Sultan Muhammad Syafi'oeddin II ini tercatat sebagai masjid tertua di Kalimantan Barat.
+- **Waterfront Sambas** - Kawasan tepi Sungai Sambas yang ditata jadi tempat rekreasi warga. Ada deretan toko, kafe, dan spot foto yang apik. Paling ramai saat sore dan malam, waktu yang pas untuk menikmati pemandangan sungai di tengah kota Sambas.
+- **Makam Kesultanan Sambas dan Kerabat**
+- **Masjid Jami’**
+- **Bangunan Kantor Kewedanaan Balairung Sari**
+- **Jembatan (Gerattak) Asam**
+- **Jembatan (Gerattak) Batu**
 
 ---
 
 Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Sambas, Sambas](https://id.wikipedia.org/wiki/Sambas%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
+Foto: Zhilal Darma (CC BY-SA 4.0)

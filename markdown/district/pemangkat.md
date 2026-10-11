@@ -1,7 +1,8 @@
 # Kecamatan Pemangkat
 
-Pemangkat pada tahun 1920-an.
-Pemangkat adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia, yang merupakan kecamatan terpadat di Kabupaten Sambas. Dalam bahasa Tionghoa, kota kecil ini dinamakan 邦戛 (Pinyin: Bāngjiá; Hakka: Pang-kat). Menurut cerita zaman dulu, nama Pemangkat diambil dari nama orang yang pertama kali mendiami Pemangkat yaitu Pak Mangkat. Cerita lainnya mengatakan bahwa nama Pemangkat diambil dari kata "angkat" atau "terangkat", karena kota Pemangkat pada zaman dahulu adalah lautan, kemudian lumpur pun naik atau terangkat membentuk daratan. Tidak ada yang pasti mengenai asal-usul nama Pemangkat, tetapi menurut sejarahnya pada masa Kesultanan Sambas, Pemangkat adalah tempat kongsi atau perkampungan para penambang emas dari Tiongkok. Sehingga beberapa desa atau daerah di Pemangkat dinamai dalam bahasa Tionghoa, seperti Sinam, Sisai, Lonam, Tiansho, dan lain-lain. Kota Pemangkat memiliki keberagaman etnis dengan mayoritas suku Melayu dan Tionghoa, dan beberapa minoritas seperti suku Dayak, Bugis, Jawa, dan lain-lain. Etnis Tionghoa di Pemangkat sebagian besar adalah orang Hakka dan juga ada sebagian kecil orang Tiochiu serta orang Kanton.
+![Makam F.J Sorg](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Makam_FJ_Sorg.webp)
+
+Pemangkat adalah kecamatan terpadat sekaligus kota pesisir paling hidup di Kabupaten Sambas, Kalimantan Barat. Menghadap langsung ke Laut Natuna, kota ini sudah lama jadi simpul perdagangan berkat dua pelabuhannya, Pelabuhan Sintete dan Pelabuhan Seteher. Sejarahnya panjang: dari kongsi penambang emas Tiongkok era Kesultanan Sambas (namanya pun ada yang menyebut dari "Pak Mangkat" atau kata "angkat" karena daratannya terangkat dari laut), benteng pertahanan Belanda, sampai menjadi titik pendaratan pertama balatentara Jepang di Kalimantan Barat pada 1942. Kini lebih dari 54 ribu jiwa (BPS 2024) tinggal di kecamatan seluas 97 km² ini, membentuk masyarakat multi-etnis yang khas: Melayu dan Tionghoa Hakka berdampingan dengan Dayak, Bugis, dan Jawa, dengan jejak Tionghoa yang masih terbaca dari nama-nama kampung seperti Sinam, Sisai, dan Lonam.
 
 ## Ringkasan
 
@@ -24,8 +25,7 @@ Pada tahun 1958, Kawedanan Pemangkat dipecah menjadi 3 kecamatan yang ada hingga
 ### Geografis
 Kecamatan Pemangkat terletak di pesisir laut yang langsung menghadap Laut Cina Selatan.
 
-Letak geografis Kecamatan Pemangkat menurut garis lintang dan bujur berada pada: Garis Lintang 1 0 05 ’ 01” - 1 0 12 ’ 14” Garis Bujur 108 0 54 ’ 01” - 109 0 04’ 49” 4.
-Masjid Raya Pemangkat di Jalan Nusantara, Pemangkat
+Letak geografis Kecamatan Pemangkat berada pada 1°05'01" - 1°12'14" Lintang Utara dan 108°54'01" - 109°04'49" Bujur Timur.
 Pemangkat mempunyai pemandangan yang sangat indah yang merupakan perpaduan pemandangan gunung, laut, sungai, dan kota. Ciri khas kota ini adalah adanya sebuah gunung yang menyerupai gajah duduk, yang dinamakan Gunung Gajah. Tanjung Batu, Bukit Selindung dan Pantai Sinam merupakan ikon wisata kota pemangkat. Terdapat dua pelabuhan di Pemangkat, yaitu Pelabuhan Sintete dan Pelabuhan Seteher menjadikan Kota Pemangkat ramai dikunjungi orang dari berbagai daerah. Keragaman etnis di kota ini sangat tampak.
 
 ### Sejarah
@@ -179,17 +179,18 @@ Pemangkat memiliki 11 TK, 1 RA, 31 SD, 2 MI, 9 SMP, 2 MTs, 1 MA, 4 SMA, dan 3 SM
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Markas Polisi Belanda
-- Rumah Tahanan Belanda
-- Makam F.J Sorg
-- Benteng Peninggalan Belanda
-- Sumur Peninggalan Belanda
-- Tugu Fasisme
-- Pantai Tanjung Batu
-- Pantai Sinam
+- **Markas Polisi Belanda**
+- **Rumah Tahanan Belanda**
+- **Makam F.J Sorg** - Makam bersejarah di tengah Kota Pemangkat, peristirahatan terakhir F.J. Sorg, tokoh yang tercatat dalam sejarah kolonial di Kalimantan Barat. Situs ini mengingatkan pada masa lalu Pemangkat yang pernah jadi pusat pemerintahan penting di pesisir Sambas.
+- **Benteng Peninggalan Belanda** - Sisa bangunan benteng Belanda di pusat Kota Pemangkat, bukti kehadiran kolonial di pesisir Sambas pada abad ke-18 dan ke-19. Bangunan batu dengan fondasi kokoh masih berdiri, jadi pengingat masa lalu wilayah ini. Lokasinya dekat dengan pusat kota.
+- **Sumur Peninggalan Belanda**
+- **Tugu Fasisme**
+- **Pantai Tanjung Batu** - Pantai di Desa Pemangkat Kota, Kecamatan Pemangkat, dengan hamparan pasir yang landai dan air laut yang tenang. Tempat yang pas untuk jalan santai di tepi pantai sambil menunggu matahari terbenam. Aksesnya dekat dari jalan utama Sambas-Pemangkat.
+- **Pantai Sinam** - Pantai di Desa Sinam, Kecamatan Pemangkat, dengan pasir yang agak gelap akibat endapan lumpur dari sungai-sungai kecil di dekatnya. Ombaknya sedang, cocok untuk melihat dinamika laut Kalimantan Barat. Di bagian belakang pantai tumbuh mangrove yang menambah hijau suasana.
 
 ---
 
 Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Pemangkat, Sambas](https://id.wikipedia.org/wiki/Pemangkat%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
+Foto: sambasku (CC BY-SA 4.0)

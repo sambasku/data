@@ -1,6 +1,6 @@
 # Kecamatan Semparuk
 
-Semparuk adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia.
+Semparuk adalah kecamatan muda dengan kepadatan penduduk tertinggi kedua di Kabupaten Sambas: 31.365 jiwa (BPS 2024) memadati wilayah seluas 72 km², atau 436 jiwa/km². Terbentuk resmi Selasa, 3 Juni 2003 sebagai kecamatan keempat pasca-UU Otonomi Daerah, Semparuk adalah pemekaran dari Pemangkat yang berbatasan langsung dengan Kota Singkawang. Posisi itu menjadikannya koridor permukiman dan jasa yang tumbuh cepat: laju pertumbuhan penduduknya 1,09% per tahun, warganya menyeberang-hari ke Singkawang dan Pemangkat untuk bekerja dan berdagang.
 
 ## Ringkasan
 
@@ -19,10 +19,7 @@ Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 Kecamatan Semparuk merupakan kecamatan keempat di Kabupaten Sambas yang dibentuk sejak diberlakukannya Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah. Kecamatan Semparuk terbentuk secara resmi pada Hari Selasa tanggal 3 Juni 2003 yang merupakan pemekaran dari Kecamatan Pemangkat.
 
 ### Batas Wilayah
-Kecamatan Semparuk yang memiliki luas 90,15 Km², mempunyai batas-batas wilayah sebagai berikut:
-| utara | Sungai Sambas Besar |
-| --- | --- |
-| selatan | Selakau, Sambas
+Di utara, Semparuk dibatasi Sungai Sambas Besar; di selatan berbatasan dengan Kecamatan Selakau. Kecamatan ini juga berbatasan dengan Kota Singkawang, menjadikannya bagian dari aglomerasi perkotaan sisi barat Kabupaten Sambas.
 
 ---
 

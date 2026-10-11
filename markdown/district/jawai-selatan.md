@@ -1,6 +1,8 @@
 # Kecamatan Jawai Selatan
 
-Jawai Selatan adalah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Penduduk Jawai Selatan mayoritas bersuku Melayu dan Tionghoa.
+![Pantai Puteri Serayi](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/pantai_putri_serayi_JADESTA.jpg)
+
+Jawai Selatan adalah kecamatan pemekaran di pesisir Kabupaten Sambas, Kalimantan Barat, yang beribukota di Matang Terap. Sembilan desanya dihuni sekitar 23 ribu jiwa (BPS 2024) dengan mayoritas bersuku Melayu dan Tionghoa yang hidup rukun. Meski termasuk kecamatan muda, Jawai Selatan punya daya tarik pesisir yang jelas: Pantai Puteri Serayi, Pantai Kalang Bau, dan Taman Wisata Bahari menjadi andalan wisata keluarga, ditopang lokasinya yang berbatasan langsung dengan Kota Singkawang sehingga mudah dijangkau.
 
 ## Ringkasan
 
@@ -87,13 +89,13 @@ Jawai Selatan memiliki 1 TK, 19 SD, 3 SMP, 3 MTs, 1 MA, 1 SMA, dan 1 SMK. Seluru
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Pantai Puteri Serayi
-- Pantai Kalang bau
-- Taman Wisata Bahari
-- Agro Wisata Buah Naga
+- **Pantai Puteri Serayi**
+- **Pantai Kalang bau**
+- **Taman Wisata Bahari**
 
 ---
 
 Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Jawai Selatan, Sambas](https://id.wikipedia.org/wiki/Jawai_Selatan%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
+Foto: Jadesta - Kementerian Pariwisata RI

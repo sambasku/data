@@ -1,6 +1,6 @@
 # Kecamatan Sejangkung
 
-Sejangkung adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia.
+Sejangkung adalah kecamatan perbatasan yang luas di Kabupaten Sambas, Kalimantan Barat: 528 km² yang membentang dari dataran rendah sampai kaki Gunung Senujuh di perbatasan Sarawak, Malaysia. Sekitar 28 ribu jiwa (BPS 2024) tinggal di 12 desa, dengan sebagian besar mencari nafkah dari pertanian dan perkebunan. Alamnya berlimpah: hutan lindung, riam-riam sungai, dan Bukit Piantus yang menjadi tantangan pendakian sekaligus balkon alam Sambas. Kerajinan rotan Galeri Rotan Sejangkung juga membuktikan bahwa warganya piawai mengubah hasil hutan jadi produk bernilai.
 
 ## Ringkasan
 
@@ -119,13 +119,19 @@ Sejangkung memiliki 1 PAUD, 2 TK, 3 RA, 24 SD, 2 MI, 4 SMP, 3 MTs, 1 SMA dan 1 S
 
 - SMKN 1 Sejangkung, Desa Perigi Limus
 
+- [Kecamatan Sejangkung - Blog BERT972](http://bert972.blogspot.com/2010/03/kecamatan-sejangkung.html)
+- [Kecamatan Sejangkung - Situs Resmi Bagian Humasdan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/sejangkung/) 
+- [Data Monografi Kecamatan Sejangkung - Situs Resmi Kabupaten Sambas](http://www.sambas.go.id/sejangkung/1315-data-monografi-kecamatan-sejangkung.html) 
+- [Peta Kecamatan Sejangkung - Situs Resmi Kabupaten Sambas](http://www.sambas.go.id/images/files/Kec.%20Sejangkung.jpg)
+
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Bukit Piantus
-- Gunung Senujuh
-- Makam To’ Kullub
+- **Bukit Piantus**
+- **Gunung Senujuh**
+- **Makam To’ Kullub**
+- **Galeri Rotan Sejangkung**
 
 ---
 

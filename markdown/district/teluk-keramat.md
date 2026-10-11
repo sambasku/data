@@ -1,6 +1,6 @@
 # Kecamatan Teluk Keramat
 
-Teluk Keramat adalah sebuah kecamatan di wilayah Kabupaten Sambas, Kalimantan Barat, Indonesia.
+Teluk Keramat adalah kecamatan bersejarah di Kabupaten Sambas, Kalimantan Barat, yang sejak era Kesultanan Sambas jadi simpul pemerintahan, perdagangan, dan dakwah di kawasan pesisir utara. Beribukota di Sekura, 25 desanya adalah jumlah desa terbanyak se-kabupaten, dengan 76.977 jiwa penduduk (BPS 2024) yang menjadikannya kecamatan terpadat kedua di Sambas. Wilayahnya yang luas (404 km²) mencakup pesisir, sawah, dan perkebunan salak yang tersohor. Makam Keramat Sungai Kumpai dan Tanjung Monang menandai kedalaman sejarah yang masih hidup di keseharian warganya.
 
 ## Ringkasan
 
@@ -27,11 +27,11 @@ Berikut ini merupakan batas-batas wilayah Kecamatan Teluk Keramat:
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Perkebunan Salak
-- Tanjung Monang
-- Makam Keramat Sungai Kumpai
+- **Perkebunan Salak**
+- **Tanjung Monang**
+- **Makam Keramat Sungai Kumpai**
 
 ---
 

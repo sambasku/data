@@ -1,6 +1,6 @@
 # Kecamatan Tekarang
 
-Tekarang adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Ibu kota kecamatan terletak di Desa Tekarang. Kecamatan ini dibentuk melalui Peraturan Daerah Kabupaten Sambas Nomor 2 Tahun 2002 tentang Pembentukan Kecamatan Tekarang tanggal 17 Juni 2002. Kecamatan Tekarang merupakan hasil pemekaran dari Kecamatan Tebas.
+Tekarang resmi terbentuk 17 Juni 2002 melalui Peraturan Daerah Kabupaten Sambas, pemekaran dari Kecamatan Tebas. Dalam waktu dua dekade, kecamatan seluas 69 km² ini sudah menunjukkan pertumbuhan gemilang: 18.506 jiwa (BPS 2024) tersebar di 7 desa, dengan laju pertumbuhan 1,47% per tahun, salah satu yang tertinggi di kabupaten. Warganya mengandalkan perkebunan (terutama sawo dan karet), dan Perkebunan Sawo Tekarang dikenal sebagai salah satu sentra produksi sawo terbesar di Kalimantan Barat. Posisi strategis di jalur Sambas-Singkawang membuat ekonominya terus bergerak.
 
 ## Ringkasan
 
@@ -122,11 +122,11 @@ Kecamatan Tekarang memiliki 18 masjid, 20 surau, 2 pura, dan 3 vihara. Pura hany
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Perkebunan Sawo
-- Rumah Petinggi Tekarang
-- Makam Petinggi Tekarang
+- **Perkebunan Sawo**
+- **Rumah Petinggi Tekarang**
+- **Makam Petinggi Tekarang**
 
 ---
 

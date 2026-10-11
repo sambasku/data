@@ -1,6 +1,8 @@
 # Kecamatan Sebawi
 
-Sebawi adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Ibu kotanya terletak di desa yang memiliki nama yang sama, yaitu Desa Sebawi.
+![Danau Sebedang](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/danau_sebedang_JADESTA.jpg)
+
+Sebawi adalah kecamatan yang menyimpan salah satu permata alam Kabupaten Sambas: Danau Sebedang. Danau di Desa Sempelai ini dikelilingi hutan tropis dan ditata jadi Taman Istana Puteri Danau Sebedang, spot rekreasi keluarga yang sejuk dan tenang. Beribukota di Desa Sebawi, kecamatan seluas 101 km² ini dihuni sekitar 21 ribu jiwa (BPS 2024) yang tersebar di 7 desa di kaki perbukitan pedalaman Sambas. Warganya dikenal menjaga tradisi: Makam Bujang Nadi Dare Nandung dan Surau peninggalan Raden Sulaiman menjadi saksi sejarah yang dirawat turun-temurun.
 
 ## Ringkasan
 
@@ -107,17 +109,20 @@ Lahan bukan sawah digunakan untuk tegal/kebun seluas 3.792 hektare, perkebunan s
 #### Lahan Bukan Pertanian
 Terdapat 3.009 hektare lahan yang digunakan untuk rumah/bangunan dan halaman disekitarnya. Angka ini meningkat sejak 2009. Selain itu, terdapat 1.205 hektare hutan negara, 300 hektare rawa-rawa yang tak ditanami, dan 194 hektare untuk jalan, lahan tandus, dll.
 
+- [Situs Resmi Pemerintah Kabupaten Sambas](http://www.sambas.go.id/)
+- [Situs Resmi Bagian Humas, Sandi, dan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/sebawi/) 
 - [Situs Resmi Badan Pusat Statistik Kabupaten Sambas](http://sambaskab.bps.go.id/)
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Taman Istana Putri Danau Sebedang
-- Danau Sebedang
-- Makam Bujang Nadi Dare Nandung
-- Surau Peninggalan Raden Sulaiman
+- **Taman Istana Putri Danau Sebedang**
+- **Danau Sebedang** - Danau di Desa Sempelai, Kecamatan Sebawi, dikelilingi hutan dan hamparan sawah. Airnya jadi sumber kehidupan warga sekitar sekaligus tempat rekreasi alam. Suasana tenang dan hijau membuatnya cocok untuk bersantai sambil menikmati desa Kalimantan Barat.
+- **Makam Bujang Nadi Dare Nandung**
+- **Surau Peninggalan Raden Sulaiman**
 
 ---
 
 Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Sebawi, Sambas](https://id.wikipedia.org/wiki/Sebawi%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
+Foto: Jadesta - Kementerian Pariwisata RI

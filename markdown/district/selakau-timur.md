@@ -1,6 +1,6 @@
 # Kecamatan Selakau Timur
 
-Selakau Timur adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Selakau Timur merupakan kecamatan pemekaran dari Kecamatan Selakau pada tahun 2007.
+Selakau Timur adalah kecamatan pemekaran dari Kecamatan Selakau yang resmi terbentuk tahun 2007. Dengan luas 186 km² namun hanya dihuni sekitar 13 ribu jiwa (BPS 2024), kecamatan ini menawarkan ruang hidup yang lega: perbukitan hijau, aliran Sungai Selakau, dan Danau Biru yang jadi kebanggaan warga. Empat desanya, beribukota di Selakau Tua, menjadi penyangga pertanian dan hortikultura bagi kawasan Selakau dan Singkawang di dekatnya.
 
 ## Ringkasan
 
@@ -33,13 +33,15 @@ Berikut ini merupakan daftar camat yang pernah dan sedang menjabat.
 | 1 | Tajudin, BA. | 2007-2009 |
 | --- | --- | --- | --- |
 | 2 | H. Supardi, Sarjana Pendidikan Sekolah Dasar
+- [Situs Resmi Pemkab Sambas](http://www.sambas.go.id/)
+- [Situs Resmi Bagian Humas dan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/selakau-timur/) 
 - [Situs Resmi BPS Kabupaten Sambas](http://sambaskab.bps.go.id/)
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Danau Biru
+- **Danau Biru**
 
 ---
 

@@ -1,6 +1,6 @@
 # Kecamatan Galing
 
-Galing adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Ibu kotanya berada di Desa Galing. Kecamatan Galing merupakan kecamatan pertama yang dibentuk semenjak diterbitknnya Undang-Undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah. Kecamatan Galing terbentuk secara resmi pada hari Selasa tanggal 15 Mei 2001 yang merupakan pemekaran dari Kecamatan Teluk Keramat dengan membawahi 6 desa definitif dan 4 dusun.
+Galing adalah kecamatan pertama yang lahir setelah terbitnya Undang-Undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah: resmi terbentuk Selasa, 15 Mei 2001, hasil pemekaran dari Kecamatan Teluk Keramat. Beribukota di Desa Galing, kecamatan seluas 421 km² ini dihuni sekitar 26 ribu jiwa (BPS 2024) yang tersebar di 10 desa. Wilayahnya didominasi lahan pertanian dan perkebunan, dengan hasil utama kelapa sawit, karet, kopi, dan lada, ditopang peternakan ayam, kambing, dan sapi. Galing juga menyimpan sejarah spiritual: makam Syech Muhammad Sattaruddin, Makam Ratu Sepudak, dan Batu Betarup menjadi tujuan ziarah yang dikunjungi warga dari berbagai penjuru Sambas.
 
 ## Ringkasan
 
@@ -62,22 +62,18 @@ Berikut adalah daftar nama dusun yang ada di Kecamatan Galing:
 #### Camat
 Sejak terbentuk pada tahun 2001, Galing telah dipimpin oleh 8 Camat sebagai berikut:
 
-1. Herlizen, S.Sos. Tahun 2001-2002
-2. Yusran, S.Sos. Tahun 2002-2006
-3. Halibus S.Sos. Tahun 2006-2009
-4. Agustian, S.IP, M.Si. Tahun 2009-2014
-5. Edi Supriadi, S.Sos, M.M. Tahun 2014-2015#
-1. Drs. H. Aspian Tahun 2015-2019
-2. Usman, S.Sos, M.M. Tahun 2019-2023
-3. Suriawan, S.ST, M.T. Tahun 2023-Sekarang#
+1. Herlizen, S.Sos. (2001-2002)
+2. Yusran, S.Sos. (2002-2006)
+3. Halibus, S.Sos. (2006-2009)
+4. Agustian, S.IP, M.Si. (2009-2014)
+5. Edi Supriadi, S.Sos., M.M. (2014-2015)
+6. Drs. H. Aspian (2015-2019)
+7. Usman, S.Sos., M.M. (2019-2023)
+8. Suriawan, S.ST, M.T. (2023-sekarang)
 
-| Herlizen, S.Sos. | 2001-2002 |
+#### Pendidikan
+| Jenjang | Jumlah |
 | --- | --- |
-| Yusran, S.Sos. | 2002-2006 |
-| Halibus, S.Sos. | 2006-2009 |
-| Agustian, S.IP, M.Si. | 2009-2014 |
-| Edi Supriadi, S.Sos., M.M. | 2014-2015 |
-| Drs. H. Aspian | 2015-2019 |
 | PAUD | 15 |
 | Taman Kanak-kanak/Raudhatul Atfhal | 2 |
 | Sekolah Dasar/Madrasah Ibtidaiyah | 23 |
@@ -95,13 +91,13 @@ Perkebunan di Galing menghasilkan 2.897 ton kelapa sawit, 792 ton karet, 198 kop
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- MakamSyech Muhammad Sattaruddin
-- Makam Dato’ Timalar Tan Azis Bujang
-- Makam Keramat Dato’ Sanggup
-- Batu Betarup
-- Makam Ratu Sepudak
+- **MakamSyech Muhammad Sattaruddin**
+- **Makam Dato’ Timalar Tan Azis Bujang**
+- **Makam Keramat Dato’ Sanggup**
+- **Batu Betarup**
+- **Makam Ratu Sepudak**
 
 ---
 

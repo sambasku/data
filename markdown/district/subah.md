@@ -1,6 +1,6 @@
 # Kecamatan Subah
 
-Subah adalah sebuah kecamatan di Kabupaten Sambas, Provinsi Kalimantan Barat, Indonesia. Jumlah penduduk Subah pada semester pertama tahun 2025 sebanyak 25.033 jiwa.
+Subah adalah kecamatan terluas kedua di Kabupaten Sambas, Kalimantan Barat: 753 km² yang sebagian besar berupa hutan dan lahan pertanian di pedalaman. Beribukota di Balai Gemuruh, 13 desanya dihuni sekitar 25 ribu jiwa (BPS 2024) yang menjadikan Subah salah satu penyangga pangan utama kabupaten. Kecamatan ini juga menyimpan aset konservasi penting: Kebun Raya Sambas, kawasan penelitian dan konservasi flora Kalimantan yang dikelola BRIN, berdiri di wilayah ini. Ditambah Rumah Batu peninggalan bersejarah, Subah adalah perpaduan lumbung pangan dan laboratorium alam.
 
 ## Ringkasan
 
@@ -112,12 +112,15 @@ Subah memiliki 1 PAUD, 8 TK, 22 SD, 7 SMP, 2 MTs, 2 SMA, 1 SMK, dan 1 MA. Seluru
 
 - SMKN 1 Subah, Desa Mukti Raharja
 
+### Pranala
+- http://humassambas.com/kecamatan/subah/
+
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Rumah Batu
-- Kebun Raya Sambas
+- **Rumah Batu**
+- **Kebun Raya Sambas**
 
 ---
 

@@ -1,6 +1,6 @@
 # Kecamatan Sajingan Besar
 
-Sajingan Besar adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Jumlah penduduk Sajingan Besar pada pertengahan tahun 2025 sebanyak 12.953 jiwa.
+Sajingan Besar adalah kecamatan terluas di Kabupaten Sambas, Kalimantan Barat: 1.037 km² yang membentang di perbatasan langsung dengan Sarawak, Malaysia. Ibu kotanya di Kaliau', lima desanya dihuni sekitar 14 ribu jiwa (BPS 2024) yang menyebar di antara hutan dan sungai besar. Kecamatan ini adalah rumah bagi Taman Wisata Alam Gunung Dungan dan riam-riam air terjun seperti Riam Merasap dan Riam Cagat di kaki Gunung Senujuh. Pasar Wisata Aruk di perbatasan menambah denyut ekonomi khas kawasan negara tetangga yang berhadapan langsung dengan Malaysia.
 
 ## Ringkasan
 
@@ -33,16 +33,19 @@ Kecamatan Sajingan Besar merupakan kecamatan yang berada di wilayah Kabupaten Sa
 | selatan | Kecamatan Sejangkung dan Kabupaten Bengkayang |
 | timur | Serawak |  |
 | barat | Kecamatan Paloh dan Galing, Sambas
+- [Kecamatan Sajingan Besar pada Humas Kabupaten Sambas](http://humassambas.com/kecamatan/sajingan/) 
+- [Peresmian Pos Lintas Batas Negara Aruk, Sambas, tahun 2017](https://youtube/v3GKC43sX80)
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Air terjun Riam Merasap
-- Air terjun Riam Cagat
-- TWA Gunung Dungan
-- Goa Alam Santok
-- Riam Sunge Banokng
+- **Air terjun Riam Merasap** - Air terjun di kaki Gunung Senujuh, Desa Sajingan Besar. Airnya mengalir menembus bebatuan dikelilingi hutan tropis yang masih lebat. Trek menuju lokasi punya tingkat kesulitan yang beragam, cocok untuk yang suka petualangan alam terbuka.
+- **Air terjun Riam Cagat**
+- **TWA Gunung Dungan**
+- **Goa Alam Santok**
+- **Riam Sunge Banokng**
+- **Pasar Wisata Aruk** - Pasar perbatasan di Aruk, Kecamatan Sajingan Besar, ujung utara Kabupaten Sambas menuju Sarawak. Gerbang perdagangan lintas batas Malaysia-Indonesia.
 
 ---
 

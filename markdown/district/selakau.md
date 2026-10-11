@@ -1,6 +1,6 @@
 # Kecamatan Selakau
 
-Selakau adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia.
+Selakau adalah kecamatan dengan kepadatan penduduk tertinggi ketiga di Kabupaten Sambas, Kalimantan Barat: 39.152 jiwa (BPS 2024) memadati 96 km² wilayah pesisir selatan yang berbatasan dengan Kota Singkawang. Posisi itu menjadikan Selakau koridor ekonomi yang hidup, dengan 11 desa yang sebagian besar hidup dari pertanian, perikanan, dan perdagangan. Pantai Polaria dan Pantai Saadi menjadi rekreasi akhir pekan warganya, sementara makam-makam bersejarah seperti Makam Ratu Anom Kesuma Yuda menyimpan jejak masa lalu kesultanan yang masih dirawat sampai sekarang.
 
 ## Ringkasan
 
@@ -119,13 +119,12 @@ Selakau memiliki 2 TK, 22 SD, 1 MI, 8 SMP, 3 MTs, 1 MA, dan 4 SMA. Seluruh MI, M
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Pantai Polaria
-- Pantai Saadi/Terigas
-- Makam Ratu Anom Kesuma Yuda
-- Makam Pangeran Timba’ Bayi
-- Danau Biru
+- **Pantai Polaria**
+- **Pantai Saadi/Terigas**
+- **Makam Ratu Anom Kesuma Yuda**
+- **Makam Pangeran Timba’ Bayi**
 
 ---
 

@@ -1,6 +1,6 @@
 # Kecamatan Tangaran
 
-Tangaran adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Tangaran secara resmi dibentuk pada 15 Mei 2006 setelah dimekarkan dari Kecamatan Teluk Keramat. Ibu kotanya terletak di Desa Simpang Empat yang berjarak 31 km dengan ibu kota kabupaten dan 256 km dengan ibu kota provinsi. Secara geografis, Tangaran terletak pada 1°28'11"-1°36'01" LU dan 109°03'43"-109°13'57" BT dengan luas 186,67 Km² atau 2,92% dari wilayah Kabupaten Sambas.
+Tangaran resmi dibentuk 15 Mei 2006 sebagai pemekaran dari Kecamatan Teluk Keramat, dan kini berkembang pesat sebagai salah satu kecamatan urbanisasi tercepat di Sambas. Beribukota di Simpang Empat yang hanya 31 km dari kota Sambas, delapan desanya dihuni sekitar 26,6 ribu jiwa (BPS 2024) dengan kepadatan 193 jiwa/km². Posisinya yang dekat Singkawang dan relatif datar menjadikan Tangaran kawasan permukiman dan perdagangan yang terus menyerap penduduk baru. Pantainya pun tak kalah menarik: Pantai Muare Jalan Indah, Pantai Dataran Merdeka, dan Pantai Tanjung Terabitan jadi andalan wisata pesisir.
 
 ## Ringkasan
 
@@ -34,12 +34,12 @@ Kecamatan Tangaran terdiri dari 8 desa, 25 dusun, 40 RW, dan 115 RT. Desa dengan
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Pantai Muare Jalan Indah
-- Pantai Dataran Merdeka
-- Pantai Tanjung Terabitan
-- Pantai Venesia
+- **Pantai Muare Jalan Indah**
+- **Pantai Dataran Merdeka**
+- **Pantai Tanjung Terabitan**
+- **Pantai Venesia**
 
 ---
 

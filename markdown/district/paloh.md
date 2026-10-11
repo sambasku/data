@@ -1,6 +1,8 @@
 # Kecamatan Paloh
 
-Paloh adalah sebuah kecamatan di Kabupaten Sambas, Kalimantan Barat, Indonesia. Ibu kotanya berada di Liku. Paloh merupakan salah satu kecamatan di Kabupaten Sambas yang berbatasan langsung dengan Sarawak, Malaysia. Paloh merupakan kecamatan terluas kedua setelah Kecamatan Sajingan Besar di Kabupaten Sambas.
+![Pantai Camar Bulan](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Sunset_Camar_Bulan.webp)
+
+Paloh adalah pintu utara Kabupaten Sambas, Kalimantan Barat, sekaligus kecamatan pesisir yang berbatasan langsung dengan Sarawak, Malaysia. Dengan luas 657 km², Paloh termasuk salah satu kecamatan terluas di Sambas, Paloh menyimpan karuniah alam yang jarang dimiliki daerah lain: hamparan pantai berpasir, hutan hujan tropis Tanjung Dato, sampai destinasi andalan Desa Temajuk yang kini menjelma jadi kawasan wisata pesisir dengan puluhan titik pantai dan homestay. Sekitar 31 ribu jiwa (BPS 2024) tinggal di 8 desa, dengan ibu kota kecamatan di Liku. Dari daerah yang dulu terisolasi dan hanya bisa dijangkau lewat sungai dan laut, Paloh kini tersambung jalan darat dan menjadi magnet wisata baru di ujung Kalimantan Barat.
 
 ## Ringkasan
 
@@ -176,17 +178,18 @@ Paloh merupakan salah satu kecamatan dengan potensi pariwisata yang didominasi o
 
 ## Wisata
 
-Objek wisata terdaftar di Open Data Kabupaten Sambas (2024):
+Objek wisata yang tercatat di wilayah ini:
 
-- Pantai Tanjung Lestari
-- Pantai Harapan
-- Pantai Pulau Selimpai
-- Pantai Kampak Indah
-- Pantai Camar Bulan
-- Pantai Tanjung Bendera
-- Pantai Tanjung Kemuning
-- Pantai Banyuan
+- **Pantai Tanjung Lestari**
+- **Pantai Harapan**
+- **Pantai Pulau Selimpai**
+- **Pantai Kampak Indah**
+- **Pantai Camar Bulan** - Pantai berpasir putih di Desa Temajuk, Kecamatan Paloh, titik paling barat Kalimantan yang berbatasan langsung dengan Sarawak, Malaysia. Dinamai Camar Bulan karena sering didatangi burung camar, terutama saat musim burung migran. Pemandangannya luas, langit membentang, ombak khas pantai barat Kalimantan.
+- **Pantai Tanjung Bendera**
+- **Pantai Tanjung Kemuning**
+- **Pantai Banyuan**
 
 ---
 
 Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Paloh, Sambas](https://id.wikipedia.org/wiki/Paloh%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
+Foto: Fikri Irawan Asnawi (CC BY-SA 4.0)
