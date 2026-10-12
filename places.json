@@ -249,44 +249,6 @@
       "mapsUrl": "https://maps.app.goo.gl/M4Yd5VSZz28vB6im7"
     },
     {
-      "id": "masjid-jami",
-      "slug": "masjid-jami",
-      "name": "Masjid Jami’",
-      "category": "wisata",
-      "type": "objek-wisata",
-      "lat": 1.361327,
-      "lng": 109.3149167,
-      "regionId": "sambas",
-      "shortDescription": "Objek Wisata",
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/placeholder.webp",
-          "isMain": true,
-          "attribution": {
-            "name": "sambasku",
-            "provider": "sambasku",
-            "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/placeholder.webp",
-            "license": "CC BY-SA 4.0",
-            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
-          }
-        }
-      ],
-      "hours": null,
-      "contact": null,
-      "relatedWordIds": [],
-      "related": [],
-      "sources": [
-        {
-          "name": "Open Data Sambas - Objek Wisata (dataset 116)",
-          "type": "web",
-          "address": "https://opendata.sambas.go.id/json/116",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
-        }
-      ],
-      "mapsUrl": "https://maps.app.goo.gl/kdNPpz2pCbjcKRGfA"
-    },
-    {
       "id": "bangunan-kantor-kewedanaan-balairung-sari",
       "slug": "bangunan-kantor-kewedanaan-balairung-sari",
       "name": "Bangunan Kantor Kewedanaan Balairung Sari",
@@ -4461,45 +4423,6 @@
         }
       ],
       "mapsUrl": "https://maps.app.goo.gl/WM2z9uafQkGK55Jm9"
-    },
-    {
-      "id": "kawasan-istane-alwatzikhoebillah-2",
-      "slug": "kawasan-istane-alwatzikhoebillah-2",
-      "name": "Kawasan Istane Alwatzikhoebillah",
-      "category": "wisata",
-      "type": "objek-wisata",
-      "lat": 1.3617004,
-      "lng": 109.3156473,
-      "regionId": "sambas",
-      "address": "Jl. Istana, Dalam Kaum, Kec. Sambas, Kabupaten Sambas, Kalimantan Barat 79460",
-      "shortDescription": "Objek Wisata",
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/placeholder.webp",
-          "isMain": true,
-          "attribution": {
-            "name": "sambasku",
-            "provider": "sambasku",
-            "url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/placeholder.webp",
-            "license": "CC BY-SA 4.0",
-            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
-          }
-        }
-      ],
-      "hours": null,
-      "contact": null,
-      "relatedWordIds": [],
-      "related": [],
-      "sources": [
-        {
-          "name": "Open Data Sambas - Objek Wisata (dataset 116)",
-          "type": "web",
-          "address": "https://opendata.sambas.go.id/json/116",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
-        }
-      ],
-      "mapsUrl": "https://maps.app.goo.gl/iZR8L4XNW5YxSWhY6"
     },
     {
       "id": "batu-nenek",
