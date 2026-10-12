@@ -1,78 +1,84 @@
 #!/usr/bin/env python3
-import json, requests, sys, re
-from collections import defaultdict
+"""Re-geocode 8 places dengan koordinat fallback salah (issue #152).
 
-def geocode(name, region):
-    q = f"{name} {region}"
-    url = "https://nominatim.openstreetmap.org/search"
-    params = {"q": q, "format": "json", "limit": 1, "addressdetails": 1}
-    headers = {"User-Agent": "sambasku-data-fix/1.0"}
-    try:
-        r = requests.get(url, params=params, headers=headers, timeout=10)
-        r.raise_for_status()
-        data = r.json()
-        if not data:
-            return None, None, "no result"
-        first = data[0]
-        lat = float(first.get("lat"))
-        lon = float(first.get("lon"))
-        return lat, lon, "ok"
-    except Exception as e:
-        return None, None, str(e)
+Sumber: Nominatim OpenStreetMap. Guard: hasil harus di bounding box
+Kabupaten Sambas (lat 0.8-2.1, lng 108.8-109.7) — buang hasil salah sasaran.
+Tidak mengubah file bila tidak ada update. Commit manual setelah review.
+"""
+import json
+import time
+import urllib.parse
+import urllib.request
+
+PATH = "/Users/ibnulmutaki/Development/github/sambasku/data/places.json"
+# Bounding box Kabupaten Sambas (longgar, termasuk Paloh di utara)
+LAT_MIN, LAT_MAX = 0.8, 2.1
+LNG_MIN, LNG_MAX = 108.8, 109.7
+
+TARGETS = [
+    {"id": "rumah-tahanan-belanda", "q": "Rumah Tahanan Belanda, Pemangkat, Sambas"},
+    {"id": "pantai-tanjung-kemuning", "q": "Pantai Tanjung Kemuning, Paloh, Sambas"},
+    {"id": "pantai-tanjung-bendera", "q": "Pantai Tanjung Bendera, Paloh, Sambas"},
+    {"id": "pantai-tanjung-api", "q": "Pantai Tanjung Api, Paloh, Sambas"},
+    {"id": "pantai-polaria", "q": "Pantai Polaria, Selakau, Sambas"},
+    {"id": "makam-ratu-sepudak", "q": "Makam Ratu Sepudak, Galing, Sambas"},
+    {"id": "makamsyech-muhammad-sattaruddin", "q": "Makam Syech Muhammad Sattaruddin, Galing, Sambas"},
+    {"id": "makam-keramat-dato-sanggup", "q": "Makam Keramat Dato Sanggup, Galing, Sambas"},
+]
+
+
+def geocode(query):
+    params = urllib.parse.urlencode({"q": query, "format": "json", "limit": 3})
+    url = f"https://nominatim.openstreetmap.org/search?{params}"
+    req = urllib.request.Request(url, headers={"User-Agent": "sambasku-data-fix/1.0 (github.com/sambasku)"})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        return json.loads(resp.read().decode())
+
+
+def in_bbox(lat, lng):
+    return LAT_MIN <= lat <= LAT_MAX and LNG_MIN <= lng <= LNG_MAX
+
 
 def main():
-    path = "/Users/ibnulmutaki/Development/github/sambasku/data/places.json"
-    d = json.load(open(path))
+    d = json.load(open(PATH))
     items = d["places"]
-    targets = [
-        {"id": "rumah-tahanan-belanda", "name": "Rumah Tahanan Belanda", "region": "pemangkat"},
-        {"id": "pantai-tanjung-kemuning", "name": "Pantai Tanjung Kemuning", "region": "paloh"},
-        {"id": "pantai-tanjung-bendera", "name": "Pantai Tanjung Bendera", "region": "paloh"},
-        {"id": "pantai-tanjung-api", "name": "Pantai Tanjung Api", "region": "paloh"},
-        {"id": "pantai-polaria", "name": "Pantai Polaria", "region": "selakau"},
-        {"id": "makam-ratu-sepudak", "name": "Makam Ratu Sepudak", "region": "galing"},
-        {"id": "makamsyech-muhammad-sattaruddin", "name": "MakamSyech Muhammad Sattaruddin", "region": "galing"},
-        {"id": "makam-keramat-dato-sanggup", "name": "Makam Keramat Dato' Sanggup", "region": "galing"},
-    ]
     updates = []
-    for t in targets:
+    for t in TARGETS:
         p = next((x for x in items if x["id"] == t["id"]), None)
         if not p:
-            print(f"SKIP: {t['id']} not found")
+            print(f"SKIP  {t['id']}: tidak ada di places.json")
             continue
-        old_lat, old_lon = p.get("lat"), p.get("lng")
-        lat, lon, err = geocode(t["name"], t["region"])
-        if err:
-            print(f"FAIL {t['id']} {t['name']} ({t['region']}): {err}")
+        try:
+            results = geocode(t["q"])
+        except Exception as e:
+            print(f"FAIL  {t['id']}: {e}")
+            time.sleep(1.1)
             continue
-        if old_lat == lat and old_lon == lon:
-            print(f"SKIP {t['id']} {t['name']} - same coords")
+        hit = next((r for r in results
+                    if in_bbox(float(r["lat"]), float(r["lon"]))), None)
+        if not hit:
+            print(f"NOHIT {t['id']} {p['name']!r}: {len(results)} hasil, semua di luar bbox Sambas")
+            time.sleep(1.1)
             continue
+        lat, lng = float(hit["lat"]), float(hit["lon"])
+        if abs(lat - p["lat"]) < 1e-6 and abs(lng - p["lng"]) < 1e-6:
+            print(f"SAME  {t['id']}")
+            time.sleep(1.1)
+            continue
+        old = (p["lat"], p["lng"])
         p["lat"] = lat
-        p["lng"] = lon
-        updates.append({
-            "id": t["id"],
-            "name": t["name"],
-            "old": (old_lat, old_lon),
-            "new": (lat, lon),
-        })
-        print(f"UPDATED {t['id']} {t['name']} -> {lat}, {lon}")
+        p["lng"] = lng
+        updates.append({"id": t["id"], "name": p["name"], "old": old, "new": (lat, lng),
+                        "display": hit.get("display_name", "")[:80]})
+        print(f"OK    {t['id']}: {old} -> ({lat}, {lng}) | {hit.get('display_name', '')[:60]}")
+        time.sleep(1.1)  # rate limit Nominatim
 
     if updates:
-        print("\n=== SUMMARY ===")
-        for u in updates:
-            print(f"{u['id']} {u['name']}: {u['old']} -> {u['new']}")
-        print("\nSaving...")
-        json.dump(d, open(path, "w"), ensure_ascii=False, indent=2)
-        print("Saved. Now commit & push.")
-        # commit
-        import subprocess
-        subprocess.run(["git", "add", path], check=True)
-        subprocess.run(["git", "commit", "-m", f"fix: re-geocode 8 places (fix #152)"], check=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True)
-        print("Pushed to origin/main")
+        json.dump(d, open(PATH, "w"), ensure_ascii=False, indent=2)
+        print(f"\n{len(updates)} entri di-update di places.json (BELUM di-commit).")
     else:
-        print("No updates needed.")
+        print("\nTidak ada update tersimpan.")
+
 
 if __name__ == "__main__":
     main()
