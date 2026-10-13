@@ -1,6 +1,6 @@
 # Pantai Datok Buntar
 
-![Pantai Datok Buntar](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Datok_Buntar.webp)
+![Pantai Datok Buntar](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Datok_Buntar_SISPARNAS.webp)
 
 Pantai Datok Buntar berada di Desa Dungun Laut, Kecamatan Jawai, Kabupaten Sambas. Pantai ini menjadi salah satu destinasi wisata bahari di pesisir Jawai, menawarkan hamparan pasir dan pemandangan laut dengan suasana yang tenang serta menenangkan.
 
@@ -29,4 +29,3 @@ Pantai Datok Buntar tercatat dalam data resmi daya tarik pariwisata dan menyedia
 ---
 
 Sumber: [Open Data Sambas - Objek Wisata (dataset 116)](https://opendata.sambas.go.id/json/116) (CC BY-SA 4.0) · [SISPARNAS Kemenpar - Pantai Datok Buntar](https://sisparnas.kemenpar.go.id/p/37157) (Data Resmi Kementerian Pariwisata RI).
-Foto: sambasku · CC BY-SA 4.0 via sambasku.

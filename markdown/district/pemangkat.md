@@ -1,7 +1,5 @@
 # Kecamatan Pemangkat
 
-![Makam F.J Sorg](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Makam_FJ_Sorg.webp)
-
 Pemangkat adalah kecamatan terpadat sekaligus kota pesisir paling hidup di Kabupaten Sambas, Kalimantan Barat. Menghadap langsung ke Laut Natuna, kota ini sudah lama jadi simpul perdagangan berkat dua pelabuhannya, Pelabuhan Sintete dan Pelabuhan Seteher. Sejarahnya panjang: dari kongsi penambang emas Tiongkok era Kesultanan Sambas (namanya pun ada yang menyebut dari "Pak Mangkat" atau kata "angkat" karena daratannya terangkat dari laut), benteng pertahanan Belanda, sampai menjadi titik pendaratan pertama balatentara Jepang di Kalimantan Barat pada 1942. Kini lebih dari 54 ribu jiwa (BPS 2024) tinggal di kecamatan seluas 97 km² ini, membentuk masyarakat multi-etnis yang khas: Melayu dan Tionghoa Hakka berdampingan dengan Dayak, Bugis, dan Jawa, dengan jejak Tionghoa yang masih terbaca dari nama-nama kampung seperti Sinam, Sisai, dan Lonam.
 
 ## Ringkasan
@@ -194,5 +192,4 @@ Objek wisata yang tercatat di wilayah ini:
 
 ---
 
-Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Pemangkat, Sambas](https://id.wikipedia.org/wiki/Pemangkat%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
-Foto: sambasku (CC BY-SA 4.0)
+---

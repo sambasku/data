@@ -1,6 +1,6 @@
 # Kecamatan Jawai
 
-![Pantai Datok Buntar](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Datok_Buntar.webp)
+![Pantai Datok Buntar](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/Pantai_Datok_Buntar_SISPARNAS.webp)
 
 Jawai adalah kecamatan pesisir di Kabupaten Sambas, Kalimantan Barat, yang menyimpan rangkaian pantai terbaik di pesisir selatan kabupaten: Pantai Kahona, Pantai Datok Buntar, Pantai Katsuri Indah, sampai Pantai Natuna Indah. Sekitar 50 ribu jiwa (BPS 2024) tinggal di 13 desa seluas 231 km², dengan ibu kota kecamatan di Sentebang. Warganya bekerja sebagai petani, nelayan, dan pedagang, ditopang agro wisata buah naga yang makin dikenal. Dari Pontianak, Jawai dapat dicapai dengan perjalanan darat sekitar 200 km, dan pantai-pantainya kini jadi tujuan akhir pekan warga Sambas dan Singkawang.
 
@@ -45,5 +45,4 @@ Objek wisata yang tercatat di wilayah ini:
 
 ---
 
-Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Jawai, Sambas](https://id.wikipedia.org/wiki/Jawai%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
-Foto: sambasku (CC BY-SA 4.0)
+---
