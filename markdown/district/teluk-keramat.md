@@ -22,8 +22,10 @@ Pusat pemerintahan Kecamatan Teluk Keramat terletak di Desa Sekura.
 
 Berikut ini merupakan batas-batas wilayah Kecamatan Teluk Keramat:
 | utara | Kecamatan Tangaran |
-| --- | --- | --- |
-| selatan | Kecamatan Tekarang dan Sambas, Sambas
+| --- | --- |
+| selatan | Kecamatan Tekarang dan Kecamatan Sambas |
+| timur | Kecamatan Sejangkung dan Kecamatan Sambas |
+| barat | Kecamatan Jawai Selatan |
 
 ## Wisata
 

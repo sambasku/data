@@ -21,7 +21,7 @@ Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 Kecamatan Tekarang terletak pada 1°14'13"-1°20'20" LU dan 109°09'16"-109°26'23" BT, tepatnya arah timur dari Kota Sambas. Secara administratif, Kecamatan Tekarang memiliki batas wilayah sebagai berikut:
 
 | utara | Kecamatan Jawai |
-| --- | --- | --- |
+| --- | --- |
 | selatan | Kecamatan Tebas |
 | timur | Kecamatan Teluk Keramat |
 | barat | Kecamatan Jawai Selatan |
@@ -35,21 +35,20 @@ Sebagaimana kecamatan pada umumnya, Kecamatan Tekarang dipimpin oleh seorang cam
 
 #### Camat
 Berikut adalah daftar Camat Tekarang:
-| M. Sherly, S.Sos., M.Si. | 2003-2007 |
+| Camat | Masa jabatan |
 | --- | --- |
+| M. Sherly, S.Sos., M.Si. | 2003-2007 |
 | Yusran, S.Sos., M.Si. | 2007-2010 |
 | Muzanni, S.Sos., MAP. | 2010-2012 |
 | Jumli, S.IP., M.Si. | 2012-2016 |
 | H. Budi Jaya, S.IP., M.Si. | 2016-2017 |
-| Sapuat, S.E. |  |
-| 2017-2023 |  |
-| Dr. Nasrullah, S.Ag., M.Hum. |  |
-| 2023-sekarang |  |
+| Sapuat, S.E. | 2017-2023 |
+| Dr. Nasrullah, S.Ag., M.Hum. | 2023-sekarang |
 
 #### Wilayah Administratif
 Kecamatan Tekarang dibagi menjadi 7 desa, 21 dusun, 41 RW, dan 85 RT. Desa terluas adalah Desa Merubung dan desa terkecil adalah Desa Cepala. Terkecuali Desa Sari Makmur yang berstatus desa swakarsa dengan LPMD Tipe II, desa lainnya berstatus desa swasembada dengan LPMD Tipe III.
 | Matang Segarau | 9,54 | 11,47 | 2 | 4 | 8 | Ismail |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | Rambayan | 10,94 | 13,16 | 3 | 5 | 10 | Dildar |
 | Sari Makmur | 13,49 | 16,22 | 4 | 4 | 9 | Suheri |
 | Tekarang | 9,25 | 11,12 | 3 | 6 | 13 | Agus H. Juhdi |
@@ -57,14 +56,15 @@ Kecamatan Tekarang dibagi menjadi 7 desa, 21 dusun, 41 RW, dan 85 RT. Desa terlu
 | Cepala | 9,00 | 10,82 | 2 | 5 | 10 | Ruslan |
 | Merubung | 16,69 | 20,07 | 3 | 8 | 16 | Asnawi |
 
-| Matang Segarau |
-| --- |
-| Rambayan |
-| Sari Makmur |
-| Tekarang |
-| Sempadian |
-| Cepala |
-| Merubung |
+| Desa | Dusun |
+| --- | --- |
+| Matang Segarau | Matang Kuang, Seberkat |
+| Rambayan | Tanjung, Kedaung, Ringkak |
+| Sari Makmur | Serang, Darus Salam, Harapan, Parit Lintang |
+| Tekarang | Sumber Rezeki, Sumber Sari, Sumber Lestari |
+| Sempadian | Panggilan Bakti, Nurbakti, Beringin, Sinar Harapan |
+| Cepala | Kemiri, Meranti |
+| Merubung | Buluh, Tanjung Buluh I, Tanjung Buluh II |
 
 ### Kependudukan
 Pada tahun 2017, penduduk Kecamatan Tekarang berjumlah 14.421 jiwa dengan rincian 6.903 laki-laki dan 7.518 perempuan. Dengan begitu, sex ratio Kecamatan Tekarang pada tahun 2017 adalah 91,82%. Kepadatan penduduk Kecamatan Tekarang pada tahun 2017 adalah 173 jiwa/Km² (melebihi 2 kali lipat dari kepadatan penduduk Kabupaten Sambas). Desa dengan penduduk terbanyak adalah Desa Sempadian dan yang paling sedikit penduduknya adalah Desa Sari Makmur. Desa terpadat di Kecamatan Tekarang adalah Desa Cepala dan desa paling sepi adalah Desa Sari Makmur.

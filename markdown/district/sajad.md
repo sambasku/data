@@ -21,7 +21,7 @@ Kecamatan Sajad merupakan kecamatan kelima di Kabupaten Sambas yang dibentuk sej
 ### Batas Wilayah
 Kecamatan Sajad memiliki batas-batas wilayah sebagai berikut:
 | utara | Kecamatan Sejangkung |
-| --- | --- | --- |
+| --- | --- |
 | selatan | Kecamatan Subah |
 | timur | Kecamatan Sejangkung |
 | barat | Kecamatan Sambas |

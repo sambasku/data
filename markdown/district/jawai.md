@@ -29,8 +29,10 @@ Kecamatan Jawai merupakan bagian dari wilayah Kabupaten Sambas dengan luas wilay
 #### Batas wilayah
 Adapun batas wilayah Kecamatan Jawai adalah sebagai berikut:
 | utara | Kecamatan Jawai Selatan |
-| --- | --- | --- |
-| selatan | Kecamatan Pemangkat dan Semparuk, Sambas
+| --- | --- |
+| selatan | Kecamatan Pemangkat dan Kecamatan Semparuk |
+| timur | Kecamatan Tekarang |
+| barat | Laut Natuna |
 
 ## Wisata
 

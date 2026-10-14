@@ -32,9 +32,9 @@ Kecamatan Subah merupakan kecamatan kedua di Kabupaten Sambas yang dibentuk seja
 ### Batas Wilayah
 Adapun batas wilayah Kecamatan Subah adalah sebagai berikut:
 | utara | Kecamatan Sambas dan Kecamatan Sejangkung |
-| --- | --- | --- | --- |
-| selatan | Kecamatan Tebas dan Kabupaten Bengkayang |  |
-| timur | Kecamatan Sejangkung dan Kabupaten Bengkayang |  |
+| --- | --- |
+| selatan | Kecamatan Tebas dan Kabupaten Bengkayang |
+| timur | Kecamatan Sejangkung dan Kabupaten Bengkayang |
 | barat | Kecamatan Sambas dan Kecamatan Tebas |
 
 ### Wilayah Administrasi

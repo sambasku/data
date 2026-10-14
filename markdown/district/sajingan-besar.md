@@ -29,10 +29,10 @@ Kecamatan Sajingan Besar pada awalnya merupakan Perwakilan Kecamatan Sejangkung 
 ### Batas Wilayah
 Kecamatan Sajingan Besar merupakan kecamatan yang berada di wilayah Kabupaten Sambas dan terletak di wilayah perbatasan dengan Negara Malaysia Timur (Serawak) dengan luas wilayah ± 139.120 Ha, dengan batas-batas sebagai berikut:
 | utara | Kecamatan Paloh dan Serawak |
-| --- | --- | --- |
+| --- | --- |
 | selatan | Kecamatan Sejangkung dan Kabupaten Bengkayang |
-| timur | Serawak |  |
-| barat | Kecamatan Paloh dan Galing, Sambas
+| timur | Serawak |
+| barat | Kecamatan Paloh dan Kecamatan Galing |
 - [Kecamatan Sajingan Besar pada Humas Kabupaten Sambas](http://humassambas.com/kecamatan/sajingan/) 
 - [Peresmian Pos Lintas Batas Negara Aruk, Sambas, tahun 2017](https://youtube/v3GKC43sX80)
 

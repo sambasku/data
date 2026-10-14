@@ -35,10 +35,10 @@ Kecamatan Jawai Selatan terbentuk secara resmi pada Hari Selasa tanggal 12 Oktob
 Kecamatan Jawai Selatan merupakan kecamatan ketujuh di Kabupaten Sambas yang dibentuk sejak diberlakukannya Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah dengan luas wilayah 93,51 Km2, dengan batas-batas sebagai berikut:
 
 | utara | Kecamatan Jawai |
-| --- | --- | --- |
+| --- | --- |
 | selatan | Sungai Sambas Besar |
 | timur | Kecamatan Tebas |
-| barat | Laut Natuna |  |
+| barat | Laut Natuna |
 
 ### Pendidikan
 Jawai Selatan memiliki 1 TK, 19 SD, 3 SMP, 3 MTs, 1 MA, 1 SMA, dan 1 SMK. Seluruh TK, MTs, dan MA di Jawai Selatan berstatus swasta. Berikut adalah daftar sekolah yang ada di Jawai Selatan:

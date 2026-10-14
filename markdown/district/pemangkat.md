@@ -36,10 +36,10 @@ Kecamatan Pemangkat mempunyai sejarah yang tidak bisa dilupakan, antara lain:
 ### Batas wilayah
 Batas wilayah Kecamatan Pemangkat adalah sebagai berikut:
 | Utara | Kecamatan Jawai Selatan |
-| --- | --- | --- |
+| --- | --- |
 | Selatan | Kecamatan Salatiga |
 | Timur | Kecamatan Semparuk |
-| Barat | Laut Natuna |  |
+| Barat | Laut Natuna |
 
 ### Sejarah pimpinan
 Sejak masa Kesultanan Sambas hingga tahun 1958 Pemimpin yang tercatat bertugas di Kecamatan Pemangkat, yaitu:

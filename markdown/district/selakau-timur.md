@@ -30,9 +30,13 @@ Selakau Timur terbagi atas 4 desa, 13 dusun, 22 rukun warga, dan 54 rukun tetang
 
 #### Camat
 Berikut ini merupakan daftar camat yang pernah dan sedang menjabat.
-| 1 | Tajudin, BA. | 2007-2009 |
-| --- | --- | --- | --- |
-| 2 | H. Supardi, Sarjana Pendidikan Sekolah Dasar
+| No | Nama Camat |
+| --- | --- |
+| 1 | Tajudin, BA. (2007-2009) |
+| 2 | H. Supardi, S.Pd. MM. |
+| 3 | H. Abrar, S.I.P. |
+| 4 | Drs. Topitri |
+| 5 | Uray Iskandar, S.Pd, M.Pd |
 - [Situs Resmi Pemkab Sambas](http://www.sambas.go.id/)
 - [Situs Resmi Bagian Humas dan PDE Kabupaten Sambas](http://humassambas.com/kecamatan/selakau-timur/) 
 - [Situs Resmi BPS Kabupaten Sambas](http://sambaskab.bps.go.id/)

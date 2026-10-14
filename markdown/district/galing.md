@@ -36,7 +36,7 @@ Seluas 60,02% dari total 333,00 Km² lahan di Galing merupakan lahan pertanian b
 Kecamatan Galing pada awal pembentukannya terdiri dari 6 desa. Dengan terbitnya Keputusan Bupati Sambas Nomor 37 Tahun 2002 tentang Pembentukan Desa Definitif Pada Kecamatan Galing, Kabupaten Sambas, jumlah desa bertambah menjadi total 10 desa. Dari 10 desa tersebut terbagi lagi menadi 23 dusun, 31 RW, dan 98 RT. Desa Tri Kembang merupakan desa dengan jumlah RT dan RW terbanyak, sedangkan Desa Sagu adalah yang paling sedikit. Desa Tempapan Hulu merupakan desa terluas dan Desa Tri Gadu merupakan yang terkecil. Seluruh desa di Galing berstatus desa pedesaan dan desa swakarsa dengan LPMD tipe I.
 Berikut adalah daftar desa yang ada di Kecamatan Galing:
 | Ratu Sepudak | 10,40 | 2,98 | 2 | 3 | 9 | Muhkarti Setya Budi Pranyoto |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | Galing | 27,17 | 7,78 | 2 | 2 | 8 | Eka Karia Wijaya |
 | Sagu | 41,64 | 11,93 | 2 | 2 | 7 | Halidin |
 | Sungai Palah | 35,00 | 10,03 | 2 | 3 | 8 | Mahrus Manudi, A.Md |
@@ -47,17 +47,18 @@ Berikut adalah daftar desa yang ada di Kecamatan Galing:
 | Sijang | 52,00 | 14,90 | 2 | 2 | 9 | Rusdin, S.Sos. |
 | Teluk Pandan | 23,38 | 8,13 | 3 | 3 | 9 | Junaidi |
 Berikut adalah daftar nama dusun yang ada di Kecamatan Galing:
-| Ratu Sepudak |
+| Desa | Dusun |
 | --- | --- |
-| Galing |
-| Sagu |
-| Sungai Palah |
-| Tempapan Kuala |
-| Tempapan Hulu |
-| Tri Kembang |
-| Tri Gadu |
-| Sijang |
-| Teluk Pandan |
+| Ratu Sepudak | Kota Lama, Kupak Rebung |
+| Galing | Semunut, Seberuan |
+| Sagu | Bina Warsa, Gurah |
+| Sungai Palah | Sungai Guntung, Putat |
+| Tempapan Kuala | Parit Baru, Sidu' |
+| Tempapan Hulu | Semanas, Dadau |
+| Tri Kembang | Kembayat, Sagang, Tamang Sagang |
+| Tri Gadu | Semanjak, Selangkin, Semparung |
+| Sijang | Sehati, Sejati |
+| Teluk Pandan | Parit Kongsi, Sekilah, Mempelas |
 
 #### Camat
 Sejak terbentuk pada tahun 2001, Galing telah dipimpin oleh 8 Camat sebagai berikut:

@@ -25,7 +25,7 @@ Wilayah Kecamatan Sejangkung dibelah oleh Sungai Sambas Besar dan anak-anak sung
 
 ### Batas Administrasi
 | utara | Kecamatan Galing dan Sajingan Besar |
-| --- | --- | --- | --- |
+| --- | --- |
 | selatan | Kecamatan Sambas dan Subah |
 | timur | Kecamatan Sajingan Besar, Kabupaten Sambas dan Kecamatan Seluas, Kabupaten Bengkayang |
 | barat | Kecamatan Galing dan Teluk Keramat |
