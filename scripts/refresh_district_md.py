@@ -237,6 +237,13 @@ def strip_wiki(text):
     return text
 
 def sanitize(md):
+    # Wikipedia kadang tulis https://youtube/VIDEOID (host tanpa TLD).
+    md = re.sub(
+        r'https?://youtube/([A-Za-z0-9_-]+)',
+        r'https://www.youtube.com/watch?v=\1',
+        md,
+        flags=re.I,
+    )
     # 1) stash valid links
     stashed = []
     def stash(m):
