@@ -1,7 +1,5 @@
 # Kecamatan Sebawi
 
-![Danau Sebedang](https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/places/danau_sebedang_JADESTA.jpg)
-
 Sebawi adalah kecamatan yang menyimpan salah satu permata alam Kabupaten Sambas: Danau Sebedang. Danau di Desa Sempelai ini dikelilingi hutan tropis dan ditata jadi Taman Istana Puteri Danau Sebedang, spot rekreasi keluarga yang sejuk dan tenang. Beribukota di Desa Sebawi, kecamatan seluas 101 km² ini dihuni sekitar 21 ribu jiwa (BPS 2024) yang tersebar di 7 desa di kaki perbukitan pedalaman Sambas. Warganya dikenal menjaga tradisi: Makam Bujang Nadi Dare Nandung dan Surau peninggalan Raden Sulaiman menjadi saksi sejarah yang dirawat turun-temurun.
 
 ## Ringkasan
@@ -118,11 +116,10 @@ Terdapat 3.009 hektare lahan yang digunakan untuk rumah/bangunan dan halaman dis
 Objek wisata yang tercatat di wilayah ini:
 
 - **Taman Istana Putri Danau Sebedang**
-- **Danau Sebedang** - Danau di Desa Sempelai, Kecamatan Sebawi, dikelilingi hutan dan hamparan sawah. Airnya jadi sumber kehidupan warga sekitar sekaligus tempat rekreasi alam. Suasana tenang dan hijau membuatnya cocok untuk bersantai sambil menikmati desa Kalimantan Barat.
+- **Danau Sebedang**
 - **Makam Bujang Nadi Dare Nandung**
 - **Surau Peninggalan Raden Sulaiman**
 
 ---
 
 Sumber: [PPID Kabupaten Sambas - Profil Daerah](https://ppid.sambas.go.id/profil-daerah/) · [DPMD - Daftar Kode dan Nama Desa](https://dpmd.sambas.go.id/articles/36) · Statistik: BPS *Kabupaten Sambas Dalam Angka 2025* ([sambaskab.bps.go.id](https://sambaskab.bps.go.id)) · [Wikipedia - Sebawi, Sambas](https://id.wikipedia.org/wiki/Sebawi%2C_Sambas) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)).
-Foto: Jadesta - Kementerian Pariwisata RI

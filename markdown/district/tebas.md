@@ -59,7 +59,7 @@ Objek wisata yang tercatat di wilayah ini:
 - **Agro Wisata Matang Nangka**
 - **Agro Wisata Kota Jeruk**
 - **Taman Rekreasi Batu Mak Jage**
-- **Goa Kelelawar** - Goa alami di kawasan Tebas yang jadi rumah banyak kelelawar. Ratusan kelelawar bergelantung di langit-langit goa, dan kamu bisa mengamatinya dari dekat, terutama saat matahari tenggelam ketika mereka mulai keluar mencari makan. Suasananya gelap dan lembap, penuh nuansa petualangan.
+- **Goa Kelelawar**
 
 ---
 

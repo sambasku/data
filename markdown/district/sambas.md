@@ -37,18 +37,18 @@ Kota Sambas juga terkenal dengan kain tenunnya, yaitu Kain Tenun Songket Sambas 
 
 Objek wisata yang tercatat di wilayah ini:
 
-- **Istana Alwatzikoebillah** - Istana Kesultanan Sambas di Desa Dalam Kaum, dibangun 1933 sampai 1935 pada masa Sultan Muhammad Mulia Ibrahim Syafiuddin.
-- **Masjid Jami Keraton Sambas** - Masjid Jami Keraton Sambas adalah masjid yang berada di komplek keraton Kesultanan Sambas, Kota Sambas, Kalimantan Barat. Masjid yang resminya bernama Masjid Sultan Muhammad Syafi'oeddin II ini tercatat sebagai masjid tertua di Kalimantan Barat.
-- **Waterfront Sambas** - Kawasan tepi Sungai Sambas yang ditata jadi tempat rekreasi warga. Ada deretan toko, kafe, dan spot foto yang apik. Paling ramai saat sore dan malam, waktu yang pas untuk menikmati pemandangan sungai di tengah kota Sambas.
+- **Istana Alwatzikoebillah**
+- **Masjid Jami Keraton Sambas**
+- **Waterfront Sambas**
 - **Makam Kesultanan Sambas dan Kerabat**
 - **Masjid Jami’**
 - **Bangunan Kantor Kewedanaan Balairung Sari**
 - **Jembatan (Gerattak) Asam**
 - **Jembatan (Gerattak) Batu**
-- **Museum Negeri Sambas** - Museum yang menyimpan koleksi sejarah dan budaya Kabupaten Sambas, mulai dari benda peninggalan Kesultanan Sambas, artefak masa prasejarah, sampai hasil budaya suku-suku di Kalimantan Barat. Tempat yang tepat untuk mengenal warisan wilayah perbatasan Indonesia-Malaysia ini.
-- **Kampung Tenun Semberang** - Kampung pengrajin tenun di Desa Sumber Harapan, Kecamatan Sambas. Di sini pengrajin menenun songket dan tenun ikat dengan motif khas Melayu dan Dayak. Kamu bisa melihat langsung proses menenun dari benang jadi kain, sekaligus membawa pulang kain tenun sebagai oleh-oleh khas Sambas.
+- **Museum Negeri Sambas**
+- **Kampung Tenun Semberang**
 - **Kawasan Istane Alwatzikhoebillah**
-- **Susur Sungai** - Susur sungai dilakukan menggunakan perahu ataupun motor kecil. Susur sungai dibantu oleh pemandu wisata. Kegiatan susur sungai dilakukan sambil melihat keindahan Desa Sumber Harapan dari sudut pesisir sungai.
+- **Susur Sungai**
 - **Ramin Bantang Sungai Rambah**
 - **Agro Wisata Buah Nenas**
 - **Taman Lunggi**

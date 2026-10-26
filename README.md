@@ -18,13 +18,30 @@ level desa berlabel `desa` (tidak dibedakan dari kelurahan).
 
 ## places.json
 
-Objek wisata: 2 entri kurasional + 180 entri dari [Open Data Sambas](https://opendata.sambas.go.id) (dataset 116, opendata.sambas.go.id/json/116, 2023, `uraian`/`keterangan`/`jumlah`).
+**Non-SoT setelah Places CRUD.** Sumber kebenaran live = tabel Turso
+`places` / `place_images` via API (`docs/backlogs/PLACES_CRUD.md`).
+File ini tetap dipakai sebagai **seed/backup** (`pnpm seed:places` di
+`api/`). Jangan andalkan CDN ini sebagai alur edit harian.
+
+114 entri, field per place dibatasi ke data faktual saja:
+
+| Field | Catatan |
+| ----- | ------- |
+| `id`, `slug`, `name` | identitas place |
+| `category` | `wisata` / `kuliner` / `budaya` |
+| `lat`, `lng` | koordinat (boleh null) |
+| `regionId` | slug kecamatan; desa (`village_id`) diisi admin lewat console |
+| `mapsUrl` | tautan Google Maps (boleh null) |
+| `status` | selalu `published` di seed |
+
+Deskripsi, foto, jam buka, kontak, alamat, dan `sources` per place **tidak lagi
+disimpan di file ini** - semuanya diisi lewat console (SoT Turso).
+
+Kredit dataset tingkat repo (daftar nama objek wisata awal):
 
 | Sumber | Lisensi |
 | ------ | ------- |
 | [Open Data Sambas - dataset 116](https://opendata.sambas.go.id/json/116) | CC BY-SA 4.0 |
-
-Atribusi tiap entri tertanam di `sources` (`name: Open Data Sambas - Objek Wisata (dataset 116)`). Entri Open Data belum punya koordinat (`lat`/`lng` null) dan pakai gambar placeholder Elementor (`images[].url`), menunggu foto asli di repo `images`. `regionId` = kecamatan pertama bila sumber mencantumkan lebih dari satu kecamatan.
 
 ## regions-ref-kemendagri.json
 

@@ -40,12 +40,12 @@ Kecamatan Sajingan Besar merupakan kecamatan yang berada di wilayah Kabupaten Sa
 
 Objek wisata yang tercatat di wilayah ini:
 
-- **Air terjun Riam Merasap** - Air terjun di kaki Gunung Senujuh, Desa Sajingan Besar. Airnya mengalir menembus bebatuan dikelilingi hutan tropis yang masih lebat. Trek menuju lokasi punya tingkat kesulitan yang beragam, cocok untuk yang suka petualangan alam terbuka.
+- **Air terjun Riam Merasap**
 - **Air terjun Riam Cagat**
 - **TWA Gunung Dungan**
 - **Goa Alam Santok**
 - **Riam Sunge Banokng**
-- **Pasar Wisata Aruk** - Pasar perbatasan di Aruk, Kecamatan Sajingan Besar, ujung utara Kabupaten Sambas menuju Sarawak. Gerbang perdagangan lintas batas Malaysia-Indonesia.
+- **Pasar Wisata Aruk**
 
 ---
 

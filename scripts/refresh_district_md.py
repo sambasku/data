@@ -283,20 +283,14 @@ def opendata_wisata(slug_nama):
     return out[:8]
 
 def wisata_places(slug):
-    """Bullet wisata dari places.json: nama + deskripsi 1 kalimat.
+    """Bullet wisata dari places.json: nama saja.
     Hanya category=wisata; tampilkan SEMUA (bukan 8 pertama)."""
     cands = [p for p in PLACES
              if p.get('regionId') == slug and p.get('category') == 'wisata']
     out = []
     for p in cands:
         nm = p['name'].strip()
-        desc = (p.get('shortDescription') or '').strip()
-        if desc.lower().startswith('objek w'):
-            desc = ''
-        if desc:
-            out.append(f'- **{nm}** - {desc}')
-        else:
-            out.append(f'- **{nm}**')
+        out.append(f'- **{nm}**')
     return out
 
 def build(slug, dry=False):

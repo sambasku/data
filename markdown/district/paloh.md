@@ -184,7 +184,7 @@ Objek wisata yang tercatat di wilayah ini:
 - **Pantai Harapan**
 - **Pantai Pulau Selimpai**
 - **Pantai Kampak Indah**
-- **Pantai Camar Bulan** - Pantai berpasir putih di Desa Temajuk, Kecamatan Paloh, titik paling barat Kalimantan yang berbatasan langsung dengan Sarawak, Malaysia. Dinamai Camar Bulan karena sering didatangi burung camar, terutama saat musim burung migran. Pemandangannya luas, langit membentang, ombak khas pantai barat Kalimantan.
+- **Pantai Camar Bulan**
 - **Pantai Tanjung Bendera**
 - **Pantai Tanjung Kemuning**
 - **Pantai Banyuan**
@@ -204,11 +204,11 @@ Objek wisata yang tercatat di wilayah ini:
 - **Pantai Rindu Samudera**
 - **Pantai Tanjung Api**
 - **Taman Wisata Mangrove Sebubus**
-- **Batu Nenek** - Titik dua kelapa menjadi ikon utama pariwisata Desa Temajuk saat ini karena mempunyai landsekap yang unik menyerupai daerah belitung
-- **Hutan Mangrove Dusun Maludin** - Kawasan sungai ini juga memiliki keunikan berupa warna air sungai biru tosca ketika pasang air laut dan ditambah dengan barisan hutan bakau disisi sungai.
-- **Resort Camar Bulan** - Resort Camar Bulan merupakan satu kawasan pantai yang terdiri dari spot foto, villa, watersport, tempat makan dan hiburan berupa live music.
-- **Crab Village Temajuk** - Crab Village Temajuk di Desa Temaajuk, Kabupaten Sambas.
-- **Pantai Sungai Belacan** - Pantai Sungai Belacan di Desa Sebubus, Kabupaten Sambas.
+- **Batu Nenek**
+- **Hutan Mangrove Dusun Maludin**
+- **Resort Camar Bulan**
+- **Crab Village Temajuk**
+- **Pantai Sungai Belacan**
 - **Pantai JLO**
 - **Pantai Matang Danau**
 - **Pantai PJM**

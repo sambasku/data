@@ -181,13 +181,13 @@ Objek wisata yang tercatat di wilayah ini:
 
 - **Markas Polisi Belanda**
 - **Rumah Tahanan Belanda**
-- **Makam F.J Sorg** - Makam bersejarah di tengah Kota Pemangkat, peristirahatan terakhir F.J. Sorg, tokoh yang tercatat dalam sejarah kolonial di Kalimantan Barat. Situs ini mengingatkan pada masa lalu Pemangkat yang pernah jadi pusat pemerintahan penting di pesisir Sambas.
-- **Benteng Peninggalan Belanda** - Sisa bangunan benteng Belanda di pusat Kota Pemangkat, bukti kehadiran kolonial di pesisir Sambas pada abad ke-18 dan ke-19. Bangunan batu dengan fondasi kokoh masih berdiri, jadi pengingat masa lalu wilayah ini. Lokasinya dekat dengan pusat kota.
+- **Makam F.J Sorg**
+- **Benteng Peninggalan Belanda**
 - **Sumur Peninggalan Belanda**
 - **Tugu Fasisme**
-- **Pantai Tanjung Batu** - Pantai di Desa Pemangkat Kota, Kecamatan Pemangkat, dengan hamparan pasir yang landai dan air laut yang tenang. Tempat yang pas untuk jalan santai di tepi pantai sambil menunggu matahari terbenam. Aksesnya dekat dari jalan utama Sambas-Pemangkat.
-- **Pantai Sinam** - Pantai di Desa Sinam, Kecamatan Pemangkat, dengan pasir yang agak gelap akibat endapan lumpur dari sungai-sungai kecil di dekatnya. Ombaknya sedang, cocok untuk melihat dinamika laut Kalimantan Barat. Di bagian belakang pantai tumbuh mangrove yang menambah hijau suasana.
-- **Toa Pekong Ular Putih** - Kuil Tionghoa di tengah Kota Pemangkat, tempat ibadah sekaligus bukti budaya masyarakat Tionghoa-Melayu yang sudah lama hidup berdampingan. Arsitekturnya khas Tionghoa dengan atap melengkung, ukiran naga, dan arca ular putih di dalannya.
+- **Pantai Tanjung Batu**
+- **Pantai Sinam**
+- **Toa Pekong Ular Putih**
 - **Toa Pekong Dewi Kwan Im**
 
 ---

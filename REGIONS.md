@@ -42,7 +42,7 @@ pembuatan; regenerasi manual, tidak ada pipeline otomatis.
 
 ## Konsumsi
 
-- Mobile: `regions.json` via CDN jsdelivr (`data@main`), `regions.geojson`
+- Mobile: daftar wilayah lewat `GET /api/v1/regions/catalog` (slug = `id`). `regions.geojson`
   di-bundle sebagai asset (`mobile/assets/data/regions.geojson`).
 - Pencocokan nama polygon <-> kode Kemendagri dilakukan by nama ternormalisasi
   saat pembuatan; hasilnya sudah ter-commit di kedua file.
