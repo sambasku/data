@@ -1,6 +1,6 @@
 # Kecamatan Sajad
 
-Sajad adalah kecamatan dengan laju pertumbuhan penduduk tercepat di Kabupaten Sambas: 1,86% per tahun (BPS 2020-2024), bukti bahwa daerah ini terus menarik pendatang baru. Beribukota di Tengguli, empat desanya dihuni sekitar 14,6 ribu jiwa di wilayah seluas 116 km². Kecamatan pemekaran dari Jawai ini punya akar sejarah kuat: Makam Bantilan, tokoh legendaris Sambas, berada di sini dan menjadi destinasi ziarah. Posisinya di jalur antar kawasan menjadikan Sajad simpul permukiman yang makin berkembang.
+Sajad adalah kecamatan dengan laju pertumbuhan penduduk tercepat di Kabupaten Sambas: 1,86% per tahun (BPS 2020-2024), bukti bahwa daerah ini terus menarik pendatang baru. Beribukota di Tengguli, empat desanya dihuni sekitar 14,6 ribu jiwa di wilayah seluas 116 km². Resmi terbentuk 24 Agustus 2004 sebagai pemekaran dari Kecamatan Sambas, Sajad punya akar sejarah kuat: Makam Bantilan, tokoh legendaris Sambas, berada di sini dan menjadi destinasi ziarah. Posisinya di jalur antar kawasan menjadikan Sajad simpul permukiman yang makin berkembang.
 
 ## Ringkasan
 
@@ -68,8 +68,6 @@ Sajad memiliki 1 PAUD, 1 TK, 9 SD, 3 SMP, dan 1 SMA. Hanya satu PAUD di Sajad ya
 #### Sekolah Menengah Atas
 
 - SMAN 1 Sajad, Desa Tengguli
-
-- http://humassambas.com/kecamatan/sajad/
 
 ## Wisata
 
