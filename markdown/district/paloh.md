@@ -52,8 +52,10 @@ Selama 2016, BMKG Kecamatan Paloh mencatat bahwa suhu udara tertinggi terjadi pa
 
 #### Camat
 Sejak awal dibentuk, Paloh telah dipimpin oleh 20 camat sebagai berikut:
-| Abdullah Barkah | 1963-1965 |
+
+| Camat | Masa jabatan |
 | --- | --- |
+| Abdullah Barkah | 1963-1965 |
 | U. Artagnan Tipan | 1965-1966 |
 | Machmus Mi'radj | 1966-1967 |
 | Sabli H. Umar | 1967 |
@@ -71,15 +73,15 @@ Sejak awal dibentuk, Paloh telah dipimpin oleh 20 camat sebagai berikut:
 | Yudi, S.Sos., M.Si. | 2008-2011 |
 | Usman, S.Sos., M.M. | 2011-2017 |
 | Drs. Suhaimi | 2017-2019 |
-| Ir. Sofiandi, M.Si. |  |
-| 2019-2021 |  |
-| Budi Susanto, S.E. |  |
-| 2021-sekarang |  |
+| Ir. Sofiandi, M.Si. | 2019-2021 |
+| Budi Susanto, S.E. | 2021-sekarang |
 
 #### Wilayah Administratif
 Paloh memiliki 8 desa, 25 dusun, 53 RW, 131 RT. Desa terluas di Paloh adalah Desa Sebubus dan desa terkecil adalah Desa Matang Danau.
-| Kalimantan | 64,87 | 5,65 | 2 | 2 | 10 | Wing |
+
+| Desa | Luas (km²) | Persentase | Dusun | RW | RT | Kepala Desa |
 | --- | --- | --- | --- | --- | --- | --- |
+| Kalimantan | 64,87 | 5,65 | 2 | 2 | 10 | Wing |
 | Matang Danau | 44,01 | 3,83 | 5 | 10 | 21 | Karjono |
 | Tanah Hitam | 126,06 | 10,98 | 3 | 3 | 9 | Sudiar |
 | Malek | 136,70 | 11,90 | 2 | 6 | 13 | Hamidi |
@@ -89,15 +91,17 @@ Paloh memiliki 8 desa, 25 dusun, 53 RW, 131 RT. Desa terluas di Paloh adalah Des
 | Mentibar | 72,58 | 6,32 | 2 | 5 | 12 | Rahmatullah |
 
 Berikut adalah daftar dusun di Kecamatan Paloh:
-| Kalimantan |
-| --- |
-| Matang Danau |
-| Tanah Hitam |
-| Malek |
-| Nibung |
-| Sebubus |
-| Temajuk |
-| Mentibar |
+
+| Desa | Dusun |
+| --- | --- |
+| Kalimantan | Setia, Bhakti |
+| Matang Danau | Pantai Laut, Mariana, Perigi Nyatu, Sederas, Matang Putus |
+| Tanah Hitam | Sinar Medan, Peria, Danau Peradah |
+| Malek | Cemara, Purun |
+| Nibung | Perintis, Mekar, Cempaka |
+| Sebubus | Sebuluh, Melati, Setingga Asin, Setingga Tawar, Jeruju |
+| Temajuk | Maludin, Camar Bulan, Sempadan |
+| Mentibar | Sungai Simpur, Tanjung Pandan |
 
 ### Kependudukan
 Pada tahun 2017, penduduk Kecamatan Paloh sebanyak 25.373 jiwa yang terdiri dari 12.628 laki-laki dan 12.745 perempuan. Desa dengan jumlah penduduk terbanyak adalah Desa Sebubus dan yang paling sedikit adalah Desa Kalimantan. Paloh merupakan kecamatan dengan kepadatan penduduk terkecil kedua di Kabupaten Sambas, yaitu 22 jiwa/Km² atau seperempat dari kepadatan penduduk Kabupaten Sambas. Desa terpadat penduduknya adalah Desa Matang Danau dan terjarang penduduknya adalah Desa Temajuk. Pada tahun 2016, sebanyak 17.330 penduduk telah menerima KTP-el dari total 21.113 penduduk yang wajib memiliki KTP-el.
@@ -107,7 +111,9 @@ Paloh memiliki 12 PAUD, 3 TK, 1 RA, 22 SD, 2 MI, 10 SMP, 1 MTs, 3 SMA, dan 1 SMK
 
 #### Madrasah Ibtidaiyah
 1. MIS Darul Ulum, Desa Matang Danau
-2. MIS YASTI, Desa Mentibar#### Sekolah Dasar
+2. MIS YASTI, Desa Mentibar
+
+#### Sekolah Dasar
 1. SDN 01 Kalimantan
 2. SDN 02 Sebubus
 3. SDN 03 Nibung
@@ -129,7 +135,9 @@ Paloh memiliki 12 PAUD, 3 TK, 1 RA, 22 SD, 2 MI, 10 SMP, 1 MTs, 3 SMA, dan 1 SMK
 19. SDN 19 Temajuk, Dusun Maludin
 20. SDN 20 Sungai Tengah, Desa Sebubus
 21. SDN 21 Merbau, Desa Sebubus
-22. SDN 22 Guntung, Desa Tanah Hitam#### Sekolah Menengah Pertama
+22. SDN 22 Guntung, Desa Tanah Hitam
+
+#### Sekolah Menengah Pertama
 1. SMP Islam Akhlakul Karimah, Sebubus
 2. SMP PGRI 1 Paloh, Matang Danau
 3. SMPN 1 Paloh, Nibung
@@ -139,10 +147,14 @@ Paloh memiliki 12 PAUD, 3 TK, 1 RA, 22 SD, 2 MI, 10 SMP, 1 MTs, 3 SMA, dan 1 SMK
 7. SMPN 5 Paloh, Kalimantan
 8. SMPN 6 Paloh, S Tengah, Ds Sebubus
 9. SMPN 7 Paloh, Malek
-10. SMPN 8 Paloh, Cermai, Ds Sebubus#### Sekolah Menengah Atas
+10. SMPN 8 Paloh, Cermai, Ds Sebubus
+
+#### Sekolah Menengah Atas
 1. SMAN 1 Paloh, Nibung
 2. SMAN 2 Paloh, Temajuk
-3. SMAN 3 Paloh, Merbau ds Sebubus#### Sekolah Menengah Kejuruan
+3. SMAN 3 Paloh, Merbau ds Sebubus
+
+#### Sekolah Menengah Kejuruan
 1. SMKN 1 Paloh, Tanah Hitam
 
 ### Kesehatan

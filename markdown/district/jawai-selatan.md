@@ -32,8 +32,9 @@ Kecamatan Jawai Selatan terbentuk secara resmi pada Hari Selasa tanggal 12 Oktob
 #### Batas wilayah
 Kecamatan Jawai Selatan merupakan kecamatan ketujuh di Kabupaten Sambas yang dibentuk sejak diberlakukannya Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah dengan luas wilayah 93,51 Km2, dengan batas-batas sebagai berikut:
 
-| utara | Kecamatan Jawai |
+| Arah | Berbatasan dengan |
 | --- | --- |
+| utara | Kecamatan Jawai |
 | selatan | Sungai Sambas Besar |
 | timur | Kecamatan Tebas |
 | barat | Laut Natuna |

@@ -20,8 +20,9 @@ Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 #### Letak Geografis dan Batas Wilayah
 Kecamatan Tekarang terletak pada 1°14'13"-1°20'20" LU dan 109°09'16"-109°26'23" BT, tepatnya arah timur dari Kota Sambas. Secara administratif, Kecamatan Tekarang memiliki batas wilayah sebagai berikut:
 
-| utara | Kecamatan Jawai |
+| Arah | Berbatasan dengan |
 | --- | --- |
+| utara | Kecamatan Jawai |
 | selatan | Kecamatan Tebas |
 | timur | Kecamatan Teluk Keramat |
 | barat | Kecamatan Jawai Selatan |
@@ -35,6 +36,7 @@ Sebagaimana kecamatan pada umumnya, Kecamatan Tekarang dipimpin oleh seorang cam
 
 #### Camat
 Berikut adalah daftar Camat Tekarang:
+
 | Camat | Masa jabatan |
 | --- | --- |
 | M. Sherly, S.Sos., M.Si. | 2003-2007 |
@@ -47,8 +49,10 @@ Berikut adalah daftar Camat Tekarang:
 
 #### Wilayah Administratif
 Kecamatan Tekarang dibagi menjadi 7 desa, 21 dusun, 41 RW, dan 85 RT. Desa terluas adalah Desa Merubung dan desa terkecil adalah Desa Cepala. Terkecuali Desa Sari Makmur yang berstatus desa swakarsa dengan LPMD Tipe II, desa lainnya berstatus desa swasembada dengan LPMD Tipe III.
-| Matang Segarau | 9,54 | 11,47 | 2 | 4 | 8 | Ismail |
+
+| Desa | Luas (km²) | Persentase | Dusun | RW | RT | Kepala Desa |
 | --- | --- | --- | --- | --- | --- | --- |
+| Matang Segarau | 9,54 | 11,47 | 2 | 4 | 8 | Ismail |
 | Rambayan | 10,94 | 13,16 | 3 | 5 | 10 | Dildar |
 | Sari Makmur | 13,49 | 16,22 | 4 | 4 | 9 | Suheri |
 | Tekarang | 9,25 | 11,12 | 3 | 6 | 13 | Agus H. Juhdi |

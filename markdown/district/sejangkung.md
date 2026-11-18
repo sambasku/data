@@ -24,8 +24,10 @@ Sejangkung berjarak sekitar 13 km dari pusat pemerintahan Kabupaten Sambas dan 3
 Wilayah Kecamatan Sejangkung dibelah oleh Sungai Sambas Besar dan anak-anak sungainya, yaitu: Sungai Sajingan, Sungai Maklebar, Sungai Al Anas, Sungai Bejongkong, Sungai Sada'an, Sungai Acan, dan Sungai Emas. Sngai-sungai tersebut dapat dilayari oleh motor air yang memiliki berat hingga 10 ton.
 
 ### Batas Administrasi
-| utara | Kecamatan Galing dan Sajingan Besar |
+
+| Arah | Berbatasan dengan |
 | --- | --- |
+| utara | Kecamatan Galing dan Sajingan Besar |
 | selatan | Kecamatan Sambas dan Subah |
 | timur | Kecamatan Sajingan Besar, Kabupaten Sambas dan Kecamatan Seluas, Kabupaten Bengkayang |
 | barat | Kecamatan Galing dan Teluk Keramat |

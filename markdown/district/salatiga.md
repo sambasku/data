@@ -20,14 +20,17 @@ Kecamatan Salatiga dibentuk berdasarkan Peraturan Daerah Kabupaten Sambas Nomor 
 
 ### Batas Wilayah
 Bedasarkan Pasal 7 ayat (1) Perda Kabupaten Sambas Nomor 5 Tahun 2007, Kecamatan Salatiga memiliki batas-batas wilayah sebagai berikut:
-| utara | Kecamatan Pemangkat dan Kecamatan Semparuk |
+
+| Arah | Berbatasan dengan |
 | --- | --- |
+| utara | Kecamatan Pemangkat dan Kecamatan Semparuk |
 | selatan | Kecamatan Selakau |
 | barat | laut Natuna |
 | timur | Kecamatan Semparuk dan Kecamatan Tebas |
 
 ### Wilayah Administrasi
 Bedasarkan Pasal 3 Perda Kabupaten Sambas Nomor 5 Tahun 2007, Kecamatan Salatiga memiliki luas 82,75 Km2, yang terdiri atas 5 (lima) desa sebagai berikut:
+
 | Desa Parit Baru | 25,00 |
 | --- | --- |
 | Desa Sungai Toman | 12,00 |

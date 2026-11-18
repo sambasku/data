@@ -23,6 +23,7 @@ Kecamatan Sebawi berbatasan dengan Kecamatan Sambas di sebelah utara, Kecamatan 
 
 #### Wilayah Administrasi
 Kecamatan Sebawi terdiri atas 7 desa, 19 dusun, 41 rukun warga (RW), dan 90 rukun tetangga (RW). Berikut ini merupakan sebaran desa, dusun, RW, dan RT yang ada di Kecamatan Sebawi.
+
 | Sebangun | 12,87 | 3 | 6 | 14 |
 | --- | --- | --- | --- | --- |
 | Sebawi | 45,00 | 2 | 5 | 10 |
@@ -43,7 +44,9 @@ Sejak dibentuk pada tahun 2004 s/d sekarang pejabat yang duduk sebagai Camat ada
 5. Drs. Syarifuddin, M.Si (2017-2018)
 6. H. Burhanul Purkan, S.E. M.Si (2018-2019)
 7. H. Rahmat, S.IP., M.Si (2019-2022)
-8. Edi Supriadi, AP, M.M. (2022-sekarang)### Kependudukan
+8. Edi Supriadi, AP, M.M. (2022-sekarang)
+
+### Kependudukan
 
 #### Jumlah Penduduk
 Sesuai data Sensus Penduduk tahun 2010, Kecamatan Sebawi memiliki jumlah penduduk sebanyak 15.589 jiwa yang terdiri atas 7.651 laki-laki dan 7.947 perempuan. Desa Sempalai Sebedang merupakan desa yang memiliki penduduk terbanyak (3.107 jiwa), sedangkan Desa Sebangun merupakan desa dengan jumlah penduduk paling sedikit (1.653 jiwa).

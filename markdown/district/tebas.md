@@ -46,8 +46,9 @@ Sejalan dengan perkembangan, yaitu dengan diterbitkannya Peraturan Daerah Kabupa
 ### Batas Wilayah
 Kecamatan Tebas memiliki batas wilayah seperti berikut:
 
-| utara | Kecamatan Sambas |
+| Arah | Berbatasan dengan |
 | --- | --- |
+| utara | Kecamatan Sambas |
 | selatan | Kecamatan Selakau dan Kabupaten Bengkayang |
 | timur | Kecamatan Subah dan Kabupaten Bengkayang |
 | barat | Kecamatan Tekarang dan Semparuk, Sambas |

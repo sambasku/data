@@ -35,8 +35,10 @@ Kecamatan Pemangkat mempunyai sejarah yang tidak bisa dilupakan, antara lain:
 
 ### Batas wilayah
 Batas wilayah Kecamatan Pemangkat adalah sebagai berikut:
-| Utara | Kecamatan Jawai Selatan |
+
+| Arah | Berbatasan dengan |
 | --- | --- |
+| Utara | Kecamatan Jawai Selatan |
 | Selatan | Kecamatan Salatiga |
 | Timur | Kecamatan Semparuk |
 | Barat | Laut Natuna |
