@@ -16,22 +16,12 @@ Pemangkat adalah kecamatan terpadat sekaligus kota pesisir paling hidup di Kabup
 Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 
 ### Pembentukan
-Kecamatan Pemangkat pada masa Kesultanan Sambas dipimpin wakil Sultan, kemudian menjadi Distrik, dipimpin oleh seorang Demang. Sesudah Indonesia merdeka, wilayah Kecamatan Pemangkat terdiri dari Kecamatan Tebas, Kecamatan Jawai, dan Kecamatan Pemangkat. Sampai tahun 1955, wilayah ini dikoordinasi oleh Kawedanan Pemangkat.
 
-Pada tahun 1958, Kawedanan Pemangkat dipecah menjadi 3 kecamatan yang ada hingga sekarang ini, yaitu Kecamatan Pemangkat, Kecamatan Tebas, dan Kecamatan Jawai. Pada masa sekarang dengan pemekaran wilayah, Kecamatan Pemangkat telah dimekarkan lagi menjadi dua Kecamatan, yaitu Kecamatan Pemangkat dan Kecamatan Semparuk.
+Pada masa Kesultanan Sambas, wilayah ini dipimpin wakil Sultan, lalu menjadi Distrik di bawah Demang. Setelah kemerdekaan, koordinasi masih lewat Kawedanan Pemangkat (hingga 1955), yang pada 1958 dipecah menjadi Kecamatan Pemangkat, Tebas, dan Jawai. Pemangkat kemudian dimekarkan lagi: Semparuk (2003) dan Salatiga (2007).
 
 ### Geografis
-Kecamatan Pemangkat terletak di pesisir laut yang langsung menghadap Laut Cina Selatan.
 
-Letak geografis Kecamatan Pemangkat berada pada 1°05'01" - 1°12'14" Lintang Utara dan 108°54'01" - 109°04'49" Bujur Timur.
-Pemangkat mempunyai pemandangan yang sangat indah yang merupakan perpaduan pemandangan gunung, laut, sungai, dan kota. Ciri khas kota ini adalah adanya sebuah gunung yang menyerupai gajah duduk, yang dinamakan Gunung Gajah. Tanjung Batu, Bukit Selindung dan Pantai Sinam merupakan ikon wisata kota pemangkat. Terdapat dua pelabuhan di Pemangkat, yaitu Pelabuhan Sintete dan Pelabuhan Seteher menjadikan Kota Pemangkat ramai dikunjungi orang dari berbagai daerah. Keragaman etnis di kota ini sangat tampak.
-
-### Sejarah
-
-Kecamatan Pemangkat mempunyai sejarah yang tidak bisa dilupakan, antara lain:
-- Pusat kongsi-kongsi penambang emas dari Tiongkok pada masa Kesultanan Sambas.
-- Pada masa Penjajahan Belanda, Pemangkat adalah Benteng Pertahanan yang strategis.
-- Merupakan tempat pendaratan Balatentara Jepang pertama kali di Kalimantan Barat pada tahun 1942.
+Kecamatan Pemangkat menghadap Laut Natuna, pada koordinat 1°05'01" - 1°12'14" Lintang Utara dan 108°54'01" - 109°04'49" Bujur Timur. Landmark-nya Gunung Gajah (bentuk menyerupai gajah duduk), dengan ikon wisata Tanjung Batu, Bukit Selindung, dan Pantai Sinam.
 
 ### Batas wilayah
 Batas wilayah Kecamatan Pemangkat adalah sebagai berikut:
@@ -69,12 +59,15 @@ Dengan diterbitkannya Peraturan Daerah Kabupaten Sambas Nomor 3 Tahun 2003 tenta
 8. Desa Perapakan Besi
 9. Desa Salatiga
 10. Desa Serumpun
-Selanjutnya, dengan pemekaran Kecamatan Salatiga maka desa di Kecamatan Pemangkat menjadi:
+
+Setelah pemekaran Kecamatan Salatiga, desa yang tersisa di Pemangkat:
 1. Desa Pemangkat Kota
 2. Desa Harapan
 3. Desa Penjajab
 4. Desa Jelutung
-5. Desa Perapakan BesiPenambahan desa baru, hasil dari pemekaran desa Pemangkat Kota dan desa Harapan tahun 2015:
+5. Desa Perapakan Besi
+
+Penambahan desa baru hasil pemekaran Desa Pemangkat Kota dan Desa Harapan tahun 2015:
 1. Desa Lonam
 2. Desa Gugah Sejahtera
 3. Desa Sebatuan
@@ -175,8 +168,6 @@ Pemangkat memiliki 11 TK, 1 RA, 31 SD, 2 MI, 9 SMP, 2 MTs, 1 MA, 4 SMA, dan 3 SM
 - SMKN 1 Pemangkat, Desa Penjajab
 - SMKN 2 Pemangkat
 
-- [Situs Resmi Daerah](https://sambas.go.id/)
-
 ## Wisata
 
 Objek wisata yang tercatat di wilayah ini:
@@ -186,7 +177,7 @@ Objek wisata yang tercatat di wilayah ini:
 - **Makam F.J Sorg**
 - **Benteng Peninggalan Belanda**
 - **Sumur Peninggalan Belanda**
-- **Tugu Fasisme**
+- **Tugu Peringatan Perang**
 - **Pantai Tanjung Batu**
 - **Pantai Sinam**
 - **Toa Pekong Ular Putih**

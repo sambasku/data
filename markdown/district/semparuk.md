@@ -15,11 +15,13 @@ Semparuk adalah kecamatan muda dengan kepadatan penduduk tertinggi kedua di Kabu
 
 Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 
-### Pembentukan
-Kecamatan Semparuk merupakan kecamatan keempat di Kabupaten Sambas yang dibentuk sejak diberlakukannya Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah. Kecamatan Semparuk terbentuk secara resmi pada Hari Selasa tanggal 3 Juni 2003 yang merupakan pemekaran dari Kecamatan Pemangkat.
+### Dasar hukum
+
+Pembentukan Semparuk mengacu pada Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah, dilanjutkan Perda Kabupaten Sambas tentang pemekaran dari Kecamatan Pemangkat (resmi 3 Juni 2003).
 
 ### Batas Wilayah
-Di utara, Semparuk dibatasi Sungai Sambas Besar; di selatan berbatasan dengan Kecamatan Selakau. Kecamatan ini juga berbatasan dengan Kota Singkawang, menjadikannya bagian dari aglomerasi perkotaan sisi barat Kabupaten Sambas.
+
+Di utara dibatasi Sungai Sambas Besar; di selatan berbatasan dengan Kecamatan Selakau. Sisi barat menyambung ke Kota Singkawang, sehingga Semparuk masuk aglomerasi perkotaan sisi barat kabupaten.
 
 ---
 

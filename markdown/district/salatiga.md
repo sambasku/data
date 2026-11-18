@@ -1,6 +1,6 @@
 # Kecamatan Salatiga
 
-Salatiga adalah kecamatan kesembilan yang dibentuk di Kabupaten Sambas, Kalimantan Barat, melalui Peraturan Daerah sebagai pemekaran dari Kecamatan Pemangkat. Meski termasuk kecil, 67 km² dengan 5 desa dan sekitar 19 ribu jiwa (BPS 2024), kepadatannya 283 jiwa/km², salah satu tertinggi di kabupaten, karena posisinya yang menyatu dengan kawasan perkotaan Pemangkat. Kecamatan ini juga gerbang menuju kaki Gunung Selindung, dengan Air Terjun Gunung Selindung sebagai daya tarik alamnya yang paling dicari.
+Salatiga adalah kecamatan kecil di sisi kota Pemangkat, Kabupaten Sambas, Kalimantan Barat: 67 km², 5 desa, sekitar 19 ribu jiwa (BPS 2024), dengan kepadatan 283 jiwa/km² - salah satu tertinggi di kabupaten. Posisinya yang menyatu dengan kawasan perkotaan Pemangkat membuatnya cepat tumbuh, sekaligus jadi gerbang menuju kaki Gunung Selindung; Air Terjun Gunung Selindung adalah daya tarik alam yang paling dicari.
 
 ## Ringkasan
 
@@ -16,30 +16,35 @@ Salatiga adalah kecamatan kesembilan yang dibentuk di Kabupaten Sambas, Kalimant
 Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 
 ### Pembentukan
-Kecamatan Salatiga dibentuk berdasarkan Peraturan Daerah Kabupaten Sambas Nomor 5 Tahun 2007 tentang Pembentukan Kecamatan Salatiga dan Kecamatan Selakau Timur tertanggal 13 Juli 2007. Namun, Kecamatan Salatiga dibentuk secara resmi pada 12 Desember 2007.
+
+Kecamatan kesembilan di Kabupaten Sambas, pemekaran dari Kecamatan Pemangkat. Dasarnya Peraturan Daerah Kabupaten Sambas Nomor 5 Tahun 2007 (bersama pembentukan Kecamatan Selakau Timur) tertanggal 13 Juli 2007; peresmian administratif menyusul pada 12 Desember 2007.
 
 ### Batas Wilayah
-Bedasarkan Pasal 7 ayat (1) Perda Kabupaten Sambas Nomor 5 Tahun 2007, Kecamatan Salatiga memiliki batas-batas wilayah sebagai berikut:
+
+Berdasarkan Pasal 7 ayat (1) Perda Kabupaten Sambas Nomor 5 Tahun 2007:
 
 | Arah | Berbatasan dengan |
 | --- | --- |
 | utara | Kecamatan Pemangkat dan Kecamatan Semparuk |
 | selatan | Kecamatan Selakau |
-| barat | laut Natuna |
+| barat | Laut Natuna |
 | timur | Kecamatan Semparuk dan Kecamatan Tebas |
 
 ### Wilayah Administrasi
-Bedasarkan Pasal 3 Perda Kabupaten Sambas Nomor 5 Tahun 2007, Kecamatan Salatiga memiliki luas 82,75 Km2, yang terdiri atas 5 (lima) desa sebagai berikut:
 
-| Desa Parit Baru | 25,00 |
+Berdasarkan Pasal 3 Perda yang sama, luas administratif 82,75 km² (angka Perda; BPS 2024 mencatat 67 km²) dengan lima desa:
+
+| Desa | Luas (km²) |
 | --- | --- |
+| Desa Parit Baru | 25,00 |
 | Desa Sungai Toman | 12,00 |
 | Desa Serumpun | 8,50 |
 | Desa Serunai | 8,25 |
 | Desa Salatiga | 29,00 |
 
 ### Pusat Pemerintahan
-Bedasarkan Pasal 8 Perda Kabupaten Sambas Nomor 5 Tahun 2007, pusat pemerintahan Kecamatan Salatiga berkedudukan di Desa Salatiga.
+
+Berdasarkan Pasal 8 Perda tersebut, pusat pemerintahan berkedudukan di Desa Salatiga.
 
 ### Camat
 Sejak tahun berdirinya (2007), Camat Salatiga yaitu:
@@ -86,12 +91,6 @@ Salatiga memiliki 11 SD, 6 MI, 5 SMP, dan 1 SMA. Seluruh MI di Salatiga berstatu
 #### Sekolah Menengah Atas
 
 - SMAN 1 Salatiga, Desa Serumpun
-
-http://database.kalbarprov.go.id/_wilayah/wilayah_kab.php?61.01
-
-http://sambas.go.id/component/content/article/151/1826-kumpulan-perda-tahun-2007.html
-
-http://humassambas.com/kecamatan/salatiga/
 
 ## Wisata
 

@@ -18,20 +18,20 @@ Kecamatan Sambas adalah ibu kota sekaligus jantung Kabupaten Sambas, Kalimantan 
 Sumber statistik: BPS, *Kabupaten Sambas Dalam Angka 2025* (Tabel 3.1.1).
 
 ### Sejarah
-Orang yang pertama membuka dan mengembangkan Kota Sambas adalah Sultan Muhammad Tajuddin I (Raden Bima, Sultan Sambas ke-2) yang pada sekitar tahun 1683 M memindahkan pusat pemerintahan Kesultanan Sambas dari Lubuk Madung ke Muare Ulakkan (persimpangan sungai Sambas, sungai Teberau dan sungai Subah) yang kemudian berkembang menjadi Kota Sambas sekarang ini. Sehingga perkembangan kota ini berawal dari pusat Kesultanan Sambas yang dahulu berada persis di persimpangan alur Sungai Sambas, Sungai Teberau dan Sungai Subah.
 
-Sekarang Kota Sambas merupakan Ibu Kota Kabupaten Sambas yang secara administratif berada dalam wilayah Kecamatan Sambas. Kecamatan Sambas sering disebut oleh penduduk kabupaten sebagai Kota Sambas, yang juga berslogan "Kota Sambas Terigas". Sambas yang dikenal sekarang merupakan kota pusat pemerintahan Kesultanan Sambas, yang berpusat di Istana Alwatzikoebillah, desa Dalam Kaum.
-Tepat di depan istana berdiri pula sebuah masjid tua yang merupakan salah satu masjid terbesar di Kota Sambas, yaitu Masjid Agung Jami' atau Masjid Sultan Muhammad Syafi'oeddin II.
+Penduduk kabupaten sering menyebut Kecamatan Sambas sebagai "Kota Sambas". Nama itu menunjuk ke pusat pemerintahan Kesultanan yang berpangkal di Istana Alwatzikoebillah (Desa Dalam Kaum) dan Masjid Agung Jami' (Masjid Sultan Muhammad Syafi'oeddin II) di depannya.
 
-Pada zaman pemerintahan Hindia Belanda kecamatan Sambas merupakan sebuah onder afdeeling yang berada di bawah seorang controleur yang disebut Onder Afdeeling Chef (OAC), dan juga merupakan tempat kedudukan Sultan Sambas. Pada zaman pendudukan Jepang kecamatan Sambas berada di bawah kekuasaan seorang Gunco.
+Pada zaman Hindia Belanda, wilayah ini menjadi *onder afdeeling* di bawah *controleur* (Onder Afdeeling Chef / OAC) sekaligus kedudukan Sultan Sambas. Saat pendudukan Jepang, kecamatan ini berada di bawah kekuasaan seorang Gunco.
 
 ### Letak Geografis
-Kecamatan Sambas terletak pada koordinat 1°11'20" - 1°24'48" Lintang Utara dan 109°09'16" - 109°26'23" Bujur Timur. Dengan luas 220 km², wilayah kecamatan Sambas mencakup sekitar 0,64% dari wilayah kabupaten Sambas.
 
-Sementara itu, keberagaman agama dan budaya menjadi bagian dari masyarakat kecamatan Sambas. Berdasarkan data Dukcapil Kabupaten Sambas tahun 2025, 89,07% penduduknya memeluk agama Islam, kemudian Buddha 6,92%, Kekristenan 3,81% (Katolik 2,43% dan Protestan 1,38%), Konghucu 0,19%, dan Hindu 0,01%. Terdapat 74 bangunan masjid, 5 bangunan gereja Protestan, 5 bangunan gereja Katolik, 3 vihara, dan 1 klenteng.
+Kecamatan Sambas terletak pada koordinat 1°11'20" - 1°24'48" Lintang Utara dan 109°09'16" - 109°26'23" Bujur Timur. Dengan luas 220 km², wilayahnya mencakup sekitar 0,64% dari Kabupaten Sambas.
+
+Keberagaman agama tetap terbaca di angka Dukcapil Kabupaten Sambas tahun 2025: Islam 89,07%, Buddha 6,92%, Kekristenan 3,81% (Katolik 2,43% dan Protestan 1,38%), Konghucu 0,19%, dan Hindu 0,01%. Ada 74 masjid, 5 gereja Protestan, 5 gereja Katolik, 3 vihara, dan 1 klenteng.
 
 ### Makanan dan Kerajinan Khas Sambas
-Kota Sambas juga terkenal dengan kain tenunnya, yaitu Kain Tenun Songket Sambas (dikenal pula dengan sebutan Kain Lunggi) yang memiliki berbagai macam corak/motif dan warna. Produksi kain terdapat di desa Jagur dan Sumber Harapan. Kota Sambas memiliki panganan khas, yang paling terkenal adalah Bubbor Paddas (Bubur Pedas). Selain itu juga ada Bubbor Ambo' (Bubur Ambo'), Tempuyyak (Tempoyak), dan Padda'.
+
+Kota Sambas dikenal dengan Kain Tenun Songket Sambas (Kain Lunggi) dengan berbagai corak dan warna; produksi utama di Desa Jagur dan Sumber Harapan. Panganan khas yang paling dikenal adalah Bubbor Paddas (Bubur Pedas), disertai Bubbor Ambo', Tempuyyak (Tempoyak), dan Padda'.
 
 ## Wisata
 
@@ -40,18 +40,21 @@ Objek wisata yang tercatat di wilayah ini:
 - **Istana Alwatzikoebillah**
 - **Masjid Jami Keraton Sambas**
 - **Waterfront Sambas**
+- **Dermaga Wisata Sambas**
 - **Makam Kesultanan Sambas dan Kerabat**
-- **Masjid Jami’**
 - **Bangunan Kantor Kewedanaan Balairung Sari**
 - **Jembatan (Gerattak) Asam**
 - **Jembatan (Gerattak) Batu**
 - **Museum Negeri Sambas**
+- **Museum Khazanah Melayu H. Subhan Nur**
+- **Museum Tamadun Islam**
 - **Kampung Tenun Semberang**
-- **Kawasan Istane Alwatzikhoebillah**
 - **Susur Sungai**
 - **Ramin Bantang Sungai Rambah**
 - **Agro Wisata Buah Nenas**
 - **Taman Lunggi**
+- **Kelenteng Sam Bong Ja Sam San Ket Bong**
+- **Rumah Kediaman H. Sood Datuk Kaya Lela Mahkota**
 
 ---
 
